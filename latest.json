@@ -1,15 +1,15 @@
 {
-  "version": "0.2.2",
-  "tag": "v0.2.2",
+  "version": "0.2.3",
+  "tag": "v0.2.3",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-17",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.2/ReptileShop-Windows-v0.2.2.zip",
-    "sizeBytes": 34838703,
-    "sha256": "e506e6455f7302929267425d7a9082373abf5ebbf2aa4b8d7b1d7b32a33c54f7"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.3/ReptileShop-Windows-v0.2.3.zip",
+    "sizeBytes": 34838770,
+    "sha256": "d2db23e79a69c23bb8127bc2045e74c1a3b8a3a1bfa6ce2411ea4a23bd67592d"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.2.2 — auto-update fungerar nu (kollar release-kanalen i menyn, laddar ner + installerar)."
+  "notes": "Alpha v0.2.3 — testuppdatering för auto-update (versionsnummer visas nu i menyn)."
 }
