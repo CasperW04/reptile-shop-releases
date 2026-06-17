@@ -10,14 +10,37 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 ## [Unreleased]
 
 ### Planerat (nästa version — se `docs/3D-SHOP-PLAN.md`)
-- **Förstaperson + fysisk butik:** gå runt i butiken och placera ut hyllor,
-  terrarier och inredning själv (i stil med TCG Card Shop Simulator).
-- **Huvudmeny:** New Game / Continue / Load / Settings / Quit + changelog-panel.
-- **Sparfiler/slots:** flera namngivna sparfiler, ladda/radera/kopiera.
-- **Auto-update i appen:** spelet kollar GitHub Releases vid start, ser om en
-  nyare version finns och kan ladda ner + installera den själv.
-- Kund-NPC:er med NavMesh, kassa, leveranslådor och daglig öppna/stäng-loop.
-- Blender-genererade assets för miljö och inredning.
+- Andra butiksexpansionen och fler inrednings-/möbeltyper.
+- Riggade kund-NPC:er med gångloop (ersätter procedurell walk-bob).
+- Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
+- Fler arter och resale av tillbehör utöver djur.
+
+## [0.2.0] - 2026-06-17 — Alpha
+
+Förstapersons-omtag: kärnsimuleringen (genetik, ekonomi, husbandry, avel,
+sparning) är oförändrad men spelas nu genom en fysisk butik i förstaperson.
+
+### Added
+- **Förstaperson + fysisk butik:** gå runt i en startlokal (~8×6 m) och
+  interagera med inredning, terrarier och stationer. En expansionsgrind
+  låser upp mer yta vid shop-nivå 5.
+- **Bygg- och placeringsläge:** rutnätsbaserad utplacering (0,5 m-celler) av
+  hyllor, terrarier och inredning; köpt lagervara placeras direkt.
+- **Kund-NPC:er:** kunder rör sig i butiken (NavMesh + procedurell walk-bob),
+  väljer djur och kan påverka butikens rykte som i sin tur skalar trafiken.
+- **Kassa:** enknapps-checkout (Confirm) för att slutföra en försäljning;
+  återköp/refund ger 50 %.
+- **Avelsstation:** para ihop två djur fysiskt i butiken och producera kull
+  via den befintliga avelsmotorn.
+- **Genetik-terminal:** läs av genotyp/het-spårning och morph-info i butiken.
+- **Sparfiler/slots:** flera namngivna sparfiler – skapa, ladda, radera, kopiera.
+- **Huvudmeny:** New Game / Continue / Load / Settings / Quit med changelog-panel.
+- **Auto-update i appen:** spelet kollar release-kanalen vid start, jämför
+  versioner och kan ladda ner + installera en nyare build.
+
+### Unchanged
+- Mendelsk genetikmotor, ekonomi/värdering, husbandry och spara/ladda-format
+  är behållna oförändrade och nås nu via den fysiska butiken.
 
 ## [0.1.0] - 2026-06-17 — Alpha
 
@@ -38,5 +61,6 @@ Första spelbara alphan. Distribuerad som Windows-bygge till playtestare.
 - Progression: shop-nivå 1–20 med upplåsningsgrindar (nivå + cash).
 - Spara/ladda: versionerad JSON (genotyp sparas, fenotyp räknas om vid load).
 
-[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.0
 [0.1.0]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.1.0

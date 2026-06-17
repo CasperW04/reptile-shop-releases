@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "tag": "v0.1.0",
+  "version": "0.2.0",
+  "tag": "v0.2.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-17",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.1.0/ReptileShop-Windows-v0.1.zip",
-    "sizeBytes": 34464891,
-    "sha256": "8b43fc99e0ef13f395abd94ab14251ebe3159440e7486ab09ecd8723b376fd36"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.0/ReptileShop-Windows-v0.2.0.zip",
+    "sizeBytes": 34808755,
+    "sha256": "dd09a73d871300c1b3cea4617e66380dcf0db57fb8cc1810218f8f7a6a9c214c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.1.0 — första spelbara bygget av Reptile Shop."
+  "notes": "Alpha v0.2.0 — förstaperson + fysisk butik, bygg/placering, kunder/kassa, avelsstation, genetik-terminal, sparfiler, huvudmeny och auto-update."
 }
