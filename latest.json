@@ -1,15 +1,15 @@
 {
-  "version": "0.2.5",
-  "tag": "v0.2.5",
+  "version": "0.2.6",
+  "tag": "v0.2.6",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-17",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.5/ReptileShop-Windows-v0.2.5.zip",
-    "sizeBytes": 36848731,
-    "sha256": "ccd32688ed9ba7dd45263de125e0116424c105e23700571f066a4df5a27baa51"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.6/ReptileShop-Windows-v0.2.6.zip",
+    "sizeBytes": 43866960,
+    "sha256": "4fdb6132d3025ccc1f5004fd677cd3ba217c14a350def219065a8782ab63f5ec"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.2.5 — fixar att hela miljön var magenta (Standard-shadern strippades ur bygget)."
+  "notes": "Alpha v0.2.6 — ny proffsig huvudmeny (loopande videobakgrund, ikon, Controls-panel) + fix: bygg-läget gick inte att placera."
 }

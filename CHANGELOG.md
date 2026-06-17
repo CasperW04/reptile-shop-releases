@@ -15,6 +15,21 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.2.6] - 2026-06-17 — Alpha
+
+### Added
+- **Helt ny, proffsig huvudmeny:** loopande tecknad bakgrundsvideo (AI-genererad),
+  spelets ikon som logga-badge, guld/emerald-tema, snyggare knappar med hover-effekt,
+  och en **Controls-panel** med alla key bindings (WASD, mus, Shift, Ctrl, E, B, Esc).
+- Spelets AI-genererade ikon används nu som app-/fönsterikon.
+
+### Fixed
+- **Bygg-läget gick inte att placera (allt rött).** Ett redundant, felplacerat
+  greybox-golv (centrerat på origin) krockade med byggrutnätet (hörn-justerat mot
+  ShopOrigin), så det mesta av det synliga golvet låg utanför bounds → röd ghost
+  överallt. Nu byggs golvet bara av ShopShell (rutnäts-justerat) och spelaren
+  spawnar inne i rummet — objekt går att placera.
+
 ## [0.2.5] - 2026-06-17 — Alpha
 
 ### Fixed
@@ -115,7 +130,8 @@ Första spelbara alphan. Distribuerad som Windows-bygge till playtestare.
 - Progression: shop-nivå 1–20 med upplåsningsgrindar (nivå + cash).
 - Spara/ladda: versionerad JSON (genotyp sparas, fenotyp räknas om vid load).
 
-[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.5...HEAD
+[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.6...HEAD
+[0.2.6]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.6
 [0.2.5]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.5
 [0.2.4]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.4
 [0.2.3]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.3
