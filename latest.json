@@ -1,15 +1,15 @@
 {
-  "version": "0.2.8",
-  "tag": "v0.2.8",
+  "version": "0.2.9",
+  "tag": "v0.2.9",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
-  "releasedAt": "2026-06-17",
+  "releasedAt": "2026-06-18",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.8/ReptileShop-Windows-v0.2.8.zip",
-    "sizeBytes": 43869174,
-    "sha256": "4aa6ebb058254e3e27f27f38b418aa0d4300c89869170c67ad49eaa20ec36b98"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.9/ReptileShop-Windows-v0.2.9.zip",
+    "sizeBytes": 43919058,
+    "sha256": "c6b6b3553c6ee6119abe8cfb679b456f8df911f95db00d596631298c2fcaaa22"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.2.8 — bygg-läge: klicka för att placera (+R rotera), mark utanför butiken (ingen fall-bugg), och fungerande Settings (fullscreen/upplösning/VSync)."
+  "notes": "Alpha v0.2.9 — riktig möbelkatalog, kund-efterfrågan på morpher, ljud, liv i butiken (dekor/ljus), djupare avel/genetik och ekonomibalans."
 }

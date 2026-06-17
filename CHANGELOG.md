@@ -15,6 +15,21 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.2.9] - 2026-06-18 — Alpha
+
+### Added
+- **Riktig möbelkatalog** i bygg-läget (namngivna fixtures: terrarier, racks, disk,
+  inkubator, avelsstation, terminal, hyllor, dekor) istället för greybox-fallback.
+- **Kunder vill ha specifika morpher** — efterfrågan styrs av sällsynthet + värde.
+- **Liv i butiken** — ormbunkar, hängande skyltar, pendellampor och varma ljus.
+- **Ljud** — subtila cues vid placering, försäljning, kläckning, skötsel, dag öppna/stänga, UI.
+- **Djupare avel/genetik** — rikare hatch-reveal + Punnett/het-utläsning i genetik-terminalen.
+- **Ekonomibalans** — kundtrafik, hyra, priser och XP-pacing justerade.
+- (Asset) **Breeder Rack-modell** (Small, 6 tubs) genererad i Blender — kopplas in i spelet i ett kommande steg.
+
+### Changed
+- Tester: EditMode 366/366, PlayMode 22/22 gröna.
+
 ## [0.2.8] - 2026-06-17 — Alpha
 
 ### Added
@@ -150,7 +165,8 @@ Första spelbara alphan. Distribuerad som Windows-bygge till playtestare.
 - Progression: shop-nivå 1–20 med upplåsningsgrindar (nivå + cash).
 - Spara/ladda: versionerad JSON (genotyp sparas, fenotyp räknas om vid load).
 
-[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.8...HEAD
+[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.9...HEAD
+[0.2.9]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.9
 [0.2.8]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.8
 [0.2.7]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.7
 [0.2.6]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.6
