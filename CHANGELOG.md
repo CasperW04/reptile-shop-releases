@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.2.5] - 2026-06-17 — Alpha
+
+### Fixed
+- **"Allt är magenta"-buggen fixad.** Miljön (golv, väggar, inredning) renderades
+  helt rosa/magenta i Windows-bygget eftersom den inbyggda `Standard`-shadern
+  strippades ur bygget — den refereras bara i runtime via `Shader.Find`, så Unity
+  tog bort den och `Shader.Find` returnerade null. Bygget pinnar nu `Standard` +
+  `Sprites/Default` så de alltid följer med. (Syntes aldrig i Mac-editorn, som har
+  alla shaders inladdade — bara i den faktiska Windows-buildt.)
+
+### Kontroller (påminnelse)
+- **WASD** gå · **mus** titta · **E** interagera · **B** bygg-läge · **Esc** paus/meny.
+
 ## [0.2.4] - 2026-06-17 — Alpha
 
 ### Fixed
@@ -102,7 +115,8 @@ Första spelbara alphan. Distribuerad som Windows-bygge till playtestare.
 - Progression: shop-nivå 1–20 med upplåsningsgrindar (nivå + cash).
 - Spara/ladda: versionerad JSON (genotyp sparas, fenotyp räknas om vid load).
 
-[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.4...HEAD
+[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.5...HEAD
+[0.2.5]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.5
 [0.2.4]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.4
 [0.2.3]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.3
 [0.2.2]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.2
