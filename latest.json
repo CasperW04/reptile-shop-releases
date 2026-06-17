@@ -1,15 +1,15 @@
 {
-  "version": "0.2.7",
-  "tag": "v0.2.7",
+  "version": "0.2.8",
+  "tag": "v0.2.8",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-17",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.7/ReptileShop-Windows-v0.2.7.zip",
-    "sizeBytes": 43867844,
-    "sha256": "d33cd0f6f2ebbc9a9daae9242a247a5196c28d18ed8d1e2d00390728d3c7ac69"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.8/ReptileShop-Windows-v0.2.8.zip",
+    "sizeBytes": 43869174,
+    "sha256": "4aa6ebb058254e3e27f27f38b418aa0d4300c89869170c67ad49eaa20ec36b98"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.2.7 — Discord-knapp i menyn + changeloggen som scrollbar UPDATES-ruta uppe till höger."
+  "notes": "Alpha v0.2.8 — bygg-läge: klicka för att placera (+R rotera), mark utanför butiken (ingen fall-bugg), och fungerande Settings (fullscreen/upplösning/VSync)."
 }
