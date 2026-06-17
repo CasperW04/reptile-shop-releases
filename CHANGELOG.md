@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.2.10] - 2026-06-18 — Alpha
+
+### Added
+- **Riktiga 3D-modeller i butiken** — Blender-konsten (terrarier, disk, hyllor, racks m.m.)
+  renderas nu i spelet istället för greybox-klossar.
+- **Breeder Racks i 4 storlekar** — Small (6 tubs), Medium (15), Large (30), Mega (50) i katalogen.
+- **Tutorial** — 6-stegs guidning för nya spelare första gången.
+- **Ny art: Western Hognose** (4:e arten) med egna gener och morpher.
+
+### Fixed
+- Art-import: `.glb`-material binds nu korrekt till built-in Standard-shadern (gltfast-importen
+  triggade aldrig den gamla material-rebinden → allt låg på fel shader). Verifierat **0 URP-shaders**
+  i bygget — ingen magenta.
+
 ## [0.2.9] - 2026-06-18 — Alpha
 
 ### Added
@@ -165,7 +179,8 @@ Första spelbara alphan. Distribuerad som Windows-bygge till playtestare.
 - Progression: shop-nivå 1–20 med upplåsningsgrindar (nivå + cash).
 - Spara/ladda: versionerad JSON (genotyp sparas, fenotyp räknas om vid load).
 
-[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.9...HEAD
+[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.10...HEAD
+[0.2.10]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.10
 [0.2.9]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.9
 [0.2.8]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.8
 [0.2.7]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.7

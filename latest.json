@@ -1,15 +1,15 @@
 {
-  "version": "0.2.9",
-  "tag": "v0.2.9",
+  "version": "0.2.10",
+  "tag": "v0.2.10",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-18",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.9/ReptileShop-Windows-v0.2.9.zip",
-    "sizeBytes": 43919058,
-    "sha256": "c6b6b3553c6ee6119abe8cfb679b456f8df911f95db00d596631298c2fcaaa22"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.10/ReptileShop-Windows-v0.2.10.zip",
+    "sizeBytes": 44041996,
+    "sha256": "868fdd23c74a09d2b692d3b3cc57f414b0661b49585cbf49d3a09bd94f74c136"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.2.9 — riktig möbelkatalog, kund-efterfrågan på morpher, ljud, liv i butiken (dekor/ljus), djupare avel/genetik och ekonomibalans."
+  "notes": "Alpha v0.2.10 — riktiga 3D-modeller i butiken (slut på greybox), Breeder Racks i 4 storlekar, tutorial och en 4:e art (Western Hognose)."
 }
