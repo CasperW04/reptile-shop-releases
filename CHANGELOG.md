@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.2.1] - 2026-06-17 — Alpha
+
+### Fixed
+- **Förstaperson visas nu faktiskt.** v0.2.0 byggde förstapersons-världen men
+  ritade fortfarande den gamla heltäckande UI-dashboarden ovanpå (opak,
+  sortingOrder 100), så spelet såg ut precis som den gamla UI-versionen. Den
+  gamla dashboarden byggs inte längre på spelvägen — du spawnar in i butiken i
+  förstaperson med en transparent HUD (hårkors, prompt, plånbok/dag).
+- Lade till ett PlayMode-regressionstest som bygger världen och säkerställer att
+  ingen opak UI döljer 3D-vyn (skulle ha fångat v0.2.0-buggen).
+
 ## [0.2.0] - 2026-06-17 — Alpha
 
 Förstapersons-omtag: kärnsimuleringen (genetik, ekonomi, husbandry, avel,
@@ -61,6 +72,7 @@ Första spelbara alphan. Distribuerad som Windows-bygge till playtestare.
 - Progression: shop-nivå 1–20 med upplåsningsgrindar (nivå + cash).
 - Spara/ladda: versionerad JSON (genotyp sparas, fenotyp räknas om vid load).
 
-[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.0...HEAD
+[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.1...HEAD
+[0.2.1]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.1
 [0.2.0]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.0
 [0.1.0]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.1.0
