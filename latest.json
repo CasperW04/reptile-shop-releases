@@ -1,15 +1,15 @@
 {
-  "version": "0.2.6",
-  "tag": "v0.2.6",
+  "version": "0.2.7",
+  "tag": "v0.2.7",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-17",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.6/ReptileShop-Windows-v0.2.6.zip",
-    "sizeBytes": 43866960,
-    "sha256": "4fdb6132d3025ccc1f5004fd677cd3ba217c14a350def219065a8782ab63f5ec"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.7/ReptileShop-Windows-v0.2.7.zip",
+    "sizeBytes": 43867844,
+    "sha256": "d33cd0f6f2ebbc9a9daae9242a247a5196c28d18ed8d1e2d00390728d3c7ac69"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.2.6 — ny proffsig huvudmeny (loopande videobakgrund, ikon, Controls-panel) + fix: bygg-läget gick inte att placera."
+  "notes": "Alpha v0.2.7 — Discord-knapp i menyn + changeloggen som scrollbar UPDATES-ruta uppe till höger."
 }

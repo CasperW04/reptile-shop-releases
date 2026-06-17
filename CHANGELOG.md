@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.2.7] - 2026-06-17 — Alpha
+
+### Added
+- **Discord:** en "Join our Discord"-knapp i menyns nedre hörn som öppnar vår
+  officiella server.
+
+### Changed
+- Changeloggen visas nu som en liten scrollbar **UPDATES**-ruta uppe till höger i
+  huvudmenyn (istället för en egen sida) och listar bara faktiska släppta versioner.
+
 ## [0.2.6] - 2026-06-17 — Alpha
 
 ### Added
@@ -130,7 +140,8 @@ Första spelbara alphan. Distribuerad som Windows-bygge till playtestare.
 - Progression: shop-nivå 1–20 med upplåsningsgrindar (nivå + cash).
 - Spara/ladda: versionerad JSON (genotyp sparas, fenotyp räknas om vid load).
 
-[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.6...HEAD
+[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.7...HEAD
+[0.2.7]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.7
 [0.2.6]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.6
 [0.2.5]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.5
 [0.2.4]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.4
