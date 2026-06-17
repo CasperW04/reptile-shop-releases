@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "channel": "alpha",
+  "mandatory": false,
+  "minSupportedVersion": "0.1.0",
+  "releasedAt": "2026-06-17",
+  "windows": {
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.1.0/ReptileShop-Windows-v0.1.zip",
+    "sizeBytes": 34464891,
+    "sha256": "8b43fc99e0ef13f395abd94ab14251ebe3159440e7486ab09ecd8723b376fd36"
+  },
+  "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
+  "notes": "Alpha v0.1.0 — första spelbara bygget av Reptile Shop."
+}
