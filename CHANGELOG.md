@@ -15,6 +15,32 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.2.11] - 2026-06-18 — Alpha
+
+Stor kod-granskning: **44 buggar** hittade + adversariellt verifierade, ~40 fixade.
+EditMode **422/422**, PlayMode 22/22, bygget grönt.
+
+### Fixed (urval)
+- **Läckor vid meny → nytt spel → meny (kritiskt):** moduler, objekt och event-prenumerationer
+  städades inte → de staplades och kördes mot förstörda objekt (allt sämre ju fler omstarter).
+  Nu rivs hela världen via en enda container, EventBus rensas och moduler Dispose:as korrekt.
+- **Klockan synkade inte vid Load** — TimeService seedades aldrig från sparfilen + CurrentTick
+  frös under spel → dag-räknaren drev isär.
+- **Input aktiv i paus/meny** — B/E/vänsterklick/R påverkade världen bakom paus-overlayen.
+- **Settings/Controls "Back"** gick alltid till huvudmenyn (även från in-game paus) → kunde
+  råka starta nytt spel utan att spara.
+- **Tutorial-deadlock** — steg 1 ("Walk to the counter") kunde aldrig slutföras.
+- **Ekonomi:** daglig el-kostnad drogs aldrig; negativa köp/sälj gav gratis djur/pengar;
+  kund-köp rullades aldrig som sannolikhet (varje chans = garanterad sälj).
+- **Genetik:** recessiva allel-komplex-het:ar namngavs felaktigt som synliga morpher.
+- **Placering:** slot-mappning använde fel formel (kunde radera giltiga placeringar vid load);
+  roterade icke-kvadratiska terrarier hamnade snett.
+- **Save:** autospara innan världen rivs vid byte; v1→v2-migration spawnade i hörnet.
+- **Kunder/NavMesh:** kö-buggar, off-mesh-pathing, agent-warp-ordning, städning vid quit-to-menu.
+- **Meny/uppdaterare:** video-RenderTexture frigjordes aldrig; upplösnings-dropdown defaultade fel;
+  sha256-jämförelse + SemVer-kontrakt i auto-updatern.
+- …och fler (~40 totalt).
+
 ## [0.2.10] - 2026-06-18 — Alpha
 
 ### Added
@@ -179,7 +205,8 @@ Första spelbara alphan. Distribuerad som Windows-bygge till playtestare.
 - Progression: shop-nivå 1–20 med upplåsningsgrindar (nivå + cash).
 - Spara/ladda: versionerad JSON (genotyp sparas, fenotyp räknas om vid load).
 
-[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.10...HEAD
+[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.11...HEAD
+[0.2.11]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.11
 [0.2.10]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.10
 [0.2.9]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.9
 [0.2.8]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.8
