@@ -15,6 +15,24 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.0] - 2026-06-18 — Alpha — "Dator, Marknad & Inventory"
+
+Stort innehållslyft. EditMode 610/610, PlayMode 22/22.
+
+### Added
+- **🖥️ Dator i butiken** — vänsterklicka (eller E) på datorn för att öppna en dator-vy med appar.
+- **🛒 Reptile Marketplace** — köp reptiler från andra uppfödare (genererade arter/morpher/het/
+  kvalitet, säljare, pris). Köpta djur hamnar i ditt inventory.
+- **🎒 9-slots hotbar-inventory** (Minecraft-stil) — växla med tangent **1-9** eller mushjul. Du
+  **håller djuret i handen** (syns vid handen). Sparas i sparfilen.
+- **✋ Placera från handen** — håll ett djur och titta på ett **terrarium → placeras för försäljning**;
+  titta på en **breeding rack → placeras för avel**.
+- **🕗 Klocka + veckodag** i HUD:en. Butiken **öppnar automatiskt 08:00**.
+- **🌙 Dag-summering kl 18:00** (sålt / intäkter / kunder idag) med **Next Day → 07:45**.
+
+### Changed
+- Save-schema **v3** (additiva fält för inventory + klocka; gamla sparfiler migreras automatiskt).
+
 ## [0.2.12] - 2026-06-18 — Alpha
 
 ### Added
@@ -218,7 +236,8 @@ Första spelbara alphan. Distribuerad som Windows-bygge till playtestare.
 - Progression: shop-nivå 1–20 med upplåsningsgrindar (nivå + cash).
 - Spara/ladda: versionerad JSON (genotyp sparas, fenotyp räknas om vid load).
 
-[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.2.12...HEAD
+[Unreleased]: https://github.com/CasperW04/reptile-shop/compare/v0.3.0...HEAD
+[0.3.0]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.3.0
 [0.2.12]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.12
 [0.2.11]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.11
 [0.2.10]: https://github.com/CasperW04/reptile-shop/releases/tag/v0.2.10

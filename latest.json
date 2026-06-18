@@ -1,15 +1,15 @@
 {
-  "version": "0.2.12",
-  "tag": "v0.2.12",
+  "version": "0.3.0",
+  "tag": "v0.3.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-18",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.12/ReptileShop-Windows-v0.2.12.zip",
-    "sizeBytes": 44065538,
-    "sha256": "ebe0404599eba6a3a384ca40c7020f21bab84328ea4e547210a32c3af1cd311a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.0/ReptileShop-Windows-v0.3.0.zip",
+    "sizeBytes": 44164192,
+    "sha256": "bbb0096871de72e6fc7abc01f851c1be329e0b4ae9aa63bb44abdf58d173322e"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.2.12 — öppna butiken med O, kontroll-hint på skärmen, du fastnar inte på mattor längre, och kassan står upprätt."
+  "notes": "Alpha v0.3.0 — Dator + Reptile Marketplace (köp från andra uppfödare), 9-slots hotbar-inventory (1-9, håll djuret i handen), placera för sälj/avel, dygnsklocka + veckodag + dag-summering."
 }
