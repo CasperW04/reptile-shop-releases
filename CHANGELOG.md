@@ -15,6 +15,27 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.1] - 2026-06-18 — Alpha — "Allt funkar nu"
+
+Buggfix-release med fokus på att allt faktiskt fungerar i körning, plus åtgärder från
+speltestarnas rapport. EditMode 610/610, PlayMode 38/38 (riktiga flöden drivs i integrationstest).
+
+### Fixed
+- **✋ Gick inte att placera djur i terrarium / breeding rack** — interaktions- och placerings-
+  komponenterna kopplades aldrig på de spawnade vyerna (AttachTo-seamsen anropades aldrig). Nu
+  wirat via ett `WorldViewSpawnedEvent` så terrarier, breeding racks och disken blir interaktiva
+  direkt de byggs.
+- **🩺 E på ett terrarium** öppnar nu skötselpanelen (husbandry care).
+- **🧬 E på disken** öppnar nu genetik-terminalen.
+- **🕗 Klockan auto-öppnar nu butiken 08:00** (klock-modulen installerades före dygnscykeln och
+  fick `null`-service → 08:00/18:00-hoppen blev tysta no-ops).
+- **🖐️ Held-reptilen i handen** städas nu bort korrekt när handen töms (meshen blev kvar förut).
+- **🧱 Bygg-ghosten** kunde felaktigt visa "OutOfBounds" på öppet golv (för snäv raycast-räckvidd).
+- **🖱️ Musen syns nu i bygg-läget** så katalogen går att klicka (frigörs/återlåses vid på/av).
+- **🪧 Butiksskylten** satt i dörröppningen — sitter nu på väggen bredvid entrén.
+- **🟫 Kassadisken låg ner** — runtime laddade en gammal modell-kopia; nu står disken upp rätt.
+- **🖥️ Datorns hitbox** täcker nu hela datorn inkl. skärmen, så crosshairet registrerar var du än siktar.
+
 ## [0.3.0] - 2026-06-18 — Alpha — "Dator, Marknad & Inventory"
 
 Stort innehållslyft. EditMode 610/610, PlayMode 22/22.
