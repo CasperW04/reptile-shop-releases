@@ -1,15 +1,15 @@
 {
-  "version": "0.2.11",
-  "tag": "v0.2.11",
+  "version": "0.2.12",
+  "tag": "v0.2.12",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-18",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.11/ReptileShop-Windows-v0.2.11.zip",
-    "sizeBytes": 44044033,
-    "sha256": "ba6208714580a84da0eae5ea52f37752001cb716658d14263bbd2d4a1b9dad33"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.2.12/ReptileShop-Windows-v0.2.12.zip",
+    "sizeBytes": 44065538,
+    "sha256": "ebe0404599eba6a3a384ca40c7020f21bab84328ea4e547210a32c3af1cd311a"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.2.11 — stor kod-granskning: ~40 buggar fixade (läckor vid omstart, klock-desync, input i paus, tutorial-deadlock, ekonomi, genetik, placering, save, kunder m.m.). EditMode 422/422."
+  "notes": "Alpha v0.2.12 — öppna butiken med O, kontroll-hint på skärmen, du fastnar inte på mattor längre, och kassan står upprätt."
 }
