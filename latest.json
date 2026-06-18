@@ -1,15 +1,15 @@
 {
-  "version": "0.3.1",
-  "tag": "v0.3.1",
+  "version": "0.3.2",
+  "tag": "v0.3.2",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-18",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.1/ReptileShop-Windows-v0.3.1.zip",
-    "sizeBytes": 44160328,
-    "sha256": "d267efa529f65cf8a3bed1c61f844b71e366192bd682f60b1405adc9779c487d"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.2/ReptileShop-Windows-v0.3.2.zip",
+    "sizeBytes": 44160898,
+    "sha256": "5d0a8d49761d9caefc83eb9375cdc0c6172643e81d35b2ef3c3af568c3d8a4cb"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.1 — Allt funkar nu: placera djur i terrarium/breeding rack, husbandry + terminal via E, klockan auto-öppnar 08:00, samt speltestar-fixar (mus i byggmeny, skylt på vägg, kassadisk upprätt, dator-hitbox)."
+  "notes": "Alpha v0.3.2 — Placering på riktigt: går nu att lägga djur i terrarium/rack oavsett var crosshairet träffar, med tydlig placerings-prompt + feedback."
 }

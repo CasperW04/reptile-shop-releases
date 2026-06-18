@@ -15,6 +15,23 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.2] - 2026-06-18 — Alpha — "Placering på riktigt"
+
+Hotfix för speltestar-rapporten: det gick fortfarande inte att placera djur i terrariet.
+EditMode 610/610, PlayMode 39/39 (nytt troget integrationstest som driver den RIKTIGA strålen
+mot fixtur-collidern — det som tidigare tester missade).
+
+### Fixed
+- **✋ Gick fortfarande inte att lägga djur i terrarium/rack.** Ett placerat terrarium har TVÅ
+  överlappande vyer: `EnclosureView` (där placerings-målet satt) och `PlaceableObjectView` (den
+  solida footprint-collidern som crosshair-strålen oftast träffar). För det redan utplacerade
+  start-terrariet kunde målet saknas på den vy strålen faktiskt träffade → tyst miss. Placeringen
+  resolvar nu terrariet från **vilken som helst** av vyerna (läser enclosure-index direkt).
+- **🖱️ Tydlig placerings-prompt** — när du håller ett djur och tittar på ett terrarium/rack visas
+  nu "Vänsterklick: Placera djuret här", så det syns hur man gör (ingen meny behövs).
+- **💬 Feedback istället för tyst miss** — klickar du med ett djur i handen utan att sikta rätt får
+  du nu en hint ("Sikta på ett terrarium eller en rack och vänsterklicka") i stället för ingenting.
+
 ## [0.3.1] - 2026-06-18 — Alpha — "Allt funkar nu"
 
 Buggfix-release med fokus på att allt faktiskt fungerar i körning, plus åtgärder från
