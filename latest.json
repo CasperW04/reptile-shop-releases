@@ -11,5 +11,5 @@
     "sha256": "0694cd77e692e94e93909c94beb04e87e4468c7e413a9cae020cef8e8d9c5d28"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "[0.3.4] - 2026-06-20 — Alpha — "Djurhantering 2/10: skötsel överallt""
+  "notes": "Alpha v0.3.4 - Djurhantering 2/10: E pa terrarium oppnar skotsel aven nar crosshairet traffar bygg-vyns collider."
 }
