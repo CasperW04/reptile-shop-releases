@@ -15,6 +15,21 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.9] - 2026-06-20 — Alpha — "Djurhantering 7/10: plocka tillbaka djur"
+
+### Added
+- **🤚 Högerklicka på ett terrarium/rack för att plocka upp** det senast placerade djuret tillbaka i
+  hotbaren — så du kan flytta om eller sälja det någon annanstans. Djuret avlistas från försäljning,
+  slot:en frigörs och modellen tas bort ur terrariet (den syns i handen igen).
+
+### Quality of life
+- **⌨️ Kontroll-hinten visar nu placering & upplockning** ("Vänsterklick Placera · Högerklick Plocka upp"),
+  på svenska, så hela hanteringsloopen är synlig längst ner.
+
+### Tested
+- Nytt PlayMode-test avfyrar det riktiga högerklick-inputet och verifierar att djuret återvänder till
+  hotbaren (slot rensad, avlistad). EditMode 610/610, PlayMode 46/46.
+
 ## [0.3.8] - 2026-06-20 — Alpha — "Djurhantering 6/10: kunder köper & terrariet töms"
 
 ### Fixed
