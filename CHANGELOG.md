@@ -15,6 +15,21 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.3] - 2026-06-20 — Alpha — "Djurhantering 1/10: räckvidd + äkta verifiering"
+
+Första av 10 iterationer som gör djurhantering + placering genuint perfekt. Fokus: verifiera den
+RIKTIGA klick-kedjan (inget fejk-grönt) och göra placeringen mindre petig. EditMode 610/610, PlayMode 40/40.
+
+### Changed
+- **🖱️ Generösare placerings-räckvidd (3,5 m → 5 m).** Du kan nu släppa ett djur i terrariet från
+  normalt stå-avstånd, inte bara på nära håll. Vänsterklick hanteras direkt från confirm-handlingen med
+  egen räckvidd istället för att begränsas av interaktions-strålen.
+
+### Tested (så det inte "låtsas funka")
+- Nya integrationstester driver det **literala** `ConfirmPressed`-input-eventet genom hela kedjan
+  (input → fan-out → raycast → placering) och verifierar att ett djur landar i terrariet både på
+  1,5 m och **4,5 m** (bortom gamla räckvidden). Tidigare tester anropade en stub och missade detta.
+
 ## [0.3.2] - 2026-06-18 — Alpha — "Placering på riktigt"
 
 Hotfix för speltestar-rapporten: det gick fortfarande inte att placera djur i terrariet.

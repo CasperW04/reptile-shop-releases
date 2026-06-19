@@ -1,15 +1,15 @@
 {
-  "version": "0.3.2",
-  "tag": "v0.3.2",
+  "version": "0.3.3",
+  "tag": "v0.3.3",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
-  "releasedAt": "2026-06-18",
+  "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.2/ReptileShop-Windows-v0.3.2.zip",
-    "sizeBytes": 44160898,
-    "sha256": "5d0a8d49761d9caefc83eb9375cdc0c6172643e81d35b2ef3c3af568c3d8a4cb"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.3/ReptileShop-Windows-v0.3.3.zip",
+    "sizeBytes": 44161018,
+    "sha256": "3330d9081cd5ad831e500d450a0c389653877791f178899c5776f0d0e7f3bea6"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.2 — Placering på riktigt: går nu att lägga djur i terrarium/rack oavsett var crosshairet träffar, med tydlig placerings-prompt + feedback."
+  "notes": "Alpha v0.3.3 — Djurhantering 1/10: generösare placerings-räckvidd (5 m, placera från normalt avstånd) + äkta full-stack-verifiering av klick→placering."
 }
