@@ -1,15 +1,15 @@
 {
-  "version": "0.3.9",
-  "tag": "v0.3.9",
+  "version": "0.3.10",
+  "tag": "v0.3.10",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.9/ReptileShop-Windows-v0.3.9.zip",
-    "sizeBytes": 44164046,
-    "sha256": "53c6db7f3978775174fd7c7bb72f31e206e69d8d46b83e977acda58ebd27b16e"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.10/ReptileShop-Windows-v0.3.10.zip",
+    "sizeBytes": 44164203,
+    "sha256": "1074aba6bf24f8a52139cf34c3b920f8e1ad995f7def4761904f99149b81614c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.9 - Djurhantering 7/10: hogerklicka pa ett terrarium for att plocka upp det senast placerade djuret tillbaka i hotbaren."
+  "notes": "Alpha v0.3.10 - Djurhantering 8/10: ett kopt djur valjs nu automatiskt i hotbaren (du haller det direkt), plus end-to-end-verifiering av hela kop-placera-salj-loopen."
 }

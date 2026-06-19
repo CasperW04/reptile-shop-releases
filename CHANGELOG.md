@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.10] - 2026-06-20 — Alpha — "Djurhantering 8/10: hela loopen"
+
+### Quality of life
+- **🛍️ När du köper ett djur i Reptile Marketplace väljs hotbar-sloten automatiskt** — du håller direkt
+  det du köpt och kan gå fram och placera det utan att leta efter rätt siffertangent.
+
+### Tested
+- Nytt end-to-end PlayMode-test driver HELA djurhanteringsloopen genom de riktiga tjänsterna:
+  köp i marketplace → djuret hamnar i handen → placera i terrarium för försäljning → sälj (som en
+  kund-checkout). Verifierar att pengar, lager och hotbar flödar rätt hela vägen. EditMode 610/610, PlayMode 47/47.
+
 ## [0.3.9] - 2026-06-20 — Alpha — "Djurhantering 7/10: plocka tillbaka djur"
 
 ### Added
