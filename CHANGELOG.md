@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.5] - 2026-06-20 — Alpha — "Djurhantering 3/10: reptilen syns i terrariet"
+
+### Fixed
+- **🦎 En reptil placerad från hotbaren syns nu FYSISKT inne i terrariet.** Förut landade djuret bara
+  i databasen men ingen modell visades — koden återanvände "i-handen"-modellen, som förstörs när djuret
+  lämnar hotbaren, så sloten blev tom. Nu spawnas en riktig world-modell i terrariets slot.
+
+### Quality of life
+- **💬 Placerings-toasten namnger djuret** — "Enigma placerad till försäljning." istället för en generisk text.
+
+### Tested
+- Nytt PlayMode-test placerar ett hotbar-djur och verifierar att en reptil-modell faktiskt parentas in
+  i terrariets slot-ankare (childCount > 0). EditMode 610/610, PlayMode 42/42.
+
 ## [0.3.4] - 2026-06-20 — Alpha — "Djurhantering 2/10: skötsel överallt"
 
 ### Fixed
