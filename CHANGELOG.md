@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.7] - 2026-06-20 — Alpha — "Djurhantering 5/10: platser & överblick"
+
+### Quality of life
+- **🔢 Placerings-prompten visar hur fullt det är** — "Vänsterklick: Placera till försäljning **(2/4)**" —
+  så du ser direkt om det finns plats kvar i terrariet/racken innan du klickar.
+
+### Tested
+- Nytt PlayMode-test verifierar att placerings-målet exponerar sitt enclosure-index och att
+  beläggningen ökar med ett per placering. EditMode 610/610, PlayMode 44/44.
+
 ## [0.3.6] - 2026-06-20 — Alpha — "Djurhantering 4/10: avel vs försäljning"
 
 ### Fixed
