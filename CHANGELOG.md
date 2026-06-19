@@ -15,6 +15,21 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.12] - 2026-06-20 — Alpha — "Djurhantering 10/10: slutpass"
+
+Sista av 10 iterationer som gör djurhantering + terrarie-placering genuint perfekt. Hela testsviten grön:
+**EditMode 610/610, PlayMode 49/49** — där placerings-/hanteringsflödena drivs av tester som kör den
+RIKTIGA runtime-kedjan (literala input-event → raycaster → tjänster), inte stubbar.
+
+### Quality of life
+- **🚫 Prompten säger tydligt "Fullt — ingen plats kvar"** när du siktar på ett fullt terrarium/rack med
+  ett djur i handen, så du inte klickar i onödan.
+
+### Hela loopen (0.3.3 → 0.3.12), kort
+Placera från normalt avstånd · E öppnar skötsel överallt · djuret syns i terrariet · rack = avel /
+terrarium = sälj · beläggning (2/4) i prompten · sålda djur försvinner · högerklick plockar upp ·
+köp auto-väljer slot · konsekvent håll-tillstånd · full-terrarium-feedback.
+
 ## [0.3.11] - 2026-06-20 — Alpha — "Djurhantering 9/10: konsistent håll-tillstånd"
 
 ### Fixed

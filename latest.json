@@ -1,15 +1,15 @@
 {
-  "version": "0.3.11",
-  "tag": "v0.3.11",
+  "version": "0.3.12",
+  "tag": "v0.3.12",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.11/ReptileShop-Windows-v0.3.11.zip",
-    "sizeBytes": 44164358,
-    "sha256": "c74df0d61d340011313ff0f0a368eed0af414afdc307390cad8070b5916f09fd"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.12/ReptileShop-Windows-v0.3.12.zip",
+    "sizeBytes": 44164623,
+    "sha256": "9e207061bb3f65c309ea4a83d23377d346c33d5ce4cec68d98519710c8d744c9"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.11 - Djurhantering 9/10: upplockning tar nu bort terrarie-modellen ordentligt (ingen dubbel-rendering) och djuret halls direkt i handen."
+  "notes": "Alpha v0.3.12 - Djurhantering 10/10 (slutpass): tydlig Fullt-prompt nar terrariet ar fullt; hela testsviten gron (EditMode 610/610, PlayMode 49/49)."
 }
