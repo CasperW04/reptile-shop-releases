@@ -1,15 +1,15 @@
 {
-  "version": "0.3.10",
-  "tag": "v0.3.10",
+  "version": "0.3.11",
+  "tag": "v0.3.11",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.10/ReptileShop-Windows-v0.3.10.zip",
-    "sizeBytes": 44164203,
-    "sha256": "1074aba6bf24f8a52139cf34c3b920f8e1ad995f7def4761904f99149b81614c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.11/ReptileShop-Windows-v0.3.11.zip",
+    "sizeBytes": 44164358,
+    "sha256": "c74df0d61d340011313ff0f0a368eed0af414afdc307390cad8070b5916f09fd"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.10 - Djurhantering 8/10: ett kopt djur valjs nu automatiskt i hotbaren (du haller det direkt), plus end-to-end-verifiering av hela kop-placera-salj-loopen."
+  "notes": "Alpha v0.3.11 - Djurhantering 9/10: upplockning tar nu bort terrarie-modellen ordentligt (ingen dubbel-rendering) och djuret h<C3><A5>lls direkt i handen."
 }

@@ -15,6 +15,21 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.11] - 2026-06-20 — Alpha — "Djurhantering 9/10: konsistent håll-tillstånd"
+
+### Fixed
+- **🔁 Att plocka upp ett djur tar nu bort modellen ur terrariet ordentligt** (ingen dubbel-rendering
+  mot djuret-i-handen). Förut kunde upplockningen oavsiktligt återskapa world-modellen via ett slot-event.
+- Härdat: ett djur med ogiltig slot (−1) försöker aldrig spawna en terrarie-modell.
+
+### Quality of life
+- **✋ Ett upplockat djur hålls direkt i handen** (hotbar-sloten väljs automatiskt), precis som vid köp —
+  konsekvent håll-beteende genom hela loopen.
+
+### Tested
+- Nytt PlayMode-test verifierar att upplockning despawnar world-vyn OCH auto-väljer sloten.
+  EditMode 610/610, PlayMode 48/48.
+
 ## [0.3.10] - 2026-06-20 — Alpha — "Djurhantering 8/10: hela loopen"
 
 ### Quality of life
