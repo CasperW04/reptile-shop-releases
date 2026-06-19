@@ -1,15 +1,15 @@
 {
-  "version": "0.3.3",
-  "tag": "v0.3.3",
+  "version": "0.3.4",
+  "tag": "v0.3.4",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.3/ReptileShop-Windows-v0.3.3.zip",
-    "sizeBytes": 44161018,
-    "sha256": "3330d9081cd5ad831e500d450a0c389653877791f178899c5776f0d0e7f3bea6"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.4/ReptileShop-Windows-v0.3.4.zip",
+    "sizeBytes": 44161240,
+    "sha256": "0694cd77e692e94e93909c94beb04e87e4468c7e413a9cae020cef8e8d9c5d28"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.3 — Djurhantering 1/10: generösare placerings-räckvidd (5 m, placera från normalt avstånd) + äkta full-stack-verifiering av klick→placering."
+  "notes": "[0.3.4] - 2026-06-20 — Alpha — "Djurhantering 2/10: skötsel överallt""
 }

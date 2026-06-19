@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.4] - 2026-06-20 — Alpha — "Djurhantering 2/10: skötsel överallt"
+
+### Fixed
+- **🩺 E på ett terrarium öppnar nu skötselpanelen även när crosshairet träffar fixtur-collidern.**
+  Två interaktioner kunde sitta på samma objekt (bygg-läges-vyn + skötseln); raycastern tog förut bara
+  den FÖRSTA (bygg-vyn, som inte gör något utanför bygg-läge) och skuggade skötseln. Nu väljer raycastern
+  den **bästa** interaktionen (icke-tom prompt + högsta prioritet) på det man siktar på.
+
+### Tested
+- Nytt PlayMode-test bygger skugg-scenariot (bygg-vy + care på samma objekt) och kör den riktiga
+  raycaster-scanningen — verifierar att skötseln fokuseras, inte bygg-vyn. EditMode 610/610, PlayMode 41/41.
+
 ## [0.3.3] - 2026-06-20 — Alpha — "Djurhantering 1/10: räckvidd + äkta verifiering"
 
 Första av 10 iterationer som gör djurhantering + placering genuint perfekt. Fokus: verifiera den
