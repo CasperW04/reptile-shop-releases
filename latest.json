@@ -1,15 +1,15 @@
 {
-  "version": "0.3.7",
-  "tag": "v0.3.7",
+  "version": "0.3.8",
+  "tag": "v0.3.8",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.7/ReptileShop-Windows-v0.3.7.zip",
-    "sizeBytes": 44163078,
-    "sha256": "1b08055b53e3b0c1cee4761035546962af64de87348b870a47213a93a7a52324"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.8/ReptileShop-Windows-v0.3.8.zip",
+    "sizeBytes": 44163279,
+    "sha256": "224958dd2dd423f2a7ac1cad40295f77b0d9037e56eabdd217068fc21095578c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.7 - Djurhantering 5/10: placerings-prompten visar belaggning (2/4) sa du ser om det finns plats kvar."
+  "notes": "Alpha v0.3.8 - Djurhantering 6/10: en sald reptil forsvinner nu ur terrariet (despawnas vid forsaljning); placerade till-salu-djur ar kopbara for kunder."
 }

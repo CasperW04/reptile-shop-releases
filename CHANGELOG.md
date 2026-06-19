@@ -15,6 +15,21 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.8] - 2026-06-20 — Alpha — "Djurhantering 6/10: kunder köper & terrariet töms"
+
+### Fixed
+- **🛒 En såld reptil försvinner nu ur terrariet.** Förut despawnades aldrig modellen vid försäljning,
+  så ett sålt djur låg kvar synligt för evigt. Nu töms platsen synligt när en kund köper djuret.
+  (Bekräftat: ett djur du placerar "till försäljning" i ett terrarium är köpbart för kunder.)
+
+### Quality of life
+- **👁️ Synlig återkoppling i butiken** — terrariet visar korrekt vilka djur som faktiskt finns kvar
+  att sälja, så lagret stämmer med verkligheten.
+
+### Tested
+- Nytt PlayMode-test verifierar att en reptils modell despawnas på `ReptileSoldEvent`.
+  EditMode 610/610, PlayMode 45/45.
+
 ## [0.3.7] - 2026-06-20 — Alpha — "Djurhantering 5/10: platser & överblick"
 
 ### Quality of life
