@@ -1,15 +1,15 @@
 {
-  "version": "0.3.5",
-  "tag": "v0.3.5",
+  "version": "0.3.6",
+  "tag": "v0.3.6",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.5/ReptileShop-Windows-v0.3.5.zip",
-    "sizeBytes": 44162569,
-    "sha256": "945e40e1ab6f9ed7dccc44bfaa0b8ffcd7b05b9f486864712729be70189685d0"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.6/ReptileShop-Windows-v0.3.6.zip",
+    "sizeBytes": 44162821,
+    "sha256": "a1469c66633dbf1de75035984484b67cce4f696d8e1186542cf31f3806462d0f"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.5 - Djurhantering 3/10: en reptil placerad fran hotbaren syns nu fysiskt inne i terrariet, plus namngiven placerings-toast."
+  "notes": "Alpha v0.3.6 - Djurhantering 4/10: att placera ett djur i en rack seatar det for avel (inte forsaljning), plus prompt som visar avel/salj."
 }

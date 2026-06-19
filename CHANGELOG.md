@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.6] - 2026-06-20 — Alpha — "Djurhantering 4/10: avel vs försäljning"
+
+### Fixed
+- **🧬 Att placera ett djur i en tub-rack seatar det nu för AVEL** (inte försäljning). Racks delade
+  kategori med terrarier, så de routades fel till "till salu". Nu avgörs det av enclosure-typen.
+
+### Quality of life
+- **🪧 Placerings-prompten visar vad släppet gör** — "Vänsterklick: Placera **för avel**" vid en rack,
+  "**till försäljning**" vid ett terrarium, så du vet innan du klickar.
+
+### Tested
+- Nytt PlayMode-test verifierar routningen via den riktiga katalogen (rack_2tub/rack_8tub → avel,
+  terrarium_small/large → sälj). EditMode 610/610, PlayMode 43/43.
+
 ## [0.3.5] - 2026-06-20 — Alpha — "Djurhantering 3/10: reptilen syns i terrariet"
 
 ### Fixed
