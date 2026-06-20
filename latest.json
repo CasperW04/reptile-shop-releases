@@ -1,15 +1,15 @@
 {
-  "version": "0.3.19",
-  "tag": "v0.3.19",
+  "version": "0.3.20",
+  "tag": "v0.3.20",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.19/ReptileShop-Windows-v0.3.19.zip",
-    "sizeBytes": 44191872,
-    "sha256": "851bf962723c191bbfbebb1d305868aeb10f29458fe61bf51881cc295d85a051"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.20/ReptileShop-Windows-v0.3.20.zip",
+    "sizeBytes": 44196233,
+    "sha256": "fbbb1a137f9a21adf1bb96ab99f971ec05b6f05d13749726dccf13a6e0b78ede"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.19 - Cirka 30 fler verkliga reptilarter (94 totalt) plus en texturpipeline-forbattring (postprocessorn bevarar nu aven texturen, inte bara fargen, vid ombindning till built-in Standard)."
+  "notes": "Alpha v0.3.20 - En riktig CC0-matta (Kenney) ligger nu platt pa golvet precis innanfor entren for mer atmosfar."
 }

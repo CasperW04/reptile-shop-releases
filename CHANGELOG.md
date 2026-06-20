@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.20] - 2026-06-20 — Alpha — "Välkomstmatta"
+
+### Added
+- **🟫 Matta vid entrén.** En riktig CC0-matta (Kenney rugRounded, per-material-färgad så den texturerar
+  korrekt) ligger nu platt på golvet precis innanför dörren — mer atmosfär, helt walkable.
+
+### Tested
+- Nytt planerar-test verifierar exakt en platt matta innanför entrén. EditMode 615/615, PlayMode 51/51.
+
 ## [0.3.19] - 2026-06-20 — Alpha — "Fler arter + texturpipeline"
 
 ### Added
