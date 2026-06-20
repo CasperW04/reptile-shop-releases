@@ -15,6 +15,21 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.14] - 2026-06-20 — Alpha — "Varmare butik + riktiga assets"
+
+### Changed
+- **🎨 Varmare, inbjudande butiks-palett + ljusare/varmare ljus** (ljus ek-golv, varma väggar, off-white
+  tak) istället för den grå "lådan".
+- **🪴 Riktiga nedladdade 3D-assets:** golvdekoren använder nu en riktig CC0-krukväxt (Kenney Furniture
+  Kit, CC0) istället för en egen-genererad modell — och fler växter (alla fyra hörn).
+
+### Under huven
+- Asset-pipeline etablerad: CC0-modeller laddas ner, verifieras headless via Blender-render (orientering/
+  skala) och läggs i `Resources/Shop/`. Kenney-assets sparade i `Assets/Art/Kenney/` med CC0-licens.
+
+### Tested
+- EditMode 613/613, PlayMode 49/49.
+
 ## [0.3.13] - 2026-06-20 — Alpha — "65 verkliga arter + uppdaterings-fix"
 
 ### Fixed
