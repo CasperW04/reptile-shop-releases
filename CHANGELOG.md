@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.27] - 2026-06-20 — Alpha — "Gator 🛣️"
+
+### Added
+- **🛣️ Riktiga gator.** Vägnät av nedladdade CC0-vägplattor (Kenney City Kit Roads, texturerade)
+  läggs nu ut längs gatorna mellan kvarteren — bilarna står på riktiga vägar och staden har ett
+  sammanhängande gatusystem.
+
+### Tested
+- PlayMode-test verifierar utlagda vägplattor. EditMode 622/622, PlayMode 53/53.
+
 ## [0.3.26] - 2026-06-20 — Alpha — "Riktiga gubbar 🧍"
 
 ### Added
