@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.48] - 2026-06-20 — Alpha — "Väggskåp & matta 🧰"
+
+### Added
+- **🧰 Väggskåp och en kvadratisk matta** (nedladdade CC0, Kenney Furniture) inreder butiken ytterligare.
+
+### Tested
+- Planerar-test verifierar väggskåp + matta. EditMode 627/627, PlayMode 62/62.
+
 ## [0.3.47] - 2026-06-20 — Alpha — "Liv på minimapen 🔵"
 
 ### Added
