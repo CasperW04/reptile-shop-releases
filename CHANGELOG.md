@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.22] - 2026-06-20 — Alpha — "Nytt terrarium-system: storleks-grund"
+
+### Added (under huven — första steget i det nya terrarium-systemet)
+- **📏 Storleks-nivåer (grund).** `TerrariumSize` (Liten/Mellan/Stor/Extra stor) + regler som mappar en
+  arts vuxenvikt till minsta nödvändiga terrarium-storlek, och om ett terrarium uppfyller kravet.
+  (Kommande steg: storleks-fixturer + penalty om för litet, skötsel-UI, pris per djur.)
+
+### Tested
+- Nya tester för vikt→storlek-trösklar + Fits-regeln. EditMode 619/619, PlayMode 51/51.
+
 ## [0.3.21] - 2026-06-20 — Alpha — "Golvlampa"
 
 ### Added

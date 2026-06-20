@@ -1,15 +1,15 @@
 {
-  "version": "0.3.21",
-  "tag": "v0.3.21",
+  "version": "0.3.22",
+  "tag": "v0.3.22",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.21/ReptileShop-Windows-v0.3.21.zip",
-    "sizeBytes": 44198262,
-    "sha256": "7a98c04dde09fe24ac83caab4612c759efe67bddbf5d793ee739182e1e2c52d6"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.22/ReptileShop-Windows-v0.3.22.zip",
+    "sizeBytes": 44198770,
+    "sha256": "0b966a2fb560fc19d537dce6bf6da922aaecf35b8e4bf45b2939c3324ff65566"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.21 - En riktig CC0-golvlampa (Kenney) star nu mot vaggen och sprider ett varmt ljus for mer mysig butiks-atmosfar."
+  "notes": "Alpha v0.3.22 - Forsta steget i det nya terrarium-systemet: storleks-nivaer (Liten/Mellan/Stor/Extra stor) med regler som mappar en arts vuxenvikt till minsta nodvandiga terrarium-storlek."
 }
