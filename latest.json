@@ -1,15 +1,15 @@
 {
-  "version": "0.3.43",
-  "tag": "v0.3.43",
+  "version": "0.3.44",
+  "tag": "v0.3.44",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.43/ReptileShop-Windows-v0.3.43.zip",
-    "sizeBytes": 44712644,
-    "sha256": "ba378634b6d72cf6d5e953ac48f9c747c2b9b284ec76b0ab5aaa9952039819b3"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.44/ReptileShop-Windows-v0.3.44.zip",
+    "sizeBytes": 44712891,
+    "sha256": "b5bc5c5037c4411c0f58765bdf1d855787cfb425fb29e354421acaddb610c884"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.43 - Minimapen ritar nu ut stadens byggnader som prickar runt dig sa du ser kvarteren och hittar lattare."
+  "notes": "Alpha v0.3.44 - Spelar-markoren pekar nu at blickriktningen pa minimapen sa du ser vart du ar vand."
 }

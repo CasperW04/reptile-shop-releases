@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.44] - 2026-06-20 — Alpha — "Riktning på minimapen 🧭"
+
+### Added
+- **🧭 Spelar-markören pekar åt blickriktningen** på minimapen, så du ser vart du är vänd.
+
+### Tested
+- PlayMode-test verifierar att markören följer blickriktningen. EditMode 626/626, PlayMode 61/61.
+
 ## [0.3.43] - 2026-06-20 — Alpha — "Minimap visar staden 🗺️"
 
 ### Added
