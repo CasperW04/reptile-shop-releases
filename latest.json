@@ -1,15 +1,15 @@
 {
-  "version": "0.3.27",
-  "tag": "v0.3.27",
+  "version": "0.3.28",
+  "tag": "v0.3.28",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.27/ReptileShop-Windows-v0.3.27.zip",
-    "sizeBytes": 44680393,
-    "sha256": "a4c63531feeda503cd76910bcda4a518d9e1200a8756954f8bd5a1952beb89a5"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.28/ReptileShop-Windows-v0.3.28.zip",
+    "sizeBytes": 44682528,
+    "sha256": "962be91669adf135ef03124b6c1ca69b5e03bc50ef4c1b7972ecda77e89085e8"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.27 - Riktigt vagnat av nedladdade CC0-vagplattor (Kenney City Kit Roads, texturerade) langs gatorna mellan kvarteren - bilarna star pa riktiga vagar."
+  "notes": "Alpha v0.3.28 - Player-centrerad minimap i ovre hogra hornet: visar din position (gul prick), butiken (gron markor) och vaderstreck sa du hittar i staden."
 }

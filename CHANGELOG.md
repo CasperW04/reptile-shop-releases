@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.28] - 2026-06-20 — Alpha — "Minimap 🗺️"
+
+### Added
+- **🗺️ Minimap i hörnet.** En player-centrerad top-down-minimap (övre högra hörnet) visar din position
+  (gul prick i mitten), butiken (grön markör) och väderstreck — så du hittar tillbaka i den stora staden.
+
+### Tested
+- PlayMode-test verifierar att minimapen byggs och spårar spelaren. EditMode 622/622, PlayMode 54/54.
+
 ## [0.3.27] - 2026-06-20 — Alpha — "Gator 🛣️"
 
 ### Added
