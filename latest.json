@@ -1,15 +1,15 @@
 {
-  "version": "0.3.53",
-  "tag": "v0.3.53",
+  "version": "0.3.54",
+  "tag": "v0.3.54",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.53/ReptileShop-Windows-v0.3.53.zip",
-    "sizeBytes": 44717626,
-    "sha256": "7b5e8ce6f78984c9b3f47758a9ac113f5f21ba6d5f7116986decbf335f5eec6b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.54/ReptileShop-Windows-v0.3.54.zip",
+    "sizeBytes": 44717720,
+    "sha256": "a8a0ea8bd705e5a34e6ec2973d8a5219d6adb507fa98ac184a3a159d754cd8aa"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.53 - Djur-flikens rubrik visar nu antal djur i terrariet och hur manga som ar till salu."
+  "notes": "Alpha v0.3.54 - Varje djur visar nu sitt storlekskrav i Djur-fliken: gron bock om terrariet racker, rod varning om det ar for litet."
 }

@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.54] - 2026-06-20 — Alpha — "Storlekskrav per djur 📐"
+
+### Added
+- **📐 Varje djur visar sitt storlekskrav** i Djur-fliken: grön bock om terrariet räcker, röd varning
+  om det är för litet — så du kan planera rätt boende.
+
+### Tested
+- EditMode 627/627, PlayMode 63/63.
+
 ## [0.3.53] - 2026-06-20 — Alpha — "Översikt i Djur-fliken"
 
 ### Added
