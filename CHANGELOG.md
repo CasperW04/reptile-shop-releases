@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.60] - 2026-06-20 — Alpha — "Tydligare dekor-köp"
+
+### Changed
+- **🪴 Dekoration-köpknappen** visar nu både kvalitetsbonusen och kostnaden för nästa nivå
+  ("Köp nästa nivå (+5% kvalitet · $150)").
+
+### Tested
+- EditMode 627/627, PlayMode 63/63.
+
 ## [0.3.59] - 2026-06-20 — Alpha — "Tillbaka till djurlistan ↩️"
 
 ### Changed

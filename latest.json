@@ -1,15 +1,15 @@
 {
-  "version": "0.3.59",
-  "tag": "v0.3.59",
+  "version": "0.3.60",
+  "tag": "v0.3.60",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.59/ReptileShop-Windows-v0.3.59.zip",
-    "sizeBytes": 44718767,
-    "sha256": "b4f6797f7e73f9a2fd9ca46c2cb2281243e8f03809fecefc008f4c7cd695d40b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.60/ReptileShop-Windows-v0.3.60.zip",
+    "sizeBytes": 44718829,
+    "sha256": "525e0c1e99541032337fbb3060849047249f1f34b942c3cc02d9131851aabb23"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.59 - Tillbaka i Skotsel-fliken gar nu till djurlistan istallet for att stanga hela panelen."
+  "notes": "Alpha v0.3.60 - Dekoration-kopknappen visar nu bade kvalitetsbonusen och kostnaden for nasta niva."
 }
