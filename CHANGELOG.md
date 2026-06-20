@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.26] - 2026-06-20 — Alpha — "Riktiga gubbar 🧍"
+
+### Added
+- **🧍 Riktiga NPC-modeller!** Kunderna är nu riktiga nedladdade CC0-personer (Kenney Blocky Characters,
+  fullt texturerade) istället för grå silhuetter — sex olika utseenden. Modellerna normaliseras
+  automatiskt till människohöjd och ställs med fötterna på marken.
+- **🚶 Folk i staden.** Gående NPC-gubbar står utplacerade på trottoarerna runt om i staden så världen
+  känns befolkad.
+
+### Tested
+- PlayMode-test verifierar riktiga kundmodeller + stadsgångare. EditMode 622/622, PlayMode 53/53.
+
 ## [0.3.25] - 2026-06-20 — Alpha — "Bilar på gatorna 🚗"
 
 ### Added

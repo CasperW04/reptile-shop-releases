@@ -1,15 +1,15 @@
 {
-  "version": "0.3.25",
-  "tag": "v0.3.25",
+  "version": "0.3.26",
+  "tag": "v0.3.26",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.25/ReptileShop-Windows-v0.3.25.zip",
-    "sizeBytes": 44668039,
-    "sha256": "2c3d622c4b601ba9cd8e6983d0f42436f013d52dcb8e3d53b0441b38aef69a64"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.26/ReptileShop-Windows-v0.3.26.zip",
+    "sizeBytes": 44677366,
+    "sha256": "c40de988815982f979feaf78e6734aee3d9f2a6d1b29a96f1242f786010e246c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.25 - Riktiga CC0-bilar (Kenney Car Kit): sedan, SUV, taxi, skapbil, polisbil m.fl., fullt texturerade, parkerade langs gatorna mellan kvarteren."
+  "notes": "Alpha v0.3.26 - Riktiga NPC-modeller: kunderna ar nu riktiga CC0-personer (Kenney Blocky Characters, texturerade, sex utseenden) istallet for gra silhuetter, plus gaende NPC-gubbar utplacerade i staden."
 }
