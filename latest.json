@@ -1,15 +1,15 @@
 {
-  "version": "0.3.31",
-  "tag": "v0.3.31",
+  "version": "0.3.32",
+  "tag": "v0.3.32",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.31/ReptileShop-Windows-v0.3.31.zip",
-    "sizeBytes": 44686596,
-    "sha256": "ed0aa7f95980ccfeccd43ed07b4b7283e20472ea72d06b1026858b2f1885d756"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.32/ReptileShop-Windows-v0.3.32.zip",
+    "sizeBytes": 44687002,
+    "sha256": "d69377e5bf50afbedd7fa8e5b2135c798eba97174d7d036e8e4a02f0b714fc15"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.31 - Dekoration-fliken funkar: kop dekorationsnivaer (0-3) som hojer terrariets kvalitetstak (vardefullare djur). Fix: terrarium-storlek och dekorationsniva sparas nu korrekt."
+  "notes": "Alpha v0.3.32 - Djur-fliken visar nu en varning per djur om arten behover ett storre terrarium an det den star i, plus terrariets storleksklass."
 }

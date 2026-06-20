@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.32] - 2026-06-20 — Alpha — "För litet?-varning ⚠️"
+
+### Added
+- **⚠️ Varning för för litet terrarium.** I Djur-fliken visas nu en tydlig varning per djur om arten
+  behöver ett större terrarium än det den står i ("⚠ För litet terrarium — behöver minst Stor"), plus
+  terrariets storleksklass. Hjälper dig hålla djuren friska och värdefulla.
+
+### Tested
+- PlayMode-test verifierar att varningen visas för en stor art i ett litet terrarium. PlayMode 58/58,
+  EditMode 623/623.
+
 ## [0.3.31] - 2026-06-20 — Alpha — "Dekorera terrariet 🪴"
 
 ### Added
