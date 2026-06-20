@@ -1,15 +1,15 @@
 {
-  "version": "0.3.52",
-  "tag": "v0.3.52",
+  "version": "0.3.53",
+  "tag": "v0.3.53",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.52/ReptileShop-Windows-v0.3.52.zip",
-    "sizeBytes": 44717468,
-    "sha256": "39d2118fd753be4cfec890efc290da6b05150e82225929e76953f72f20ff7267"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.53/ReptileShop-Windows-v0.3.53.zip",
+    "sizeBytes": 44717626,
+    "sha256": "7b5e8ce6f78984c9b3f47758a9ac113f5f21ba6d5f7116986decbf335f5eec6b"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.52 - Ny Skot alla-knapp i terrariets Djur-flik: mata, vattna och stada alla djur med ett klick."
+  "notes": "Alpha v0.3.53 - Djur-flikens rubrik visar nu antal djur i terrariet och hur manga som ar till salu."
 }

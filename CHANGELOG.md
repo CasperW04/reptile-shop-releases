@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.53] - 2026-06-20 — Alpha — "Översikt i Djur-fliken"
+
+### Added
+- **📋 Summering i Djur-fliken:** rubriken visar nu antal djur i terrariet och hur många som är till salu.
+
+### Tested
+- PlayMode-test verifierar summeringsraden. EditMode 627/627, PlayMode 63/63.
+
 ## [0.3.52] - 2026-06-20 — Alpha — "Sköt alla 🧽"
 
 ### Added
