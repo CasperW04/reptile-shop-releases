@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.21] - 2026-06-20 — Alpha — "Golvlampa"
+
+### Added
+- **🪔 Golvlampa.** En riktig CC0-golvlampa (Kenney) står nu mot höger vägg och sprider ett varmt
+  ljus — mer mysig butiks-atmosfär, fungerande per-material-asset.
+
+### Tested
+- Nytt planerar-test verifierar golvlampans placering + varma ljus. EditMode 616/616, PlayMode 51/51.
+
 ## [0.3.20] - 2026-06-20 — Alpha — "Välkomstmatta"
 
 ### Added
