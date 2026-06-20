@@ -1,15 +1,15 @@
 {
-  "version": "0.3.60",
-  "tag": "v0.3.60",
+  "version": "0.3.61",
+  "tag": "v0.3.61",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.60/ReptileShop-Windows-v0.3.60.zip",
-    "sizeBytes": 44718829,
-    "sha256": "525e0c1e99541032337fbb3060849047249f1f34b942c3cc02d9131851aabb23"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.61/ReptileShop-Windows-v0.3.61.zip",
+    "sizeBytes": 44720685,
+    "sha256": "4541042a5e9f86b8f000a43ec6941f30b5be2621a1e0280fb7d22bed3b30ef95"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.60 - Dekoration-kopknappen visar nu bade kvalitetsbonusen och kostnaden for nasta niva."
+  "notes": "Alpha v0.3.61 - Ny Agg och klackning-app pa telefonen (P) och datorn: listar alla agg som ruvas med en Hatcha nu-knapp sa du kan klacka agg var som helst."
 }

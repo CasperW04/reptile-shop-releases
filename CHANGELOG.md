@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.61] - 2026-06-20 — Alpha — "Kläck ägg var som helst 🥚"
+
+### Added
+- **🥚 Ägg & kläckning-app** på både telefonen (tryck **P**) och datorn: listar alla ägg som ruvas
+  (art, antal, dagar kvar) med en **"Hatcha nu"-knapp** som kläcker ägget direkt — så du kan kläcka
+  ägg var som helst, inte bara vid en breeding rack.
+
+### Tested
+- PlayMode-test verifierar att appen är registrerad/nåbar och listar ägg. EditMode 627/627, PlayMode 64/64.
+
 ## [0.3.60] - 2026-06-20 — Alpha — "Tydligare dekor-köp"
 
 ### Changed
