@@ -15,6 +15,23 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.24] - 2026-06-20 — Alpha — "EN STAD utanför butiken 🏙️"
+
+### Added
+- **🏙️ En hel stad runt butiken!** Kvarter av riktiga nedladdade CC0-byggnader (Kenney City Kit) —
+  hus och skyskrapor — står nu runt och framför butiken, så världen känns levande när du tittar ut
+  eller går ut genom dörren. Stor karta, massor av byggnader, deterministiskt utlagda.
+- **🎨 Löst textur-pipelinen för nedladdade modeller.** Texturer bäddas nu in i .glb (via Blender) så
+  byggnaderna renderas **fullt texturerade** (vita väggar, blå fönster) istället för platt/rosa.
+  Detta låser upp framtida texturerade assets (bilar, fler byggnader, props).
+
+### Tested
+- PlayMode-test bygger staden och verifierar texturerade byggnader. EditMode 622/622, PlayMode 52/52.
+
+### Kommer härnäst (samma kväll)
+- Bilar, riktiga NPC-modeller (gubbar som går runt), gator, minimap — samt fortsättning på det nya
+  terrarium-systemet (management-UI, pris per djur).
+
 ## [0.3.23] - 2026-06-20 — Alpha — "Nytt terrarium-system: storlekar spelar roll"
 
 ### Added
