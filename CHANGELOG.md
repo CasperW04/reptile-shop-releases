@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.23] - 2026-06-20 — Alpha — "Nytt terrarium-system: storlekar spelar roll"
+
+### Added
+- **📐 Fyra terrarium-storlekar.** Nytt **XL Bioactive Vivarium** (4 platser) utöver Liten/Mellan/Stor —
+  varje placerat terrarium har nu en storleksklass.
+- **🐾 För litet terrarium straffar djuret.** Stora arter (hög vuxenvikt) som sätts i ett för litet
+  terrarium blir trängda: deras temperatur-trivsel sjunker → sämre välmående → lägre hälsa → lägre värde
+  och långsammare försäljning. Rätt storlek = friska, värdefulla djur.
+
+### Tested
+- Storleks-mappning (fixtur→storlek), penalty-kurvan och katalog-kontraktet (alla fyra storlekar finns +
+  mappar rätt) testade. EditMode 622/622, PlayMode 51/51.
+
 ## [0.3.22] - 2026-06-20 — Alpha — "Nytt terrarium-system: storleks-grund"
 
 ### Added (under huven — första steget i det nya terrarium-systemet)
