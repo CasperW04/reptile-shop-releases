@@ -1,15 +1,15 @@
 {
-  "version": "0.3.63",
-  "tag": "v0.3.63",
+  "version": "0.4.0",
+  "tag": "v0.4.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.63/ReptileShop-Windows-v0.3.63.zip",
-    "sizeBytes": 44727056,
-    "sha256": "6827bd807a148a91c8f3f687035284c0038ee1ea7753dbc5b387145df330a486"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.4.0/ReptileShop-Windows-v0.4.0.zip",
+    "sizeBytes": 44731131,
+    "sha256": "2ab857d5327cd5bafd1f57bba6758113e5b8c250acd6ff1dceec4923fc4af3a7"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.63 - Marknadsforings-system: kop annonskampanjer som drar fler kunder under ett antal dagar. Ny Marknadsforing-app pa telefon och dator."
+  "notes": "Alpha v0.4.0 - Anstallda-system: anlita Skotare (auto-skoter alla djur) och Saljare (auto-listar djur). Lon dras dagligen. Ny Personal-app pa telefon och dator."
 }

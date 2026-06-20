@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.4.0] - 2026-06-20 — Alpha — "Anställda 👤"
+
+### Added
+- **👤 Anställda-system** (roadmap 0.8-tema): anlita **Skötare** (matar/vattnar/städar alla djur
+  automatiskt varje dag) och **Säljare** (lägger automatiskt ut djur till försäljning). Lön dras varje
+  dygn vid dag-avslut. Ny **Personal-app** (telefon + dator) för att anlita/avskeda och se lönekostnad.
+  Anställda sparas mellan sessioner.
+
+### Notes
+- Första minor-bumpen (0.3 → 0.4): minor får nu klättra fritt (0.4, 0.5 …) medan major stannar på 0.
+
+### Tested
+- EditMode 638/638 (5 nya modell/persistens-tester), PlayMode 67/67 (anlita → dag-arbete + lön + app).
+
 ## [0.3.63] - 2026-06-20 — Alpha — "Marknadsföring 📣"
 
 ### Added
