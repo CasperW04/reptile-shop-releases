@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.5.0] - 2026-06-20 — Alpha — "Ömsning 🌀"
+
+### Added
+- **🌀 Ömsnings-cykel (shed)** (roadmap 0.5 djup husbandry): djur går regelbundet in i ömsning under
+  några dagar. Hålls de väl vattnade blir ömsningen ren — annars blir det en "stuck shed" som drar ner
+  hälsan. Cykeln drivs ett steg per speldag och visas i terrariets Djur-flik ("🌀 Ömsar — X dagar kvar").
+  Ömsnings-status sparas mellan sessioner.
+- Bygger ovanpå befintlig sjukdom + vet-behandling (CareAction.Treat) → en rikare skötsel-loop.
+
+### Tested
+- EditMode 643/643 (5 nya shed-tester inkl. save round-trip), PlayMode 68/68 (cykel-advance på dag-avslut).
+
 ## [0.4.0] - 2026-06-20 — Alpha — "Anställda 👤"
 
 ### Added
