@@ -1,15 +1,15 @@
 {
-  "version": "0.3.30",
-  "tag": "v0.3.30",
+  "version": "0.3.31",
+  "tag": "v0.3.31",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.30/ReptileShop-Windows-v0.3.30.zip",
-    "sizeBytes": 44685726,
-    "sha256": "48fdfc391fbb015744d5b4c3dcc8e8cd7256405688768dad3e50db84dcbf3269"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.31/ReptileShop-Windows-v0.3.31.zip",
+    "sizeBytes": 44686596,
+    "sha256": "ed0aa7f95980ccfeccd43ed07b4b7283e20472ea72d06b1026858b2f1885d756"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.30 - I terrariets Djur-flik kan du nu satta forsaljningspris per enskilt djur: sla pa Till salu, dra ett paslags-reglage och se det begarda priset live (marknadsvarde x paslag)."
+  "notes": "Alpha v0.3.31 - Dekoration-fliken funkar: kop dekorationsnivaer (0-3) som hojer terrariets kvalitetstak (vardefullare djur). Fix: terrarium-storlek och dekorationsniva sparas nu korrekt."
 }

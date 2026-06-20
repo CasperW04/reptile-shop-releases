@@ -15,6 +15,21 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.31] - 2026-06-20 — Alpha — "Dekorera terrariet 🪴"
+
+### Added
+- **🪴 Dekoration-fliken funkar.** Köp dekorationsnivåer (0→3) till ett terrarium mot pengar i
+  **Dekoration**-fliken — varje nivå höjer terrariets **kvalitetstak** (värdefullare djur) och visar
+  kvalitetsbonusen. Köp-knappen gråas ut om du inte har råd.
+
+### Fixed
+- **💾 Terrarium-storlek + dekoration sparas nu.** Storleksklassen (från det nya storlekssystemet) och
+  dekorationsnivån persisteras korrekt över spara/ladda (storleken sparades inte tidigare).
+
+### Tested
+- PlayMode: köp höjer nivå + kvalitet och prisgate fungerar. EditMode: storlek + dekoration överlever
+  spara/ladda. EditMode 623/623, PlayMode 57/57.
+
 ## [0.3.30] - 2026-06-20 — Alpha — "Sätt pris per djur 💰"
 
 ### Added
