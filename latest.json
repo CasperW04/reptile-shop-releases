@@ -1,15 +1,15 @@
 {
-  "version": "0.3.38",
-  "tag": "v0.3.38",
+  "version": "0.3.39",
+  "tag": "v0.3.39",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.38/ReptileShop-Windows-v0.3.38.zip",
-    "sizeBytes": 44699477,
-    "sha256": "902a6beafac3375fd9e4b02437a5a1a688c4117aa9ea3c2e72b4a5e241e282bb"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.39/ReptileShop-Windows-v0.3.39.zip",
+    "sizeBytes": 44699603,
+    "sha256": "9f1ddec1f840e8cdc62b0cd76320010a5cdef205880e32648d7a7f33ea189b5f"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.38 - I terrariets Djur-flik kan du nu med ett klick lagga ut alla djur till forsaljning samtidigt."
+  "notes": "Alpha v0.3.39 - Ljud-feedback spelas nu nar du lagger ut ett djur till forsaljning sa prissattningen kanns mer responsiv."
 }

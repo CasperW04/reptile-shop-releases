@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.39] - 2026-06-20 — Alpha — "Ljud när du listar 🔉"
+
+### Added
+- **🔉 Ljud-feedback** spelas nu när du lägger ut ett djur till försäljning (klick-ton), så prissättningen
+  känns mer responsiv.
+
+### Tested
+- PlayMode-test verifierar att ljud-wiringen hanterar listnings-eventet utan fel. EditMode 623/623, PlayMode 61/61.
+
 ## [0.3.38] - 2026-06-20 — Alpha — "Lista alla till salu"
 
 ### Added
