@@ -1,15 +1,15 @@
 {
-  "version": "0.3.45",
-  "tag": "v0.3.45",
+  "version": "0.3.46",
+  "tag": "v0.3.46",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.45/ReptileShop-Windows-v0.3.45.zip",
-    "sizeBytes": 44713308,
-    "sha256": "9bf85f3e7e6c6de384cdef2b2d8103e938ff6b679a32b7e15e297f45b59c5e81"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.46/ReptileShop-Windows-v0.3.46.zip",
+    "sizeBytes": 44713618,
+    "sha256": "f7c7558085b4de71e40ea777f8ccee20ab518183ba17aabff8e34985b11a082e"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.45 - Varje dekorationsniva lagger nu en liten vaxt inne i terrariet (upp till 3) sa kopen i Dekoration-fliken ger en synlig effekt."
+  "notes": "Alpha v0.3.46 - HUD:en visar nu antal djur till salu och uppdateras direkt nar du listar eller saljer ett djur."
 }

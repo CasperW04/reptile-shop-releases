@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.46] - 2026-06-20 — Alpha — "Till salu-räknare i HUD:en 🟢"
+
+### Added
+- **🟢 Antal djur till salu** visas nu i HUD:en (övre vänstra hörnet) och uppdateras direkt när du
+  listar eller säljer ett djur.
+
+### Tested
+- EditMode 626/626, PlayMode 62/62.
+
 ## [0.3.45] - 2026-06-20 — Alpha — "Dekoration syns i terrariet 🌿"
 
 ### Added
