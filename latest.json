@@ -1,15 +1,15 @@
 {
-  "version": "0.3.32",
-  "tag": "v0.3.32",
+  "version": "0.3.33",
+  "tag": "v0.3.33",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.32/ReptileShop-Windows-v0.3.32.zip",
-    "sizeBytes": 44687002,
-    "sha256": "d69377e5bf50afbedd7fa8e5b2135c798eba97174d7d036e8e4a02f0b714fc15"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.33/ReptileShop-Windows-v0.3.33.zip",
+    "sizeBytes": 44698061,
+    "sha256": "ed5f625188b7e9b6e569fb6e1ac25538715518258c6104a0653d585a900fee6a"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.32 - Djur-fliken visar nu en varning per djur om arten behover ett storre terrarium an det den star i, plus terrariets storleksklass."
+  "notes": "Alpha v0.3.33 - Trad, buskar och lyktstolpar (nedladdade CC0 fran Kenney Nature Kit + City Kit Roads) star nu langs trottoarerna runt om i staden."
 }

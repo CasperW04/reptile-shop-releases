@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.33] - 2026-06-20 — Alpha — "Träd & lyktstolpar 🌳"
+
+### Added
+- **🌳 Stads-dekorationer.** Träd, buskar och lyktstolpar (nedladdade CC0 — Kenney Nature Kit +
+  City Kit Roads) står nu utplacerade längs trottoarerna runt om i staden, så den känns mer levande.
+
+### Tested
+- PlayMode-test verifierar att stads-props placeras. EditMode 623/623, PlayMode 58/58.
+
 ## [0.3.32] - 2026-06-20 — Alpha — "För litet?-varning ⚠️"
 
 ### Added
