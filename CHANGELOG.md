@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.38] - 2026-06-20 — Alpha — "Lista alla till salu"
+
+### Added
+- **🏷️ "Lista alla till salu"-knapp.** I terrariets Djur-flik kan du nu med ett klick lägga ut alla
+  djur i terrariet till försäljning samtidigt (varje djur behåller sitt påslag).
+
+### Tested
+- PlayMode-test verifierar att alla djur i terrariet listas. EditMode 623/623, PlayMode 60/60.
+
 ## [0.3.37] - 2026-06-20 — Alpha — "Panel-rubrik & stäng-knapp"
 
 ### Added
