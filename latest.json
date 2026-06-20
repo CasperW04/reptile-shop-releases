@@ -1,15 +1,15 @@
 {
-  "version": "0.3.33",
-  "tag": "v0.3.33",
+  "version": "0.3.34",
+  "tag": "v0.3.34",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.33/ReptileShop-Windows-v0.3.33.zip",
-    "sizeBytes": 44698061,
-    "sha256": "ed5f625188b7e9b6e569fb6e1ac25538715518258c6104a0653d585a900fee6a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.34/ReptileShop-Windows-v0.3.34.zip",
+    "sizeBytes": 44698794,
+    "sha256": "466af231619eb3ee7680cc6a946637db984192c76c7b274dd7b9b0aeeed27c45"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.33 - Trad, buskar och lyktstolpar (nedladdade CC0 fran Kenney Nature Kit + City Kit Roads) star nu langs trottoarerna runt om i staden."
+  "notes": "Alpha v0.3.34 - NPC:erna i staden gar nu fram och tillbaka langs gatorna och vander sig at gangriktningen - staden lever."
 }

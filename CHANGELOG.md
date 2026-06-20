@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.34] - 2026-06-20 — Alpha — "Folk som går 🚶"
+
+### Added
+- **🚶 NPC:er som går runt.** Stadsgångarna strosar nu fram och tillbaka längs gatorna och vänder sig
+  åt gångriktningen — staden lever, inte bara står still.
+
+### Tested
+- PlayMode-test verifierar att gångarna rör sig längs sitt gatusegment. EditMode 623/623, PlayMode 59/59.
+
 ## [0.3.33] - 2026-06-20 — Alpha — "Träd & lyktstolpar 🌳"
 
 ### Added
