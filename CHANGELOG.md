@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.30] - 2026-06-20 — Alpha — "Sätt pris per djur 💰"
+
+### Added
+- **💰 Försäljningspris per enskilt djur.** I terrariets **Djur**-flik kan du nu för varje djur slå på
+  **Till salu**, dra ett **påslags-reglage** och se det **begärda priset** live (marknadsvärde × påslag).
+  Varje djur visar morf-namn, trivsel och marknadsvärde.
+
+### Tested
+- PlayMode-test verifierar pris-kontrollerna + att pris/listning sätts och eventet publiceras.
+  EditMode 622/622, PlayMode 56/56.
+
 ## [0.3.29] - 2026-06-20 — Alpha — "Terrarium-panel med flikar"
 
 ### Added

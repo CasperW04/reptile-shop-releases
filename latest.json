@@ -1,15 +1,15 @@
 {
-  "version": "0.3.29",
-  "tag": "v0.3.29",
+  "version": "0.3.30",
+  "tag": "v0.3.30",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.29/ReptileShop-Windows-v0.3.29.zip",
-    "sizeBytes": 44684164,
-    "sha256": "72595d2c4ddcc5f0163a7f9363d064d10c4ad1675392d96ee66b5cb93a82b325"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.30/ReptileShop-Windows-v0.3.30.zip",
+    "sizeBytes": 44685726,
+    "sha256": "48fdfc391fbb015744d5b4c3dcc8e8cd7256405688768dad3e50db84dcbf3269"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.29 - Titta pa ett terrarium och tryck E for en panel med flikar: Djur (listar djuren + storleksklass), Skotsel (mata/vattna/stada/varme) och Dekoration (kommande). Muspekaren frigors nu korrekt."
+  "notes": "Alpha v0.3.30 - I terrariets Djur-flik kan du nu satta forsaljningspris per enskilt djur: sla pa Till salu, dra ett paslags-reglage och se det begarda priset live (marknadsvarde x paslag)."
 }
