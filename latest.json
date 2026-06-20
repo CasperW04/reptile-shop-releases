@@ -1,15 +1,15 @@
 {
-  "version": "0.3.44",
-  "tag": "v0.3.44",
+  "version": "0.3.45",
+  "tag": "v0.3.45",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.44/ReptileShop-Windows-v0.3.44.zip",
-    "sizeBytes": 44712891,
-    "sha256": "b5bc5c5037c4411c0f58765bdf1d855787cfb425fb29e354421acaddb610c884"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.45/ReptileShop-Windows-v0.3.45.zip",
+    "sizeBytes": 44713308,
+    "sha256": "9bf85f3e7e6c6de384cdef2b2d8103e938ff6b679a32b7e15e297f45b59c5e81"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.44 - Spelar-markoren pekar nu at blickriktningen pa minimapen sa du ser vart du ar vand."
+  "notes": "Alpha v0.3.45 - Varje dekorationsniva lagger nu en liten vaxt inne i terrariet (upp till 3) sa kopen i Dekoration-fliken ger en synlig effekt."
 }

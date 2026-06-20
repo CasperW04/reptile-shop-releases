@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.45] - 2026-06-20 — Alpha — "Dekoration syns i terrariet 🌿"
+
+### Added
+- **🌿 Köpt dekoration syns nu i terrariet.** Varje dekorationsnivå lägger en liten växt inne i
+  terrariet (upp till 3), så att köpen i Dekoration-fliken ger en synlig effekt — inte bara siffror.
+
+### Tested
+- PlayMode-test verifierar att rätt antal växt-props spawnas per dekorationsnivå. EditMode 626/626, PlayMode 62/62.
+
 ## [0.3.44] - 2026-06-20 — Alpha — "Riktning på minimapen 🧭"
 
 ### Added
