@@ -1,15 +1,15 @@
 {
-  "version": "0.3.34",
-  "tag": "v0.3.34",
+  "version": "0.3.35",
+  "tag": "v0.3.35",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.34/ReptileShop-Windows-v0.3.34.zip",
-    "sizeBytes": 44698794,
-    "sha256": "466af231619eb3ee7680cc6a946637db984192c76c7b274dd7b9b0aeeed27c45"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.35/ReptileShop-Windows-v0.3.35.zip",
+    "sizeBytes": 44698866,
+    "sha256": "eb23091c4eae6b68492582939db4b21a38ddd92bb0066c84a31dd6e63fcbeaff"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.34 - NPC:erna i staden gar nu fram och tillbaka langs gatorna och vander sig at gangriktningen - staden lever."
+  "notes": "Alpha v0.3.35 - En del av stadens bilar kor nu langs gatorna och vander sig at korriktningen - riktig trafik."
 }

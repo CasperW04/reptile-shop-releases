@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.35] - 2026-06-20 — Alpha — "Trafik 🚙"
+
+### Added
+- **🚙 Bilar som kör.** En del av stadens bilar rullar nu fram och tillbaka längs gatorna och vänder
+  sig åt körriktningen — riktig trafik, inte bara parkerade bilar.
+
+### Tested
+- PlayMode-test verifierar att bilar kör i staden. EditMode 623/623, PlayMode 59/59.
+
 ## [0.3.34] - 2026-06-20 — Alpha — "Folk som går 🚶"
 
 ### Added
