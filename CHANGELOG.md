@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.51] - 2026-06-20 — Alpha — "Avlista alla"
+
+### Added
+- **🏷️ "Avlista alla"-knapp** i terrariets Djur-flik, bredvid "Lista alla till salu" — ta snabbt
+  bort alla djur från försäljning igen.
+
+### Tested
+- PlayMode-test verifierar både listning och avlistning. EditMode 627/627, PlayMode 62/62.
+
 ## [0.3.50] - 2026-06-20 — Alpha — "Telefonens statusrad 📱"
 
 ### Added

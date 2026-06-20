@@ -1,15 +1,15 @@
 {
-  "version": "0.3.50",
-  "tag": "v0.3.50",
+  "version": "0.3.51",
+  "tag": "v0.3.51",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.50/ReptileShop-Windows-v0.3.50.zip",
-    "sizeBytes": 44717115,
-    "sha256": "8fbd72e5f843a831791008b231022f72ec2f40d48f4dec3bf2b5c012af1f0bbe"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.51/ReptileShop-Windows-v0.3.51.zip",
+    "sizeBytes": 44717250,
+    "sha256": "e9d1e8376c56283ff5d3e11c85cf75a6e63818fcbae4233311d965f93638d98f"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.50 - Telefonens hemskarm visar nu en statusrad med aktuell dag och om butiken ar oppen eller stangd."
+  "notes": "Alpha v0.3.51 - Ny Avlista alla-knapp i terrariets Djur-flik for att snabbt ta bort alla djur fran forsaljning."
 }
