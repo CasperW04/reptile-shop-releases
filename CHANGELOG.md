@@ -15,6 +15,26 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.18] - 2026-06-20 — Alpha — "Speltestar-fixar: terrarium, mus, butiksstatus"
+
+### Fixed
+- **✋ Går nu att sätta djur i TERRARIER (inte bara racks).** Terrariets glas-modell hade en mesh-collider
+  med glipor som crosshair-strålen slank igenom — racks (utan modell-collider) fick en solid box och funkade.
+  Nu får ALLA enclosures en solid box i full höjd, så strålen alltid träffar terrariet.
+- **🖱️ Musen visas nu när du öppnar en breeding rack** (panelen frigör muspekaren + pausar input, som datorn).
+- **🖥️ Datorns/skärmens hitbox** täcker nu hela datorn från golv till över skärmen.
+- **🦵 Datorbordet har ben** (svävar inte längre).
+
+### Added
+- **🟢/🔴 Tydlig ÖPPEN/STÄNGD-status i HUD:en** (övre vänstra hörnet) så du alltid ser om butiken handlar.
+
+### Note
+- **Sälja/flytta utplacerade möbler finns redan:** gå in i bygg-läge (**B**), titta på möbeln och tryck
+  **E** → välj Flytta/Förvara/Sälj. Terrarie-fixen ovan gör att det nu funkar på terrarier också.
+
+### Tested
+- EditMode 614/614, PlayMode 51/51.
+
 ## [0.3.17] - 2026-06-20 — Alpha — "Avel för alla arter"
 
 ### Added
