@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.52] - 2026-06-20 — Alpha — "Sköt alla 🧽"
+
+### Added
+- **🧽 "Sköt alla"-knapp** i terrariets Djur-flik: mata, vattna och städa alla djur i terrariet med
+  ett klick — smidigt för terrarier/racks med flera djur.
+
+### Tested
+- PlayMode-test verifierar att alla djurs mätare återställs. EditMode 627/627, PlayMode 63/63.
+
 ## [0.3.51] - 2026-06-20 — Alpha — "Avlista alla"
 
 ### Added
