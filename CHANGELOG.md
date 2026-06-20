@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.25] - 2026-06-20 — Alpha — "Bilar på gatorna 🚗"
+
+### Added
+- **🚗 Bilar i staden.** Riktiga nedladdade CC0-bilar (Kenney Car Kit) — sedan, SUV, taxi, skåpbil,
+  polisbil m.fl., fullt texturerade — står nu parkerade längs gatorna mellan kvarteren.
+
+### Tested
+- PlayMode-test verifierar att bilar placeras i staden. EditMode 622/622, PlayMode 52/52.
+
 ## [0.3.24] - 2026-06-20 — Alpha — "EN STAD utanför butiken 🏙️"
 
 ### Added

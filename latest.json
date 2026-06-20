@@ -1,15 +1,15 @@
 {
-  "version": "0.3.24",
-  "tag": "v0.3.24",
+  "version": "0.3.25",
+  "tag": "v0.3.25",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.24/ReptileShop-Windows-v0.3.24.zip",
-    "sizeBytes": 44396900,
-    "sha256": "df147302b9d4a3194a8b8fed64cf0576ac6aa577bc18bce6071ea00aaf69052a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.25/ReptileShop-Windows-v0.3.25.zip",
+    "sizeBytes": 44668039,
+    "sha256": "2c3d622c4b601ba9cd8e6983d0f42436f013d52dcb8e3d53b0441b38aef69a64"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.24 - En hel stad runt butiken: kvarter av riktiga CC0-byggnader (Kenney City Kit) som hus och skyskrapor, fullt texturerade (textur inbaddad i glb via Blender). Lost textur-pipelinen for nedladdade modeller."
+  "notes": "Alpha v0.3.25 - Riktiga CC0-bilar (Kenney Car Kit): sedan, SUV, taxi, skapbil, polisbil m.fl., fullt texturerade, parkerade langs gatorna mellan kvarteren."
 }
