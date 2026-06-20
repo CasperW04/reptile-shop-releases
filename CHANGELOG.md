@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.56] - 2026-06-20 — Alpha — "Terrariets totalvärde 💎"
+
+### Added
+- **💎 Totalt marknadsvärde** för djuren visas nu i Djur-flikens summering, så du ser terrariets
+  samlade värde direkt.
+
+### Tested
+- EditMode 627/627, PlayMode 63/63.
+
 ## [0.3.55] - 2026-06-20 — Alpha — "Dekoration syns direkt 🌿"
 
 ### Fixed
