@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.43] - 2026-06-20 — Alpha — "Minimap visar staden 🗺️"
+
+### Added
+- **🗺️ Stadens byggnader på minimapen.** Minimapen ritar nu ut stadens byggnader som grå prickar
+  runt dig, så du ser kvarteren och hittar lättare i staden.
+
+### Tested
+- PlayMode-test verifierar att minimapen har byggnads-prickar. EditMode 626/626, PlayMode 61/61.
+
 ## [0.3.42] - 2026-06-20 — Alpha — "Vänthörna komplett ☕"
 
 ### Added
