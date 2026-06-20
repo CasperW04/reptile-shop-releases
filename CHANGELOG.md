@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.58] - 2026-06-20 — Alpha — "Klicka för att sköta 👆"
+
+### Added
+- **👆 Klickbara djur-rader.** Klicka på ett djur i Djur-fliken för att välja det och hoppa direkt
+  till Skötsel-fliken för just det djuret — smidigt i terrarier med flera djur.
+
+### Tested
+- PlayMode-test verifierar att val + flikbyte sker. EditMode 627/627, PlayMode 63/63.
+
 ## [0.3.57] - 2026-06-20 — Alpha — "Trångbodd-varning i översikten ⚠️"
 
 ### Added

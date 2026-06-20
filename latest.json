@@ -1,15 +1,15 @@
 {
-  "version": "0.3.57",
-  "tag": "v0.3.57",
+  "version": "0.3.58",
+  "tag": "v0.3.58",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.57/ReptileShop-Windows-v0.3.57.zip",
-    "sizeBytes": 44718458,
-    "sha256": "387c9610ca1d9e7b8df1b6867d4be3d485d5ff290011baf7dfceb645b9e644dd"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.58/ReptileShop-Windows-v0.3.58.zip",
+    "sizeBytes": 44718668,
+    "sha256": "c7cce35640fd2f9c0631a00c9e622ae6cfacc84fe42e106f54ba8faccec1ce9e"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.57 - Antal trangbodda djur visas nu i Djur-flikens summering sa du snabbt ser om nagot djur behover ett storre terrarium."
+  "notes": "Alpha v0.3.58 - Klicka pa ett djur i Djur-fliken for att valja det och hoppa direkt till Skotsel-fliken for just det djuret."
 }
