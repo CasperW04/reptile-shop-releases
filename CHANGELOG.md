@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.16] - 2026-06-20 — Alpha — "Riktiga ljud"
+
+### Changed
+- **🔊 Riktiga ljudeffekter (CC0).** Spelet använder nu nedladdade ljud från Kenney Interface Sounds
+  (CC0) istället för syntade pip — för placering, försäljning (cha-ching), kläckning, skötsel, butik
+  öppnar/stänger och UI-bekräftelser. Faller tillbaka på syntat ljud bara om ett klipp saknas.
+
+### Tested
+- Nytt test verifierar att alla CC0-ljudklipp finns i Resources. EditMode 613/613, PlayMode 51/51.
+
 ## [0.3.15] - 2026-06-20 — Alpha — "Telefon i hörnet"
 
 ### Added

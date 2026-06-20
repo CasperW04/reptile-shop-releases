@@ -1,15 +1,15 @@
 {
-  "version": "0.3.15",
-  "tag": "v0.3.15",
+  "version": "0.3.16",
+  "tag": "v0.3.16",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.15/ReptileShop-Windows-v0.3.15.zip",
-    "sizeBytes": 44174319,
-    "sha256": "c89ba6af3edf7b91dfa423cb95a68a44463933e8c9db4f336ec226bb6202418d"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.16/ReptileShop-Windows-v0.3.16.zip",
+    "sizeBytes": 44189995,
+    "sha256": "351da4d227e1baeefa9273046a3320459409875c9b2cf4543fe3afafc3251612"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.15 - Smartphone i nedre hogra hornet (tryck P) som visar samma appar som datorn (Reptile Marketplace m.fl.) sa du kan kopa och hantera pa sprang."
+  "notes": "Alpha v0.3.16 - Riktiga nedladdade CC0-ljudeffekter (Kenney Interface Sounds) for placering, forsaljning, klackning, skotsel och UI istallet for syntade pip."
 }
