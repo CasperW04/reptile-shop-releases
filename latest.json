@@ -1,15 +1,15 @@
 {
-  "version": "0.3.61",
-  "tag": "v0.3.61",
+  "version": "0.3.62",
+  "tag": "v0.3.62",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.61/ReptileShop-Windows-v0.3.61.zip",
-    "sizeBytes": 44720685,
-    "sha256": "4541042a5e9f86b8f000a43ec6941f30b5be2621a1e0280fb7d22bed3b30ef95"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.62/ReptileShop-Windows-v0.3.62.zip",
+    "sizeBytes": 44724250,
+    "sha256": "be2079eae5d8a8f14824478582c509be40bdd5100889fdff125478f4dec9c8f5"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.61 - Ny Agg och klackning-app pa telefonen (P) och datorn: listar alla agg som ruvas med en Hatcha nu-knapp sa du kan klacka agg var som helst."
+  "notes": "Alpha v0.3.62 - Achievements-system med 10 utmarkelser som lases upp av spelandet, visas i en ny Utmarkelser-app pa telefon och dator, sparas mellan sessioner."
 }

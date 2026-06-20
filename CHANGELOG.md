@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.62] - 2026-06-20 — Alpha — "Utmärkelser 🏆"
+
+### Added
+- **🏆 Achievements-system** (roadmap): 10 utmärkelser som låses upp av spelandet — första
+  försäljningen, 10 sålda, första kläckningen, 25 uppfödda, $5k/$50k, 100 rykte, 10 djur, 5 arter,
+  butiksnivå 3. Visas i en ny **Utmärkelser-app** (telefon + dator); sparas mellan sessioner.
+
+### Tested
+- PlayMode-test verifierar att utmärkelser delas ut på events + att appen är nåbar. EditMode 627/627, PlayMode 65/65.
+
 ## [0.3.61] - 2026-06-20 — Alpha — "Kläck ägg var som helst 🥚"
 
 ### Added
