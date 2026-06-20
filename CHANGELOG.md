@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.50] - 2026-06-20 — Alpha — "Telefonens statusrad 📱"
+
+### Added
+- **📱 Telefonens hemskärm** visar nu en statusrad med aktuell dag och om butiken är öppen eller stängd.
+
+### Tested
+- PlayMode-test verifierar statusraden. EditMode 627/627, PlayMode 62/62.
+
 ## [0.3.49] - 2026-06-20 — Alpha — "Rykte i HUD:en ⭐"
 
 ### Added

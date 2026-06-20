@@ -1,15 +1,15 @@
 {
-  "version": "0.3.49",
-  "tag": "v0.3.49",
+  "version": "0.3.50",
+  "tag": "v0.3.50",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.49/ReptileShop-Windows-v0.3.49.zip",
-    "sizeBytes": 44716782,
-    "sha256": "d6dcc946eccdfcd9f9fc7d306e42754df7318b764f0966a5a899e00a8955f581"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.50/ReptileShop-Windows-v0.3.50.zip",
+    "sizeBytes": 44717115,
+    "sha256": "8fbd72e5f843a831791008b231022f72ec2f40d48f4dec3bf2b5c012af1f0bbe"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.49 - Butikens rykte visas nu i HUD:en bredvid antal djur till salu."
+  "notes": "Alpha v0.3.50 - Telefonens hemskarm visar nu en statusrad med aktuell dag och om butiken ar oppen eller stangd."
 }
