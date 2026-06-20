@@ -1,15 +1,15 @@
 {
-  "version": "0.3.12",
-  "tag": "v0.3.12",
+  "version": "0.3.13",
+  "tag": "v0.3.13",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.12/ReptileShop-Windows-v0.3.12.zip",
-    "sizeBytes": 44164623,
-    "sha256": "9e207061bb3f65c309ea4a83d23377d346c33d5ce4cec68d98519710c8d744c9"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.13/ReptileShop-Windows-v0.3.13.zip",
+    "sizeBytes": 44168052,
+    "sha256": "a37944f1ed1d17bfb7e3d71623358e22b46c7c2144178b868eb33df9c439ee4c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.12 - Djurhantering 10/10 (slutpass): tydlig Fullt-prompt nar terrariet ar fullt; hela testsviten gron (EditMode 610/610, PlayMode 49/49)."
+  "notes": "Alpha v0.3.13 - Fixar auto-uppdaterings-loopen (versions-strangen fros pa 0.3.4) och lagger till 65 verkliga reptilarter att stocka, foda upp och salja."
 }

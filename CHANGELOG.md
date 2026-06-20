@@ -15,6 +15,24 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.13] - 2026-06-20 — Alpha — "65 verkliga arter + uppdaterings-fix"
+
+### Fixed
+- **🔁 Auto-uppdateringen fastnade ("går inte att uppdatera från 3.4").** Den interna versions-strängen
+  frös på 0.3.4 (release-skriptet bumpade aldrig den), så varje bygge rapporterade 0.3.4 och uppdateraren
+  erbjöd samma uppdatering i en evig loop. Nu bumpas versionen korrekt vid varje release — när du väl är
+  på 0.3.13 är loopen bruten.
+
+### Added
+- **🦎 65 verkliga reptilarter** att stocka, placera, föda upp och sälja — ormar (majsorm, kungssnok,
+  boa, pytonarter, grön trädpyton …), geckos (leopard, crested, gargoyle, tokay, leachianus …), ödlor
+  (skäggagam, tegu, varaner, vattenagam …), kameleonter, skinkar, vatten-sköldpaddor och landsköldpaddor
+  (sulcata, rysk, leopard, galápagos …). Varje art har artanpassad kropp, skötselprofil och pris.
+
+### Tested
+- Nya EditMode-tester verifierar att alla katalog-arter registreras och har giltig skötselprofil.
+  EditMode 613/613, PlayMode 49/49.
+
 ## [0.3.12] - 2026-06-20 — Alpha — "Djurhantering 10/10: slutpass"
 
 Sista av 10 iterationer som gör djurhantering + terrarie-placering genuint perfekt. Hela testsviten grön:
