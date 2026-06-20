@@ -15,6 +15,21 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.15] - 2026-06-20 — Alpha — "Telefon i hörnet"
+
+### Added
+- **📱 Smartphone i nedre högra hörnet — tryck `P`** för att öppna/stänga. Hemskärmen visar samma appar
+  som datorn (Reptile Marketplace m.fl.), så du kan köpa/hantera på språng utan att gå till datorn.
+  Tryck på en app → den öppnas i telefonen; "‹ Hem" går tillbaka; `Esc` stänger. Muspekaren frigörs och
+  gameplay-input pausas medan telefonen är uppe (som datorpanelen).
+
+### Tested
+- Nytt PlayMode-test: telefonen installeras, exponerar de registrerade apparna och togglar öppen/stängd.
+  EditMode 613/613, PlayMode 50/50.
+
+> Obs: telefonens exakta UI-look finputsas i kommande iterationer (fal.ai-bakgrund/ikoner) — strukturen
+> och flödet är verifierat, men det visuella bekräftas bäst i ditt Windows-bygge.
+
 ## [0.3.14] - 2026-06-20 — Alpha — "Varmare butik + riktiga assets"
 
 ### Changed

@@ -1,15 +1,15 @@
 {
-  "version": "0.3.14",
-  "tag": "v0.3.14",
+  "version": "0.3.15",
+  "tag": "v0.3.15",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.14/ReptileShop-Windows-v0.3.14.zip",
-    "sizeBytes": 44167637,
-    "sha256": "dbc61b002590022c0cc4bd44120e41d8b5984dc3fe412f618f4b8c1064b98535"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.15/ReptileShop-Windows-v0.3.15.zip",
+    "sizeBytes": 44174319,
+    "sha256": "c89ba6af3edf7b91dfa423cb95a68a44463933e8c9db4f336ec226bb6202418d"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.14 - Varmare butiks-palett och ljus, plus riktiga nedladdade CC0-3D-assets (Kenney): golvdekoren ar nu riktiga krukvaxter istallet for egna modeller."
+  "notes": "Alpha v0.3.15 - Smartphone i nedre hogra hornet (tryck P) som visar samma appar som datorn (Reptile Marketplace m.fl.) sa du kan kopa och hantera pa sprang."
 }
