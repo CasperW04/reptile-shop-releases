@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.63] - 2026-06-20 — Alpha — "Marknadsföring 📣"
+
+### Added
+- **📣 Marknadsförings-system** (roadmap): köp annonskampanjer (flygblad/lokaltidning/sociala medier)
+  som **drar fler kunder till butiken** under ett antal dagar. Ny **Marknadsföring-app** (telefon + dator)
+  visar aktiv kampanj + dagar kvar; kampanjen räknas ner en dag per dygn och sparas mellan sessioner.
+
+### Tested
+- EditMode 633/633 (6 nya modell-tester), PlayMode 66/66 (full wiring: köp → trafik-boost → nedräkning → app).
+
 ## [0.3.62] - 2026-06-20 — Alpha — "Utmärkelser 🏆"
 
 ### Added
