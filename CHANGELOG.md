@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.37] - 2026-06-20 — Alpha — "Panel-rubrik & stäng-knapp"
+
+### Added
+- **🏷️ Rubrik på terrarie-panelen** som visar terrariets namn + storleksklass högst upp.
+- **✕ Stäng-knapp** på panelen så du kan stänga den med musen (utöver E/Esc).
+
+### Tested
+- PlayMode-test verifierar rubrik + stäng-knapp. EditMode 623/623, PlayMode 59/59.
+
 ## [0.3.36] - 2026-06-20 — Alpha — "Plånbok i dekor-fliken 💵"
 
 ### Added

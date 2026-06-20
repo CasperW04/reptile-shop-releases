@@ -1,15 +1,15 @@
 {
-  "version": "0.3.36",
-  "tag": "v0.3.36",
+  "version": "0.3.37",
+  "tag": "v0.3.37",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.36/ReptileShop-Windows-v0.3.36.zip",
-    "sizeBytes": 44698971,
-    "sha256": "c82580651809b4502ade382e5be317dfab2bf9d4179c64ed148324ddd2797a30"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.37/ReptileShop-Windows-v0.3.37.zip",
+    "sizeBytes": 44699221,
+    "sha256": "44be17f234cef0754fe854cb53266a994e879399ba209a1ce56ec11f094294d6"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.36 - Terrariets Dekoration-flik visar nu hur mycket pengar du har sa du ser direkt om du har rad med nasta dekorationsniva."
+  "notes": "Alpha v0.3.37 - Terrarie-panelen har nu en rubrik (namn + storleksklass) och en stang-knapp sa du kan stanga den med musen."
 }
