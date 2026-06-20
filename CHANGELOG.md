@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.36] - 2026-06-20 — Alpha — "Plånbok i dekor-fliken 💵"
+
+### Added
+- **💵 Pengar visas i Dekoration-fliken.** Terrariets Dekoration-flik visar nu hur mycket pengar du
+  har, så du ser direkt om du har råd med nästa dekorationsnivå.
+
+### Tested
+- PlayMode-test verifierar att kontant-raden visas. EditMode 623/623, PlayMode 59/59.
+
 ## [0.3.35] - 2026-06-20 — Alpha — "Trafik 🚙"
 
 ### Added

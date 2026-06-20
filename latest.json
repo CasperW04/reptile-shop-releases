@@ -1,15 +1,15 @@
 {
-  "version": "0.3.35",
-  "tag": "v0.3.35",
+  "version": "0.3.36",
+  "tag": "v0.3.36",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.35/ReptileShop-Windows-v0.3.35.zip",
-    "sizeBytes": 44698866,
-    "sha256": "eb23091c4eae6b68492582939db4b21a38ddd92bb0066c84a31dd6e63fcbeaff"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.36/ReptileShop-Windows-v0.3.36.zip",
+    "sizeBytes": 44698971,
+    "sha256": "c82580651809b4502ade382e5be317dfab2bf9d4179c64ed148324ddd2797a30"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.35 - En del av stadens bilar kor nu langs gatorna och vander sig at korriktningen - riktig trafik."
+  "notes": "Alpha v0.3.36 - Terrariets Dekoration-flik visar nu hur mycket pengar du har sa du ser direkt om du har rad med nasta dekorationsniva."
 }
