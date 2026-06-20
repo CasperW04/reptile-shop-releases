@@ -1,15 +1,15 @@
 {
-  "version": "0.3.18",
-  "tag": "v0.3.18",
+  "version": "0.3.19",
+  "tag": "v0.3.19",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.18/ReptileShop-Windows-v0.3.18.zip",
-    "sizeBytes": 44190411,
-    "sha256": "e7b74e28c6e86372d9a98a5636f28aa9752cdf0e76ee3f671f640bc948c0566a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.19/ReptileShop-Windows-v0.3.19.zip",
+    "sizeBytes": 44191872,
+    "sha256": "851bf962723c191bbfbebb1d305868aeb10f29458fe61bf51881cc295d85a051"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.18 - Gar nu att satta djur i terrarier (inte bara racks), musen visas nar man oppnar en breeding rack, tydlig OPPEN/STANGD-status, disk far ben, storre dator-hitbox."
+  "notes": "Alpha v0.3.19 - Cirka 30 fler verkliga reptilarter (94 totalt) plus en texturpipeline-forbattring (postprocessorn bevarar nu aven texturen, inte bara fargen, vid ombindning till built-in Standard)."
 }

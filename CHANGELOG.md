@@ -15,6 +15,25 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.19] - 2026-06-20 — Alpha — "Fler arter + texturpipeline"
+
+### Added
+- **🦎 ~30 fler verkliga reptilarter** (totalt 94): smaragdboa, anaconda, scharlakanskungssnok, fler
+  geckos/ödlor/kameleonter/skinkar samt fler vatten- och landsköldpaddor (pannkaks-, egyptisk, burmesisk
+  stjärn-sköldpadda m.fl.) — alla med samma artanpassade kropp/skötsel/avel.
+
+### Under huven
+- **Texturpipeline:** material-postprocessorn bevarar nu även base-color-**texturen** (+ UV-transform), inte
+  bara färgen, när nedladdade .glb binds om till built-in Standard. Förberedelse för texturerade assets.
+
+### Note (ärligt)
+- **Stad utanför butiken pausad igen:** Kenney City Kit-byggnaderna använder en extern textur-atlas som inte
+  band korrekt headless, och jag kan inte visuellt verifiera att de ser bra ut — så jag skeppar dem INTE
+  förrän pipelinen är löst + du kan verifiera. (Möbel-/dekor-assets använder per-material-färger och funkar.)
+
+### Tested
+- EditMode 614/614, PlayMode 51/51.
+
 ## [0.3.18] - 2026-06-20 — Alpha — "Speltestar-fixar: terrarium, mus, butiksstatus"
 
 ### Fixed
