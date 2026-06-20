@@ -1,15 +1,15 @@
 {
-  "version": "0.3.46",
-  "tag": "v0.3.46",
+  "version": "0.3.47",
+  "tag": "v0.3.47",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.46/ReptileShop-Windows-v0.3.46.zip",
-    "sizeBytes": 44713618,
-    "sha256": "f7c7558085b4de71e40ea777f8ccee20ab518183ba17aabff8e34985b11a082e"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.47/ReptileShop-Windows-v0.3.47.zip",
+    "sizeBytes": 44714162,
+    "sha256": "72ac86bd1d8c7f700164775d36550fddacf0d77f76e326bafd87b0b9f396f5a1"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.46 - HUD:en visar nu antal djur till salu och uppdateras direkt nar du listar eller saljer ett djur."
+  "notes": "Alpha v0.3.47 - NPC:er (cyan) och bilar (orange) visas nu som rorliga prickar pa minimapen i realtid."
 }

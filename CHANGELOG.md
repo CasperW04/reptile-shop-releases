@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.47] - 2026-06-20 — Alpha — "Liv på minimapen 🔵"
+
+### Added
+- **🔵 Rörliga prickar på minimapen.** NPC:er (cyan) och bilar (orange) visas nu som prickar som rör
+  sig i realtid på minimapen — staden lever även på kartan.
+
+### Tested
+- PlayMode-test verifierar att mover-prickar finns på minimapen. EditMode 626/626, PlayMode 62/62.
+
 ## [0.3.46] - 2026-06-20 — Alpha — "Till salu-räknare i HUD:en 🟢"
 
 ### Added
