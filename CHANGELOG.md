@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.49] - 2026-06-20 — Alpha — "Rykte i HUD:en ⭐"
+
+### Added
+- **⭐ Butikens rykte** visas nu i HUD:en bredvid antal djur till salu, så du ser hur nöjda kunderna är.
+
+### Tested
+- EditMode 627/627, PlayMode 62/62.
+
 ## [0.3.48] - 2026-06-20 — Alpha — "Väggskåp & matta 🧰"
 
 ### Added

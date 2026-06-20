@@ -1,15 +1,15 @@
 {
-  "version": "0.3.48",
-  "tag": "v0.3.48",
+  "version": "0.3.49",
+  "tag": "v0.3.49",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.48/ReptileShop-Windows-v0.3.48.zip",
-    "sizeBytes": 44715721,
-    "sha256": "7dfcc723cea509a0c37c6d0a9de2d9fb6bfd23b1c8d1da157618fc7a2394fbd6"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.49/ReptileShop-Windows-v0.3.49.zip",
+    "sizeBytes": 44716782,
+    "sha256": "d6dcc946eccdfcd9f9fc7d306e42754df7318b764f0966a5a899e00a8955f581"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.48 - Ett vaggskap och en kvadratisk matta (nedladdade CC0, Kenney Furniture) inreder butiken ytterligare."
+  "notes": "Alpha v0.3.49 - Butikens rykte visas nu i HUD:en bredvid antal djur till salu."
 }
