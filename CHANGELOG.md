@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.57] - 2026-06-20 — Alpha — "Trångbodd-varning i översikten ⚠️"
+
+### Added
+- **⚠️ Antal trångbodda djur** visas nu i Djur-flikens summering, så du snabbt ser om något djur
+  behöver ett större terrarium.
+
+### Tested
+- EditMode 627/627, PlayMode 63/63.
+
 ## [0.3.56] - 2026-06-20 — Alpha — "Terrariets totalvärde 💎"
 
 ### Added

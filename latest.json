@@ -1,15 +1,15 @@
 {
-  "version": "0.3.56",
-  "tag": "v0.3.56",
+  "version": "0.3.57",
+  "tag": "v0.3.57",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.56/ReptileShop-Windows-v0.3.56.zip",
-    "sizeBytes": 44718332,
-    "sha256": "000c9b72e18f5adf940435be4cbb975d738079a94e26da5b1b8c9fd2000ff67c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.57/ReptileShop-Windows-v0.3.57.zip",
+    "sizeBytes": 44718458,
+    "sha256": "387c9610ca1d9e7b8df1b6867d4be3d485d5ff290011baf7dfceb645b9e644dd"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.56 - Totalt marknadsvarde for djuren visas nu i Djur-flikens summering."
+  "notes": "Alpha v0.3.57 - Antal trangbodda djur visas nu i Djur-flikens summering sa du snabbt ser om nagot djur behover ett storre terrarium."
 }
