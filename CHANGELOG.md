@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.29] - 2026-06-20 — Alpha — "Terrarium-panel med flikar"
+
+### Added
+- **🪟 Terrarium-meny med flikar.** Titta på ett terrarium och tryck **E** → en panel med tre flikar:
+  **Djur** (listar djuren i terrariet + storleksklass), **Skötsel** (mata/vattna/städa/värme som förut)
+  och **Dekoration** (kommande). Öppnas på Djur-fliken.
+- **🖱️ Muspekaren frigörs** nu korrekt när terrarium-panelen öppnas (samma gate som dator/breeding).
+
+### Tested
+- PlayMode-test verifierar att panelen öppnas med tre flikar. EditMode 622/622, PlayMode 55/55.
+
+### Kommer härnäst
+- Sätt försäljningspris per enskilt djur i Djur-fliken, och dekorations-köp i Dekoration-fliken.
+
 ## [0.3.28] - 2026-06-20 — Alpha — "Minimap 🗺️"
 
 ### Added
