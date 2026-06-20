@@ -1,15 +1,15 @@
 {
-  "version": "0.3.58",
-  "tag": "v0.3.58",
+  "version": "0.3.59",
+  "tag": "v0.3.59",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.58/ReptileShop-Windows-v0.3.58.zip",
-    "sizeBytes": 44718668,
-    "sha256": "c7cce35640fd2f9c0631a00c9e622ae6cfacc84fe42e106f54ba8faccec1ce9e"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.59/ReptileShop-Windows-v0.3.59.zip",
+    "sizeBytes": 44718767,
+    "sha256": "b4f6797f7e73f9a2fd9ca46c2cb2281243e8f03809fecefc008f4c7cd695d40b"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.58 - Klicka pa ett djur i Djur-fliken for att valja det och hoppa direkt till Skotsel-fliken for just det djuret."
+  "notes": "Alpha v0.3.59 - Tillbaka i Skotsel-fliken gar nu till djurlistan istallet for att stanga hela panelen."
 }

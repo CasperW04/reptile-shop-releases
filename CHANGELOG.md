@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.59] - 2026-06-20 — Alpha — "Tillbaka till djurlistan ↩️"
+
+### Changed
+- **↩️ "Tillbaka" i Skötsel-fliken** går nu till djurlistan istället för att stänga hela panelen —
+  smidigare att hoppa mellan djur. (Stäng panelen med ✕ eller E/Esc som vanligt.)
+
+### Tested
+- PlayMode-test verifierar att Back återgår till Djur-fliken utan att stänga panelen. EditMode 627/627, PlayMode 63/63.
+
 ## [0.3.58] - 2026-06-20 — Alpha — "Klicka för att sköta 👆"
 
 ### Added
