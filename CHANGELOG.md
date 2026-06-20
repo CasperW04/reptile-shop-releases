@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.41] - 2026-06-20 — Alpha — "Fåtölj & växt 🪑"
+
+### Added
+- **🪑 Fåtölj och liten växt** (nedladdade CC0, Kenney Furniture) i butiken — en mysig vänthörna och
+  mer grönska.
+
+### Tested
+- Planerar-test verifierar fåtölj + växt på golvet. EditMode 625/625, PlayMode 61/61.
+
 ## [0.3.40] - 2026-06-20 — Alpha — "Bokhylla i butiken 📚"
 
 ### Added

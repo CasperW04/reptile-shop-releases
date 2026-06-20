@@ -1,15 +1,15 @@
 {
-  "version": "0.3.40",
-  "tag": "v0.3.40",
+  "version": "0.3.41",
+  "tag": "v0.3.41",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.40/ReptileShop-Windows-v0.3.40.zip",
-    "sizeBytes": 44704244,
-    "sha256": "12d12538a4ec41946c7e8303e08afe92e31beceeb23284928537b9812da73cea"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.41/ReptileShop-Windows-v0.3.41.zip",
+    "sizeBytes": 44707282,
+    "sha256": "72887cd04b693d7c2976012897dba1aaa6a6bdd7276fddf2d25449f906a7442e"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.40 - En bokhylla (nedladdad CC0, Kenney Furniture) star nu mot butikens bakvagg for en mer inredd butik."
+  "notes": "Alpha v0.3.41 - En fatolj (mysig vanthorna) och en liten vaxt (nedladdade CC0, Kenney Furniture) star nu i butiken."
 }
