@@ -1,15 +1,15 @@
 {
-  "version": "0.3.16",
-  "tag": "v0.3.16",
+  "version": "0.3.17",
+  "tag": "v0.3.17",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.16/ReptileShop-Windows-v0.3.16.zip",
-    "sizeBytes": 44189995,
-    "sha256": "351da4d227e1baeefa9273046a3320459409875c9b2cf4543fe3afafc3251612"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.17/ReptileShop-Windows-v0.3.17.zip",
+    "sizeBytes": 44189633,
+    "sha256": "00097bb5262c136f3a15434c9031b436075721568f416b6d13912ec0c4c41623"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.16 - Riktiga nedladdade CC0-ljudeffekter (Kenney Interface Sounds) for placering, forsaljning, klackning, skotsel och UI istallet for syntade pip."
+  "notes": "Alpha v0.3.17 - Riktig avel for alla 65 arter: varje art har nu Albino + Anerythristic recessiva morfer sa att para het-djur ger 25% visuell morf enligt mendelsk nedarvning."
 }

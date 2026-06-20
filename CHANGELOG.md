@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.17] - 2026-06-20 — Alpha — "Avel för alla arter"
+
+### Added
+- **🧬 Riktig avel för alla 65 arter.** Varje art har nu två klassiska recessiva morfer — **Albino**
+  (amelanistisk, rubinögon) och **Anerythristic** (grå/silver) — så att para två het-djur ger 25%
+  visuell morf enligt riktig mendelsk nedärvning. (Flaggskepps-arterna behåller sina egna kombo-morfer.)
+
+### Tested
+- Nytt test verifierar att varje katalog-art har båda generna; genetik-motorn hanterar dem.
+  EditMode 614/614, PlayMode 51/51.
+
+> Stad/exteriör: Kenney City Kit-byggnaderna använder en extern textur-atlas — pausat tills textur-
+> pipelinen är löst så de inte blir otexturerade. Möbel-/dekor-assets (inbäddade texturer) fortsätter.
+
 ## [0.3.16] - 2026-06-20 — Alpha — "Riktiga ljud"
 
 ### Changed
