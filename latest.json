@@ -1,15 +1,15 @@
 {
-  "version": "0.3.39",
-  "tag": "v0.3.39",
+  "version": "0.3.40",
+  "tag": "v0.3.40",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.39/ReptileShop-Windows-v0.3.39.zip",
-    "sizeBytes": 44699603,
-    "sha256": "9f1ddec1f840e8cdc62b0cd76320010a5cdef205880e32648d7a7f33ea189b5f"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.3.40/ReptileShop-Windows-v0.3.40.zip",
+    "sizeBytes": 44704244,
+    "sha256": "12d12538a4ec41946c7e8303e08afe92e31beceeb23284928537b9812da73cea"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.3.39 - Ljud-feedback spelas nu nar du lagger ut ett djur till forsaljning sa prissattningen kanns mer responsiv."
+  "notes": "Alpha v0.3.40 - En bokhylla (nedladdad CC0, Kenney Furniture) star nu mot butikens bakvagg for en mer inredd butik."
 }

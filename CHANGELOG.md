@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.3.40] - 2026-06-20 — Alpha — "Bokhylla i butiken 📚"
+
+### Added
+- **📚 Bokhylla** (nedladdad CC0, Kenney Furniture) står nu mot butikens bakvägg — mer inredd butik.
+
+### Tested
+- Nytt planerar-test verifierar bokhyllans placering mot bakväggen. EditMode 624/624, PlayMode 61/61.
+
 ## [0.3.39] - 2026-06-20 — Alpha — "Ljud när du listar 🔉"
 
 ### Added
