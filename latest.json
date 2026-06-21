@@ -1,15 +1,15 @@
 {
-  "version": "0.33.0",
-  "tag": "v0.33.0",
+  "version": "0.34.0",
+  "tag": "v0.34.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.33.0/ReptileShop-Windows-v0.33.0.zip",
-    "sizeBytes": 44769786,
-    "sha256": "2efa61fabc9e7fef45bd69b962c2ea2f73298e7b397315926ff569769b38710f"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.34.0/ReptileShop-Windows-v0.34.0.zip",
+    "sizeBytes": 44773884,
+    "sha256": "3643baaf6269bc340968c540ba1f47c451d7189816c338184dfb9179e5704a26"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.33.0 - Builders Market: en butik (app) som listar alla byggbara saker med pris och niva. Butiks-ytan for bygg-sakerna. (Speltestar-feedback #12.)"
+  "notes": "Alpha v0.34.0 - Aktiemarknad (karna): reptil-bors med 8 bolag (rival-butiker + branschbolag), daglig prisrorelse, kop/salj med GAV och portfolj. Ny Stocks-app."
 }
