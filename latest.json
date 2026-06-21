@@ -1,15 +1,15 @@
 {
-  "version": "0.5.0",
-  "tag": "v0.5.0",
+  "version": "0.6.0",
+  "tag": "v0.6.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.5.0/ReptileShop-Windows-v0.5.0.zip",
-    "sizeBytes": 44731572,
-    "sha256": "0ea42ebe3bbd2b1b77c57316bd3118b239bee3da3772623078ca40eaaadab51a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.6.0/ReptileShop-Windows-v0.6.0.zip",
+    "sizeBytes": 44734370,
+    "sha256": "545b5e0899b6b69c5f321b475a70ee28cefec7cbdac53bcacb850874a4723f07"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.5.0 - Omsnings-cykel: djur omsar regelbundet; vattnas de val blir det rent, annars stuck shed som drar ner halsan. Visas i Djur-fliken. Djupare husbandry-loop."
+  "notes": "Alpha v0.6.0 - Kundrecensioner och rykte: varje forsaljning ger en recension som speglar hur valskotta djuren ar; snittbetyget paverkar ryktet och darmed kundtrafiken. Ny Recensioner-app."
 }

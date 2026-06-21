@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.6.0] - 2026-06-21 — Alpha — "Recensioner ⭐"
+
+### Added
+- **⭐ Kundrecensioner & rykte** (roadmap 0.6 marknadsföring/trafik): varje försäljning ger en
+  recension vars betyg speglar hur välskötta butikens djur är (snitt-wellbeing). Snittbetyget puttar
+  ryktet upp/ned per dygn — välskötta djur → bra recensioner → högre rykte → fler kunder. Ny
+  **Recensioner-app** (telefon + dator) med snittbetyg + senaste omdömen. Recensioner sparas.
+
+### Tested
+- EditMode 648/648 (5 nya review-tester inkl. save round-trip), PlayMode 69/69 (sälj → recension → rykte → app).
+
 ## [0.5.0] - 2026-06-20 — Alpha — "Ömsning 🌀"
 
 ### Added
