@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.7.0] - 2026-06-21 — Alpha — "Filialer 🏬"
+
+### Added
+- **🏬 Filialer / karta & stad** (roadmap 0.7): hyr butikslokaler runt om i staden (Förortskiosken,
+  Köpcentret, Citybutiken). Varje filial ger en passiv daglig nettointäkt som skalas med ditt rykte
+  (känt varumärke → mer kundström) minus hyra, som dras/läggs vid dag-avslut. Ny **Filialer-app**
+  (telefon + dator) för att hyra/säga upp och se netto. Filialer sparas mellan sessioner.
+
+### Tested
+- EditMode 653/653 (5 nya branch-tester inkl. save round-trip), PlayMode 70/70 (hyr → daglig netto → app).
+
 ## [0.6.0] - 2026-06-21 — Alpha — "Recensioner ⭐"
 
 ### Added
