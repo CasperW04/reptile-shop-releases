@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.12.0] - 2026-06-21 — Alpha — "Dagens uppdrag 🎯"
+
+### Added
+- **🎯 Dagliga mål/uppdrag**: varje speldag har ett mål (sälj X djur / tjäna $Y / kläck Z djur) som
+  spåras automatiskt och ger en kontant-belöning när det är klart. Ny **Dagens uppdrag-app**
+  (telefon + dator) visar mål, framsteg och en hämta-belöning-knapp. Mål + framsteg sparas.
+
+### Tested
+- EditMode 668/668 (5 nya mål-tester inkl. save round-trip), PlayMode 73/73 (progress → claim → belöning + app).
+
 ## [0.11.0] - 2026-06-21 — Alpha — "Statistik & rekord 📊"
 
 ### Added

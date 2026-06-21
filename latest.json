@@ -1,15 +1,15 @@
 {
-  "version": "0.11.0",
-  "tag": "v0.11.0",
+  "version": "0.12.0",
+  "tag": "v0.12.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.11.0/ReptileShop-Windows-v0.11.0.zip",
-    "sizeBytes": 44745303,
-    "sha256": "a413c33f27c5486ac43ff551683bde5bc9e565be1fbbdd2aad3c9e9987b38abd"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.12.0/ReptileShop-Windows-v0.12.0.zip",
+    "sizeBytes": 44747781,
+    "sha256": "d31c445b683576a1d0fb48356612010a6f9d7afb809b15bcd028f0717bb90e8c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.11.0 - Statistik-/rekordtavla: livstidsstatistik (salda djur, intakt, basta forsaljning, uppfodda) som rakas upp lopande. Ny Statistik-app pa telefon och dator."
+  "notes": "Alpha v0.12.0 - Dagliga mal/uppdrag: varje dag ett mal (salj/tjana/klack) som spars automatiskt och ger kontant-beloning nar klart. Ny Dagens uppdrag-app."
 }
