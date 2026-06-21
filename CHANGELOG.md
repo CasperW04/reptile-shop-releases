@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.31.0] - 2026-06-21 — Alpha — "Tom lokal vid start 🧹"
+
+### Changed
+- **🧹 Lokalen startar tom** (speltestar-feedback): butiken börjar nu ren — bara datorn/skrivbordet och
+  lamporna finns från start. Övrig inomhus-startinredning (soffor, hyllor, växter, mattor, skyltar)
+  spawnas inte längre, så du bygger upp butiken själv. (Stadens utomhus-miljö är orörd.)
+
+### Tested
+- PlayMode-test verifierar att ambient-inredningen bara innehåller lampor. EditMode 705/705, PlayMode 85/85.
+
 ## [0.30.0] - 2026-06-21 — Alpha — "Gula väglinjer 🛣️"
 
 ### Added

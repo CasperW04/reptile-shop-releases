@@ -1,15 +1,15 @@
 {
-  "version": "0.30.0",
-  "tag": "v0.30.0",
+  "version": "0.31.0",
+  "tag": "v0.31.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.30.0/ReptileShop-Windows-v0.30.0.zip",
-    "sizeBytes": 44767774,
-    "sha256": "857cfbe3f6a5aa9461994a63861a0f7589c6c3c934f92c44117306f00eb69ac9"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.31.0/ReptileShop-Windows-v0.31.0.zip",
+    "sizeBytes": 44767875,
+    "sha256": "c9ea7e1c1f13b4e0091131edce12e217cc3ff1e157c8d82a3b9772157c6e0cf5"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.30.0 - US-stil vagar: varje vagbit har nu en gul mittlinje langs korbanan sa gatorna ser ut som riktiga asfaltsvagar. (Speltestar-feedback.)"
+  "notes": "Alpha v0.31.0 - Lokalen startar nu tom: bara datorn och lamporna finns fran start, ovrig inomhus-inredning spawnas inte langre sa du bygger upp butiken sjalv. (Speltestar-feedback.)"
 }
