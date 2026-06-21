@@ -1,15 +1,15 @@
 {
-  "version": "0.8.0",
-  "tag": "v0.8.0",
+  "version": "0.9.0",
+  "tag": "v0.9.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.8.0/ReptileShop-Windows-v0.8.0.zip",
-    "sizeBytes": 44738811,
-    "sha256": "31e604bcc8b1bcae6c3f3c18d5e5fdf78b9b48ad995b1e6aa6a8d8082af2635e"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.9.0/ReptileShop-Windows-v0.9.0.zip",
+    "sizeBytes": 44741734,
+    "sha256": "78ecb218cce609afe3acfd9a598588588a3ee379e3e040d3a8ec384735daf273"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.8.0 - Anstallda-djup: kompetensnivaer 1-5 som gar att uppgradera. Skotare niva 2+ behandlar sjuka djur, saljare listar med paslag som vaxer med nivan."
+  "notes": "Alpha v0.9.0 - Butiks-teman: valj fargtema for butiken (Klassisk ek, Modern gra, Djungel, Oken, Nattmarknad). Fargar om golv/vaggar/tak direkt. Ny Butikstema-app."
 }

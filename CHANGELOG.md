@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.9.0] - 2026-06-21 — Alpha — "Butikstema 🎨"
+
+### Added
+- **🎨 Butiks-teman** (roadmap custom shop themes): välj färgtema för butiken — Klassisk ek, Modern grå,
+  Djungel, Öken eller Nattmarknad. Temat färgar om golv/väggar/tak direkt och sparas mellan sessioner.
+  Ny **Butikstema-app** (telefon + dator) med färgrutor + "Välj".
+
+### Tested
+- EditMode 662/662 (4 nya tema-tester), PlayMode 71/71 (väggmaterial får temats färg + app nåbar).
+
 ## [0.8.0] - 2026-06-21 — Alpha — "Personal-kompetens 📈"
 
 ### Added
