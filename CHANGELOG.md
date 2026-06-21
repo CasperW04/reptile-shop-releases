@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.21.0] - 2026-06-21 — Alpha — "Auktionshus 🔨"
+
+### Added
+- **🔨 Auktionshus**: lägg ut ett ägt djur på auktion — det avgörs efter ett par dagar till ett
+  premiumpris (1,30–1,60× marknadsvärde), pengarna sätts in och djuret lämnar samlingen. Ny
+  **Auktionshus-app** (telefon + dator) för att lista djur + se pågående auktioner. Sparas.
+
+### Tested
+- EditMode 696/696 (4 nya auktions-tester), PlayMode 79/79 (lista → avgörs på dag-avslut → premie + djur borta).
+
 ## [0.20.0] - 2026-06-21 — Alpha — "Stadsbelysning 💡"
 
 ### Added

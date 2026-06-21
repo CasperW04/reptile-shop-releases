@@ -1,15 +1,15 @@
 {
-  "version": "0.20.0",
-  "tag": "v0.20.0",
+  "version": "0.21.0",
+  "tag": "v0.21.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.20.0/ReptileShop-Windows-v0.20.0.zip",
-    "sizeBytes": 44760322,
-    "sha256": "c2f6f45574a36d0f5f5f5e0d7dc8e38487c77a877925755b1e1f4695d2920781"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.21.0/ReptileShop-Windows-v0.21.0.zip",
+    "sizeBytes": 44762992,
+    "sha256": "99671b8db1b8d0746a1495ec3d8fd2c6ee0ed1c4c61ebd6f654b28a4c61a27f8"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.20.0 - Gatlykts-belysning: lyktorna narmast butiken kastar ett varmt sken sa kvarteren gloder pa kvallen. Antalet realtidsljus kapat for prestanda."
+  "notes": "Alpha v0.21.0 - Auktionshus: lagg ut ett djur pa auktion och fa ett premiumpris efter ett par dagar. Ny Auktionshus-app pa telefon och dator."
 }
