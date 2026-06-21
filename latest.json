@@ -1,15 +1,15 @@
 {
-  "version": "0.10.0",
-  "tag": "v0.10.0",
+  "version": "0.11.0",
+  "tag": "v0.11.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.10.0/ReptileShop-Windows-v0.10.0.zip",
-    "sizeBytes": 44743813,
-    "sha256": "37130c839e43099ffe1c23113260ae8cf77c302878ea9960b95affa87b6f95ef"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.11.0/ReptileShop-Windows-v0.11.0.zip",
+    "sizeBytes": 44745303,
+    "sha256": "a413c33f27c5486ac43ff551683bde5bc9e565be1fbbdd2aad3c9e9987b38abd"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.10.0 - Utomhushagn (Outdoor Habitat): ny storsta terrarie-tier, 6x5 fotavtryck och 6 djurplatser, bioaktiv. Aven de storsta arterna far plats."
+  "notes": "Alpha v0.11.0 - Statistik-/rekordtavla: livstidsstatistik (salda djur, intakt, basta forsaljning, uppfodda) som rakas upp lopande. Ny Statistik-app pa telefon och dator."
 }

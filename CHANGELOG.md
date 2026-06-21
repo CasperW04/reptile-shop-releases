@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.11.0] - 2026-06-21 — Alpha — "Statistik & rekord 📊"
+
+### Added
+- **📊 Statistik-/rekordtavla** (roadmap leaderboard, single-player): livstidsstatistik som räknas upp
+  löpande — totalt sålda djur, total försäljningsintäkt, bästa enskilda försäljning, totalt uppfödda —
+  plus dag, kassa, rykte, antal djur/filialer/anställda. Ny **Statistik-app** (telefon + dator). Sparas.
+
+### Tested
+- EditMode 663/663 (ny persistens-test), PlayMode 72/72 (events → räknare + app nåbar).
+
 ## [0.10.0] - 2026-06-21 — Alpha — "Utomhushägn 🌿"
 
 ### Added
