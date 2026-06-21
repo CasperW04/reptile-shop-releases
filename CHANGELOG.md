@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.30.0] - 2026-06-21 — Alpha — "Gula väglinjer 🛣️"
+
+### Added
+- **🛣️ US-stil vägar** (speltestar-feedback): varje vägbit har nu en gul mittlinje längs körbanan, så
+  stadens gator ser ut som riktiga asfaltsvägar. (Linjen är en tunn primitiv-strip i kod ovanpå de
+  befintliga CC0-vägbitarna.)
+
+### Tested
+- PlayMode-test verifierar att gula mittlinjer (road_line) byggs i staden. EditMode 705/705, PlayMode 84/84.
+
 ## [0.29.0] - 2026-06-21 — Alpha — "Render distance 🔭"
 
 ### Added

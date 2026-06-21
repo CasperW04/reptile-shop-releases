@@ -1,15 +1,15 @@
 {
-  "version": "0.29.0",
-  "tag": "v0.29.0",
+  "version": "0.30.0",
+  "tag": "v0.30.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.29.0/ReptileShop-Windows-v0.29.0.zip",
-    "sizeBytes": 44767494,
-    "sha256": "2077660a3894aa167ee2450e96c614baebd4aa9d7481e45f66149a7efb2600e3"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.30.0/ReptileShop-Windows-v0.30.0.zip",
+    "sizeBytes": 44767774,
+    "sha256": "857cfbe3f6a5aa9461994a63861a0f7589c6c3c934f92c44117306f00eb69ac9"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.29.0 - Render distance-installning (Low/Medium/High/Ultra) i Settings-appen; satter kamerans far clip plane sa du kan balansera sikt mot prestanda. (Speltestar-feedback.)"
+  "notes": "Alpha v0.30.0 - US-stil vagar: varje vagbit har nu en gul mittlinje langs korbanan sa gatorna ser ut som riktiga asfaltsvagar. (Speltestar-feedback.)"
 }
