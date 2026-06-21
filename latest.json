@@ -1,15 +1,15 @@
 {
-  "version": "0.18.0",
-  "tag": "v0.18.0",
+  "version": "0.19.0",
+  "tag": "v0.19.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.18.0/ReptileShop-Windows-v0.18.0.zip",
-    "sizeBytes": 44759851,
-    "sha256": "9ec559e862e1b37368739b3c7372abe0b6f4540491d86647595c5752942af8ff"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.19.0/ReptileShop-Windows-v0.19.0.zip",
+    "sizeBytes": 44760020,
+    "sha256": "e74faa4f96068d5c1a8fc168028f415c1f4a85b8d243a7cbf539e3bd53f32454"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.18.0 - Marknadstrender: marknaden svanger varje dag och skalar dina forsaljningspriser. Ny Marknad-app visar dagens trend och utsikt sa du kan tajma forsaljningar."
+  "notes": "Alpha v0.19.0 - Mycket tatare och livligare stad: 17x17 kvartersrutnat med fler byggnader, trad, gatlyktor, bilar och fotgangare. Allt med befintliga CC0-modeller."
 }

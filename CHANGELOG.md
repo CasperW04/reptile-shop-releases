@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.19.0] - 2026-06-21 — Alpha — "Tätare stad 🏙️"
+
+### Changed
+- **🏙️ Mycket tätare & livligare stad**: kvartersrutnätet utökat från 13×13 till 17×17 — fler byggnader
+  och skyskrapor, fler träd & gatlyktor, fler bilar och fotgängare på gatorna, och vägnätet täcker hela
+  den större kartan. Allt med redan nedladdade CC0-modeller (ingen egen 3D).
+
+### Tested
+- PlayMode-test verifierar >120 byggnader i staden. EditMode 692/692, PlayMode 78/78.
+
 ## [0.18.0] - 2026-06-21 — Alpha — "Marknadstrender 📈"
 
 ### Added
