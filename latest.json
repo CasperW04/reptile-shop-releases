@@ -1,15 +1,15 @@
 {
-  "version": "0.21.0",
-  "tag": "v0.21.0",
+  "version": "0.22.0",
+  "tag": "v0.22.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.21.0/ReptileShop-Windows-v0.21.0.zip",
-    "sizeBytes": 44762992,
-    "sha256": "99671b8db1b8d0746a1495ec3d8fd2c6ee0ed1c4c61ebd6f654b28a4c61a27f8"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.22.0/ReptileShop-Windows-v0.22.0.zip",
+    "sizeBytes": 44763187,
+    "sha256": "7e124ed6618b9644fcbae805356dc4f14ac3e67cd707bc3067930b5e98a84286"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.21.0 - Auktionshus: lagg ut ett djur pa auktion och fa ett premiumpris efter ett par dagar. Ny Auktionshus-app pa telefon och dator."
+  "notes": "Alpha v0.22.0 - Hoppa med mellanslag: first-person-spelaren kan nu hoppa med Space nar man star pa marken. (Speltestar-feedback.)"
 }

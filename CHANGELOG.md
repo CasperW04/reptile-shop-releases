@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.22.0] - 2026-06-21 — Alpha — "Hoppa 🦘"
+
+### Added
+- **🦘 Hoppa med mellanslag** (speltestar-feedback): first-person-spelaren kan nu hoppa med Space när
+  hen står på marken.
+
+### Tested
+- PlayMode-test verifierar jump-inputens livscykel. EditMode 696/696, PlayMode 80/80.
+
 ## [0.21.0] - 2026-06-21 — Alpha — "Auktionshus 🔨"
 
 ### Added
