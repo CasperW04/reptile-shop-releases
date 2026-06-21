@@ -1,15 +1,15 @@
 {
-  "version": "0.16.0",
-  "tag": "v0.16.0",
+  "version": "0.17.0",
+  "tag": "v0.17.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.16.0/ReptileShop-Windows-v0.16.0.zip",
-    "sizeBytes": 44757772,
-    "sha256": "02bb898c680a4567017d1f4ef85399c4935a8a6c7a4201352ff85118867d86bd"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.17.0/ReptileShop-Windows-v0.17.0.zip",
+    "sizeBytes": 44758129,
+    "sha256": "6c91ce23bebf1c72471032ffee5caf04ef260c63d274d4924a6a3f0735ec52e4"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.16.0 - Samarbeten/co-op-kontrakt: NPC-uppfodare ger order, leverera djur for beloning och rykte. Klarade kontrakt roteras. Ny Samarbeten-app."
+  "notes": "Alpha v0.17.0 - Sparkonto i banken: satt in pengar och tjana 1 procent ranta per dygn. Satt in och ta ut via Bank-appen."
 }

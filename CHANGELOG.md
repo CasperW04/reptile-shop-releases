@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.17.0] - 2026-06-21 — Alpha — "Sparkonto 💰"
+
+### Added
+- **💰 Sparkonto** i banken: sätt in pengar och tjäna **1% ränta per dygn** (lägre än lånets 2%). Sätt
+  in/ta ut via Bank-appen; balansen växer vid dag-avslut och sparas mellan sessioner. Ger en plats att
+  parkera överskott och en mjuk ekonomisk progression.
+
+### Tested
+- EditMode 688/688 (4 nya sparkonto-tester inkl. save round-trip), PlayMode 77/77 (insättning → ränta → uttag).
+
 ## [0.16.0] - 2026-06-21 — Alpha — "Samarbeten 🤝"
 
 ### Added
