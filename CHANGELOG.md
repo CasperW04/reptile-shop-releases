@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.16.0] - 2026-06-21 — Alpha — "Samarbeten 🤝"
+
+### Added
+- **🤝 Samarbeten / co-op-kontrakt**: NPC-uppfödare (Morph Masters, Apex Reptiles, stadens zoo m.fl.)
+  erbjuder order — leverera djur (genom att sälja) för kontant-belöning + ryktesbonus. Klarade kontrakt
+  roteras automatiskt mot nya. Ny **Samarbeten-app** (telefon + dator) med progress + claim. Sparas.
+- Ännu en offline-grund för framtida online-co-op (samma modell kan matas av riktiga medspelare).
+
+### Tested
+- EditMode 684/684 (5 nya kontrakt-tester inkl. save round-trip), PlayMode 77/77 (leverans → claim + app).
+
 ## [0.15.0] - 2026-06-21 — Alpha — "Konkurrenter & topplista 🏆"
 
 ### Added

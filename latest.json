@@ -1,15 +1,15 @@
 {
-  "version": "0.15.0",
-  "tag": "v0.15.0",
+  "version": "0.16.0",
+  "tag": "v0.16.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.15.0/ReptileShop-Windows-v0.15.0.zip",
-    "sizeBytes": 44754763,
-    "sha256": "141e0652737ec2abcd048fd84c663fb46e0437f832afb4b525e66717abaa3284"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.16.0/ReptileShop-Windows-v0.16.0.zip",
+    "sizeBytes": 44757772,
+    "sha256": "02bb898c680a4567017d1f4ef85399c4935a8a6c7a4201352ff85118867d86bd"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.15.0 - Konkurrenter och topplista: fem AI-rivalbutiker vaxer dagligen och du rankas mot dem pa en ny Topplista-app. Grund for framtida online-co-op."
+  "notes": "Alpha v0.16.0 - Samarbeten/co-op-kontrakt: NPC-uppfodare ger order, leverera djur for beloning och rykte. Klarade kontrakt roteras. Ny Samarbeten-app."
 }
