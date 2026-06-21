@@ -1,15 +1,15 @@
 {
-  "version": "0.9.0",
-  "tag": "v0.9.0",
+  "version": "0.10.0",
+  "tag": "v0.10.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.9.0/ReptileShop-Windows-v0.9.0.zip",
-    "sizeBytes": 44741734,
-    "sha256": "78ecb218cce609afe3acfd9a598588588a3ee379e3e040d3a8ec384735daf273"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.10.0/ReptileShop-Windows-v0.10.0.zip",
+    "sizeBytes": 44743813,
+    "sha256": "37130c839e43099ffe1c23113260ae8cf77c302878ea9960b95affa87b6f95ef"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.9.0 - Butiks-teman: valj fargtema for butiken (Klassisk ek, Modern gra, Djungel, Oken, Nattmarknad). Fargar om golv/vaggar/tak direkt. Ny Butikstema-app."
+  "notes": "Alpha v0.10.0 - Utomhushagn (Outdoor Habitat): ny storsta terrarie-tier, 6x5 fotavtryck och 6 djurplatser, bioaktiv. Aven de storsta arterna far plats."
 }

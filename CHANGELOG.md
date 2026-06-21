@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.10.0] - 2026-06-21 — Alpha — "Utomhushägn 🌿"
+
+### Added
+- **🌿 Utomhushägn (Outdoor Habitat)** (roadmap outdoor enclosures): en ny, största terrarie-tier — 6×5
+  fotavtryck, 6 djurplatser, bioaktiv utrustning, räknas som XLarge så även de största arterna får plats.
+  Köps i bygg-läget som övriga terrarier.
+
+### Tested
+- EditMode 662/662 (katalog- + sizing- + alias-tester täcker den nya tiern), PlayMode 71/71.
+
 ## [0.9.0] - 2026-06-21 — Alpha — "Butikstema 🎨"
 
 ### Added
