@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.26.0] - 2026-06-21 — Alpha — "Storlek i Marketplace 📐"
+
+### Added
+- **📐 Nödvändig terrarie-storlek per reptil i Marketplace** (speltestar-feedback): varje listning visar
+  nu vilken terrarie-storlek djuret behöver som vuxen (Small/Medium/Large/XLarge) — både på kortet
+  ("Needs: …") och i detalj-panelen — så du kan planera boendet innan du köper.
+
+### Tested
+- EditMode 701/701 (ny format-test), PlayMode 83/83.
+
 ## [0.25.0] - 2026-06-21 — Alpha — "Day speed ⏩"
 
 ### Added
