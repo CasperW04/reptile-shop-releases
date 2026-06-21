@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.15.0] - 2026-06-21 — Alpha — "Konkurrenter & topplista 🏆"
+
+### Added
+- **🏆 Konkurrenter + topplista** (co-op/konkurrens, offline): fem AI-rivalbutiker (Exotic Scales,
+  Morph Masters, Apex Reptiles m.fl.) tävlar mot dig — de växer i rykte och försäljning varje dag, och en
+  ny **Topplista-app** (telefon + dator) rankar dig mot dem efter en kombinerad poäng med din rad
+  markerad. Rivalerna sparas mellan sessioner.
+- Grunden för framtida online-co-op: samma modell kan senare matas av riktiga nätverksspelare.
+
+### Tested
+- EditMode 679/679 (5 nya konkurrent-tester inkl. save round-trip), PlayMode 76/76 (rivaler växer + ranking + app).
+
 ## [0.14.0] - 2026-06-21 — Alpha — "Bank & lån 🏦"
 
 ### Added

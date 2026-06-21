@@ -1,15 +1,15 @@
 {
-  "version": "0.14.0",
-  "tag": "v0.14.0",
+  "version": "0.15.0",
+  "tag": "v0.15.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.14.0/ReptileShop-Windows-v0.14.0.zip",
-    "sizeBytes": 44751998,
-    "sha256": "09fbb2c14c56f0d696f36b4a827f3888548cef810e024831cf63a1c1a73d0dce"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.15.0/ReptileShop-Windows-v0.15.0.zip",
+    "sizeBytes": 44754763,
+    "sha256": "141e0652737ec2abcd048fd84c663fb46e0437f832afb4b525e66717abaa3284"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.14.0 - Bank/lan: lana kapital upp till en kreditgrans skalad av rykte och butiksniva. 2%% ranta per dygn, aterbetala valfritt belopp. Ny Bank-app."
+  "notes": "Alpha v0.15.0 - Konkurrenter och topplista: fem AI-rivalbutiker vaxer dagligen och du rankas mot dem pa en ny Topplista-app. Grund for framtida online-co-op."
 }
