@@ -1,15 +1,15 @@
 {
-  "version": "0.34.0",
-  "tag": "v0.34.0",
+  "version": "0.35.0",
+  "tag": "v0.35.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.34.0/ReptileShop-Windows-v0.34.0.zip",
-    "sizeBytes": 44773884,
-    "sha256": "3643baaf6269bc340968c540ba1f47c451d7189816c338184dfb9179e5704a26"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.35.0/ReptileShop-Windows-v0.35.0.zip",
+    "sizeBytes": 44775169,
+    "sha256": "d3ee4c60aafb44871c58b01fc63023233e2fd0904652b831f55ee078143d4e27"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.34.0 - Aktiemarknad (karna): reptil-bors med 8 bolag (rival-butiker + branschbolag), daglig prisrorelse, kop/salj med GAV och portfolj. Ny Stocks-app."
+  "notes": "Alpha v0.35.0 - Bors-djup: utdelningar (var 5:e dag), marknads-events (bull/krasch) och pris-sparkline per aktie i Stocks-appen."
 }

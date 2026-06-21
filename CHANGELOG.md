@@ -15,6 +15,31 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.35.0] - 2026-06-22 — Alpha — "Börs-djup: utdelning, events, graf 📊"
+
+### Added
+- **💰 Utdelningar** — flera bolag delar ut per aktie var 5:e dag (krediteras vid dag-avslut).
+- **🐂📉 Marknads-events** — deterministiska bull-/krasch-dagar som tillfälligt förstärker prisrörelsen,
+  med en banner i Stocks-appen.
+- **📊 Pris-sparkline** — varje aktie visar en liten kursgraf (▁▂▃▅▇) av senaste dagarnas priser; historik
+  sparas per aktie.
+
+### Tested
+- EditMode 715/715 (event-determinism, utdelnings-matte, historik-cap, save round-trip), PlayMode 88/88 (utdelning krediteras).
+
+## [0.34.0] - 2026-06-21 — Alpha — "Aktiemarknad: kärna 📈"
+
+### Added
+- **📈 Aktiemarknad (kärna)** — ny reptil-börs med 8 noterade bolag: rival-butikerna (Exotic Scales,
+  Morph Masters, Apex Reptiles, Scaled Kingdom, Viper Vault) + branschbolag (Herp Industries, Cricket
+  Foods, Terra Habitats). Deterministisk daglig prisrörelse, köp/sälj av aktier, portfölj med
+  genomsnittligt anskaffningsvärde (GAV) + orealiserad vinst/förlust, dagsförändring i %. Ny **Stocks-app**
+  (telefon + dator). Innehav + kurser sparas mellan sessioner.
+- Första steget av det utbyggda aktiemarknads-systemet; utdelningar, marknads-events och prisgrafer kommer härnäst.
+
+### Tested
+- EditMode 712/712 (6 nya börs-tester), PlayMode 88/88 (köp debiterar, daglig tick rör pris, sälj krediterar, app nåbar).
+
 ## [0.33.0] - 2026-06-21 — Alpha — "Builders' Market 🏗"
 
 ### Added
