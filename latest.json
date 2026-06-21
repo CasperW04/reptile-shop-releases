@@ -1,15 +1,15 @@
 {
-  "version": "0.24.0",
-  "tag": "v0.24.0",
+  "version": "0.25.0",
+  "tag": "v0.25.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.24.0/ReptileShop-Windows-v0.24.0.zip",
-    "sizeBytes": 44763906,
-    "sha256": "eb0313b1bd328b2a96265e3e1abe3e72180b9f86075a007ffc0d1bc1eb2b61b5"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.25.0/ReptileShop-Windows-v0.25.0.zip",
+    "sizeBytes": 44765379,
+    "sha256": "052f613d1253177af3b1edf55ae8d5bdb08d9cbbc9be9f0467356e7fc1b61102"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.24.0 - Vald sak i bygg-menyn markeras nu med gron bakgrund och ram. (Speltestar-feedback.)"
+  "notes": "Alpha v0.25.0 - Day-speed control: valj hur snabbt dagen gar (x1/x2/x3) i nya Settings-appen. Skalar tick-takten och sparas. (Speltestar-feedback.)"
 }

@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.25.0] - 2026-06-21 — Alpha — "Day speed ⏩"
+
+### Added
+- **⏩ Day-speed control** (speltestar-feedback): välj hur snabbt dagen går — **x1/x2/x3** — i den nya
+  **Settings-appen** (telefon + dator). x1 ≈ ~20 min/dag; x2/x3 proportionellt snabbare. Valet skalar
+  tick-takten direkt och sparas mellan sessioner. (Settings-appen är på engelska — start på UI-engelska-passet.)
+
+### Tested
+- EditMode 700/700 (4 nya tester), PlayMode 83/83 (Settings → tick-speed skalas + app nåbar).
+
 ## [0.24.0] - 2026-06-21 — Alpha — "Grön bygg-markering 🟩"
 
 ### Added
