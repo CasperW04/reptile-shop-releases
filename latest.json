@@ -1,15 +1,15 @@
 {
-  "version": "0.12.0",
-  "tag": "v0.12.0",
+  "version": "0.13.0",
+  "tag": "v0.13.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.12.0/ReptileShop-Windows-v0.12.0.zip",
-    "sizeBytes": 44747781,
-    "sha256": "d31c445b683576a1d0fb48356612010a6f9d7afb809b15bcd028f0717bb90e8c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.13.0/ReptileShop-Windows-v0.13.0.zip",
+    "sizeBytes": 44749312,
+    "sha256": "eb0001e619e83b6b30d4a8e3bcebce6a942809a3660345ddda73c880c528016b"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.12.0 - Dagliga mal/uppdrag: varje dag ett mal (salj/tjana/klack) som spars automatiskt och ger kontant-beloning nar klart. Ny Dagens uppdrag-app."
+  "notes": "Alpha v0.13.0 - Nyheter-app pa telefon och dator: in-game-feed med hojdpunkterna fran varje uppdatering."
 }

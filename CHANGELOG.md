@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.13.0] - 2026-06-21 — Alpha — "Nyheter 📰"
+
+### Added
+- **📰 Nyheter-app** (telefon + dator): en in-game-feed med höjdpunkterna från varje uppdatering, så
+  spelaren ser vad som är nytt utan att lämna spelet.
+
+### Tested
+- EditMode 669/669 (ny news-modelltest), PlayMode 74/74 (app nåbar + listar poster).
+
 ## [0.12.0] - 2026-06-21 — Alpha — "Dagens uppdrag 🎯"
 
 ### Added
