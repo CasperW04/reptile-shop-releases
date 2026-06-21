@@ -1,15 +1,15 @@
 {
-  "version": "0.22.0",
-  "tag": "v0.22.0",
+  "version": "0.23.0",
+  "tag": "v0.23.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.22.0/ReptileShop-Windows-v0.22.0.zip",
-    "sizeBytes": 44763187,
-    "sha256": "7e124ed6618b9644fcbae805356dc4f14ac3e67cd707bc3067930b5e98a84286"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.23.0/ReptileShop-Windows-v0.23.0.zip",
+    "sizeBytes": 44763501,
+    "sha256": "2e40b8ca5d6de4aecdb31bbb8068bfdfabdfb1ac362d1c79ef38b3370648278b"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.22.0 - Hoppa med mellanslag: first-person-spelaren kan nu hoppa med Space nar man star pa marken. (Speltestar-feedback.)"
+  "notes": "Alpha v0.23.0 - Gron bock vid crosshairet nar du haller ett djur och siktar pa ett terrarium med ledig plats. (Speltestar-feedback.)"
 }

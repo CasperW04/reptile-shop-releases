@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.23.0] - 2026-06-21 — Alpha — "Placerings-bock 🎯"
+
+### Added
+- **🎯 Grön bock vid crosshairet** (speltestar-feedback): när du håller ett djur och siktar på ett
+  terrarium/rack med ledig plats visas en liten grön ✓ bredvid crosshairet — så du ser direkt att det
+  går att placera där (försvinner om behållaren är full eller du inte siktar på något giltigt).
+
+### Tested
+- PlayMode-test verifierar HUD→crosshair-seamen. EditMode 696/696, PlayMode 81/81.
+
 ## [0.22.0] - 2026-06-21 — Alpha — "Hoppa 🦘"
 
 ### Added
