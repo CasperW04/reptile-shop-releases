@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.24.0] - 2026-06-21 — Alpha — "Grön bygg-markering 🟩"
+
+### Added
+- **🟩 Vald sak i bygg-menyn blir grön** (speltestar-feedback): det valda objektet i bygg-katalogen
+  markeras nu med grön bakgrund + grön ram, så du tydligt ser vad som är aktivt.
+
+### Tested
+- PlayMode-test verifierar att vald rad är grön-dominant. EditMode 696/696, PlayMode 82/82.
+
 ## [0.23.0] - 2026-06-21 — Alpha — "Placerings-bock 🎯"
 
 ### Added

@@ -1,15 +1,15 @@
 {
-  "version": "0.23.0",
-  "tag": "v0.23.0",
+  "version": "0.24.0",
+  "tag": "v0.24.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.23.0/ReptileShop-Windows-v0.23.0.zip",
-    "sizeBytes": 44763501,
-    "sha256": "2e40b8ca5d6de4aecdb31bbb8068bfdfabdfb1ac362d1c79ef38b3370648278b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.24.0/ReptileShop-Windows-v0.24.0.zip",
+    "sizeBytes": 44763906,
+    "sha256": "eb0313b1bd328b2a96265e3e1abe3e72180b9f86075a007ffc0d1bc1eb2b61b5"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.23.0 - Gron bock vid crosshairet nar du haller ett djur och siktar pa ett terrarium med ledig plats. (Speltestar-feedback.)"
+  "notes": "Alpha v0.24.0 - Vald sak i bygg-menyn markeras nu med gron bakgrund och ram. (Speltestar-feedback.)"
 }
