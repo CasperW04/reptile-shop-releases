@@ -1,15 +1,15 @@
 {
-  "version": "0.13.0",
-  "tag": "v0.13.0",
+  "version": "0.14.0",
+  "tag": "v0.14.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.13.0/ReptileShop-Windows-v0.13.0.zip",
-    "sizeBytes": 44749312,
-    "sha256": "eb0001e619e83b6b30d4a8e3bcebce6a942809a3660345ddda73c880c528016b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.14.0/ReptileShop-Windows-v0.14.0.zip",
+    "sizeBytes": 44751998,
+    "sha256": "09fbb2c14c56f0d696f36b4a827f3888548cef810e024831cf63a1c1a73d0dce"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.13.0 - Nyheter-app pa telefon och dator: in-game-feed med hojdpunkterna fran varje uppdatering."
+  "notes": "Alpha v0.14.0 - Bank/lan: lana kapital upp till en kreditgrans skalad av rykte och butiksniva. 2%% ranta per dygn, aterbetala valfritt belopp. Ny Bank-app."
 }

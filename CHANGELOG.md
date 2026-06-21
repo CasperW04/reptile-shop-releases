@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.14.0] - 2026-06-21 — Alpha — "Bank & lån 🏦"
+
+### Added
+- **🏦 Bank/lån**: låna kapital upp till en kreditgräns som skalas med rykte och butiksnivå. Skulden
+  får 2% ränta per dygn och återbetalas valfritt belopp i den nya **Bank-appen** (telefon + dator).
+  Skulden sparas mellan sessioner.
+
+### Tested
+- EditMode 674/674 (5 nya lån-tester inkl. save round-trip), PlayMode 75/75 (lån → ränta → återbetala + app).
+
 ## [0.13.0] - 2026-06-21 — Alpha — "Nyheter 📰"
 
 ### Added
