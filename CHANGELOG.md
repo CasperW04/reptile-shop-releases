@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.29.0] - 2026-06-21 — Alpha — "Render distance 🔭"
+
+### Added
+- **🔭 Render distance-inställning** (speltestar-feedback): välj Low/Medium/High/Ultra i Settings-appen —
+  sätter huvudkamerans far clip plane (150/300/600/1200) så du kan balansera sikt mot prestanda. Valet
+  sparas och återställs vid load.
+
+### Tested
+- EditMode 705/705 (4 nya tester), PlayMode 84/84 (kamerans farClipPlane följer vald tier).
+
 ## [0.28.0] - 2026-06-21 — Alpha — "Telefon-scroll 📱"
 
 ### Fixed
