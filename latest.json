@@ -1,15 +1,15 @@
 {
-  "version": "0.32.0",
-  "tag": "v0.32.0",
+  "version": "0.33.0",
+  "tag": "v0.33.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.32.0/ReptileShop-Windows-v0.32.0.zip",
-    "sizeBytes": 44768397,
-    "sha256": "5ea30ac0535fcd0eae5ed7c5bd1e2692a69a3f59361666e2001959022c753fe1"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.33.0/ReptileShop-Windows-v0.33.0.zip",
+    "sizeBytes": 44769786,
+    "sha256": "2efa61fabc9e7fef45bd69b962c2ea2f73298e7b397315926ff569769b38710f"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.32.0 - Djur las upp ihop med sin terrarie-storlek: Marketplace blockerar kop tills butiksnivan racker for djurets storlek (Small/Medium/Large/XL). (Speltestar-feedback.)"
+  "notes": "Alpha v0.33.0 - Builders Market: en butik (app) som listar alla byggbara saker med pris och niva. Butiks-ytan for bygg-sakerna. (Speltestar-feedback #12.)"
 }

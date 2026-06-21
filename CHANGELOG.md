@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.33.0] - 2026-06-21 — Alpha — "Builders' Market 🏗"
+
+### Added
+- **🏗 Builders' Market** (speltestar-feedback #12): en butik (app på telefon + dator) som listar ALLA
+  byggbara saker — terrarier, racks och dekor — med pris, fotavtryck och vilken nivå de låses upp på.
+  Det är butiks-ytan för bygg-sakerna; placering sker fortfarande via bygg-läget (B). Full borttagning av
+  bygg-menyn till förmån för enbart fysiska butiker är en större uppföljning.
+
+### Tested
+- PlayMode-test verifierar att storefront listar hela katalogen + är nåbar. EditMode 706/706, PlayMode 87/87.
+
 ## [0.32.0] - 2026-06-21 — Alpha — "Djur-upplåsning per storlek 🔒"
 
 ### Added
