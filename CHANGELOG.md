@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.28.0] - 2026-06-21 — Alpha — "Telefon-scroll 📱"
+
+### Fixed
+- **📱 Telefonens app-skärm scrollar** (speltestar-feedback): med 18 appar spillde ikonerna utanför
+  telefonskärmen. Hemskärmen har nu en scrollbar ikon-grid så alla registrerade appar får plats och
+  stannar på telefonen.
+
+### Tested
+- PlayMode-test verifierar att antal hemskärms-ikoner = antal registrerade appar (alla syns). EditMode 701/701, PlayMode 83/83.
+
 ## [0.27.0] - 2026-06-21 — Alpha — "Flytta möbler tydligare 🪑"
 
 ### Changed

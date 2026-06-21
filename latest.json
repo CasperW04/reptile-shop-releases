@@ -1,15 +1,15 @@
 {
-  "version": "0.27.0",
-  "tag": "v0.27.0",
+  "version": "0.28.0",
+  "tag": "v0.28.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.27.0/ReptileShop-Windows-v0.27.0.zip",
-    "sizeBytes": 44766170,
-    "sha256": "9c673e8f5815a4f899b2093e1d08968db419da21cad0bf37318566cd554314fc"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.28.0/ReptileShop-Windows-v0.28.0.zip",
+    "sizeBytes": 44766295,
+    "sha256": "58e22b7a5722a7c804542a18dc5ce6792c2e53a2a0aec5cdbb38dc0031fe17a6"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.27.0 - Flytta mobler: funktionen fanns redan (valj mobel i bygglaget, Move) men ar nu tydligare med instruktion och knappen Move here. (Speltestar-feedback.)"
+  "notes": "Alpha v0.28.0 - Telefonens hemskarm scrollar nu sa alla 18 appar far plats och stannar pa telefonen. (Speltestar-feedback.)"
 }
