@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.8.0] - 2026-06-21 — Alpha — "Personal-kompetens 📈"
+
+### Added
+- **📈 Anställda-djup** (roadmap 0.8): varje anställd har nu en **kompetensnivå (1-5)** som går att
+  **uppgradera** (kostar, höjer lönen) i Personal-appen. Högre nivå = mer uträttat: **skötare på nivå 2+
+  behandlar även sjuka djur** (in-house vet), och **säljare listar djur med ett påslag** som växer med
+  nivån. Nivåer sparas mellan sessioner (bakåtkompatibelt: gamla anställda blir nivå 1).
+
+### Tested
+- EditMode 658/658 (5 nya nivå-tester inkl. save round-trip), PlayMode 70/70 (uppgradera → påslag + lön).
+
 ## [0.7.0] - 2026-06-21 — Alpha — "Filialer 🏬"
 
 ### Added
