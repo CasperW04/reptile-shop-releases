@@ -1,15 +1,15 @@
 {
-  "version": "0.17.0",
-  "tag": "v0.17.0",
+  "version": "0.18.0",
+  "tag": "v0.18.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.17.0/ReptileShop-Windows-v0.17.0.zip",
-    "sizeBytes": 44758129,
-    "sha256": "6c91ce23bebf1c72471032ffee5caf04ef260c63d274d4924a6a3f0735ec52e4"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.18.0/ReptileShop-Windows-v0.18.0.zip",
+    "sizeBytes": 44759851,
+    "sha256": "9ec559e862e1b37368739b3c7372abe0b6f4540491d86647595c5752942af8ff"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.17.0 - Sparkonto i banken: satt in pengar och tjana 1 procent ranta per dygn. Satt in och ta ut via Bank-appen."
+  "notes": "Alpha v0.18.0 - Marknadstrender: marknaden svanger varje dag och skalar dina forsaljningspriser. Ny Marknad-app visar dagens trend och utsikt sa du kan tajma forsaljningar."
 }

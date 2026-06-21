@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.18.0] - 2026-06-21 — Alpha — "Marknadstrender 📈"
+
+### Added
+- **📈 Marknadstrender**: marknaden svänger varje dag (±0–20%) och **skalar dina faktiska
+  försäljningspriser** — både visat begärt pris och utbetalning följer trenden. Ny **Marknad-app**
+  (telefon + dator) visar dagens trend + några dagars utsikt, så du kan tajma försäljningar.
+
+### Tested
+- EditMode 692/692 (4 nya trend-tester), PlayMode 78/78 (ComputeSalePrice följer trenden + app nåbar).
+
 ## [0.17.0] - 2026-06-21 — Alpha — "Sparkonto 💰"
 
 ### Added
