@@ -1,15 +1,15 @@
 {
-  "version": "0.31.0",
-  "tag": "v0.31.0",
+  "version": "0.32.0",
+  "tag": "v0.32.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.31.0/ReptileShop-Windows-v0.31.0.zip",
-    "sizeBytes": 44767875,
-    "sha256": "c9ea7e1c1f13b4e0091131edce12e217cc3ff1e157c8d82a3b9772157c6e0cf5"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.32.0/ReptileShop-Windows-v0.32.0.zip",
+    "sizeBytes": 44768397,
+    "sha256": "5ea30ac0535fcd0eae5ed7c5bd1e2692a69a3f59361666e2001959022c753fe1"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.31.0 - Lokalen startar nu tom: bara datorn och lamporna finns fran start, ovrig inomhus-inredning spawnas inte langre sa du bygger upp butiken sjalv. (Speltestar-feedback.)"
+  "notes": "Alpha v0.32.0 - Djur las upp ihop med sin terrarie-storlek: Marketplace blockerar kop tills butiksnivan racker for djurets storlek (Small/Medium/Large/XL). (Speltestar-feedback.)"
 }

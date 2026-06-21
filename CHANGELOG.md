@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.32.0] - 2026-06-21 — Alpha — "Djur-upplåsning per storlek 🔒"
+
+### Added
+- **🔒 Djur låses upp ihop med terrarie-storleken** (speltestar-feedback): du kan inte längre köpa djur
+  vars terrarie-storlek du inte låst upp. Marketplace blockerar köp tills butiksnivån når storlekens tier
+  (Small lvl1 · Medium lvl2 · Large lvl4 · XL lvl5) och visar "Locked — reach shop level X".
+
+### Tested
+- EditMode 706/706 (ny unlock-helper-test), PlayMode 86/86 (köp blockeras under tier, lyckas vid rätt nivå).
+
 ## [0.31.0] - 2026-06-21 — Alpha — "Tom lokal vid start 🧹"
 
 ### Changed
