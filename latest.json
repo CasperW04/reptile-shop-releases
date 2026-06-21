@@ -1,15 +1,15 @@
 {
-  "version": "0.26.0",
-  "tag": "v0.26.0",
+  "version": "0.27.0",
+  "tag": "v0.27.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.26.0/ReptileShop-Windows-v0.26.0.zip",
-    "sizeBytes": 44765998,
-    "sha256": "1fd498561d1be927b2970c2a08bde66425b29f7a8103d19b88a26596a66308a5"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.27.0/ReptileShop-Windows-v0.27.0.zip",
+    "sizeBytes": 44766170,
+    "sha256": "9c673e8f5815a4f899b2093e1d08968db419da21cad0bf37318566cd554314fc"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.26.0 - Varje reptil i Marketplace visar nu vilken terrarie-storlek den behover (Needs: Small/Medium/Large/XLarge). (Speltestar-feedback.)"
+  "notes": "Alpha v0.27.0 - Flytta mobler: funktionen fanns redan (valj mobel i bygglaget, Move) men ar nu tydligare med instruktion och knappen Move here. (Speltestar-feedback.)"
 }

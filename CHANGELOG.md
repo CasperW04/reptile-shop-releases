@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.27.0] - 2026-06-21 — Alpha — "Flytta möbler tydligare 🪑"
+
+### Changed
+- **🪑 Flytta möbler** (speltestar-feedback): att flytta redan placerade möbler fanns redan (välj möbel i
+  bygg-läget → Move), men var svårt att hitta. Fixtur-panelen har nu en tydlig instruktion ("Aim at a new
+  spot, then press Move…") och knappen heter "Move here". Flytt-logiken (frigör gamla celler, behåller
+  djur/index, ingen återbetalning) är oförändrad och täckt av tester.
+
+### Tested
+- EditMode 701/701 (Move-tester gröna), PlayMode 83/83.
+
 ## [0.26.0] - 2026-06-21 — Alpha — "Storlek i Marketplace 📐"
 
 ### Added
