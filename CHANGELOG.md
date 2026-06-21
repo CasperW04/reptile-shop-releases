@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.20.0] - 2026-06-21 — Alpha — "Stadsbelysning 💡"
+
+### Added
+- **💡 Gatlykts-belysning**: gatlyktorna närmast butiken kastar nu ett varmt sken så kvarteren glöder
+  på kvällen. Antalet realtidsljus är kapat (18) för prestanda. Kod-driven (Light-komponenter på de
+  befintliga lykt-modellerna) — ingen egen 3D.
+
+### Tested
+- PlayMode-test verifierar att lyktor har ljus och att antalet är kapat. EditMode 692/692, PlayMode 78/78.
+
 ## [0.19.0] - 2026-06-21 — Alpha — "Tätare stad 🏙️"
 
 ### Changed

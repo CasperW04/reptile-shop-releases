@@ -1,15 +1,15 @@
 {
-  "version": "0.19.0",
-  "tag": "v0.19.0",
+  "version": "0.20.0",
+  "tag": "v0.20.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.19.0/ReptileShop-Windows-v0.19.0.zip",
-    "sizeBytes": 44760020,
-    "sha256": "e74faa4f96068d5c1a8fc168028f415c1f4a85b8d243a7cbf539e3bd53f32454"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.20.0/ReptileShop-Windows-v0.20.0.zip",
+    "sizeBytes": 44760322,
+    "sha256": "c2f6f45574a36d0f5f5f5e0d7dc8e38487c77a877925755b1e1f4695d2920781"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.19.0 - Mycket tatare och livligare stad: 17x17 kvartersrutnat med fler byggnader, trad, gatlyktor, bilar och fotgangare. Allt med befintliga CC0-modeller."
+  "notes": "Alpha v0.20.0 - Gatlykts-belysning: lyktorna narmast butiken kastar ett varmt sken sa kvarteren gloder pa kvallen. Antalet realtidsljus kapat for prestanda."
 }
