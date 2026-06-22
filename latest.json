@@ -1,15 +1,15 @@
 {
-  "version": "0.36.0",
-  "tag": "v0.36.0",
+  "version": "0.37.0",
+  "tag": "v0.37.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.36.0/ReptileShop-Windows-v0.36.0.zip",
-    "sizeBytes": 44776475,
-    "sha256": "dd241c99e95cca597867131c7f5e2b53afcf7d27d666841fda12add6b0058a06"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.37.0/ReptileShop-Windows-v0.37.0.zip",
+    "sizeBytes": 44780778,
+    "sha256": "5a227426f11c5253d7b571e6bbbf1a1673f7aab930b743796d21b9d77ddf8cab"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.36.0 - Rival-prestanda driver aktiekursen: rival-butikernas aktier klattrar extra nar de vaxer i rykte/forsaljning. En blomstrande konkurrent blir en het aktie."
+  "notes": "Alpha v0.37.0 - Co-op grundstomme (M1/5): transport-agnostisk natverks-karna med loopback + snapshot-handskakning (host speglar hela varlden till klient). Host-auktoritativ listen-server for delad butik, 2 spelare. Byggs/verifieras headless; riktig socket kommer senare."
 }

@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.37.0] - 2026-06-22 — Alpha — "Co-op: nätverks-kärna 🌐"
+
+### Added
+- **🌐 Co-op grundstomme (Milstolpe 1/5)** — första steget mot delad-butik-co-op för 2 spelare. Lagt en
+  transport-agnostisk nätverks-kärna: `INetTransport`-söm, en `LoopbackTransport` för in-process-test,
+  meddelande-envelope, samt `CoopHost`/`CoopClient` med **snapshot-handskakning** — host serialiserar hela
+  spelvärlden (via befintliga save-systemet) och klienten speglar den vid anslutning.
+- Host-auktoritativ listen-server-modell (host = spelare + server). Allt byggs + verifieras headless bakom
+  loopback; den riktiga socketen (port-forward) kopplas in i en senare milstolpe. Plan: `docs/COOP-PLAN.md`.
+
+### Tested
+- EditMode 721/721 (loopback levererar åt båda håll; snapshot speglar pengar/aktier/world; hello→snapshot; host tar emot kommandon), PlayMode 88/88.
+
 ## [0.36.0] - 2026-06-22 — Alpha — "Rival-aktier 🏪"
 
 ### Added
