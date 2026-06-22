@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.97.0] - 2026-06-22 — Alpha — "Kompakt valuta 💵"
+
+### Added
+- **💵 Kompakt valuta-formatering** (Builder D/Graphics) — stora tal i Analytics-appen läses nu kompakt
+  ($1.2K / $3.4M / $1.0B); hovring visar exakt belopp.
+
+### Tested
+- EditMode 978/978, PlayMode 155/155 på merged main (tier-gränser 999/1000/1.5K/1M/1B + negativa/noll; konfliktfri merge).
+
 ## [0.96.0] - 2026-06-22 — Alpha — "Avelslinjer 🏷"
 
 ### Added
