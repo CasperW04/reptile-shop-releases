@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.70.1] - 2026-06-22 — Alpha — "Save-bakåtkompat 💾"
+
+### Added (infra)
+- **💾 Bakåtkompatibilitets-guard** — ett test som säkrar att saves skapade innan en feature fanns (nya
+  samlingar saknas i filen) ändå laddar utan krasch, med säkra tomma defaults. Sätter kontraktet alla
+  parallella builders följer när de lägger ett persisterat fält.
+
+### Tested
+- EditMode 820/820 (gammal save med null-samlingar → laddar, defaultar StockHoldings/Quotes/Orders/Shorts/Options/Bonds/NetWorthHistory till tomma).
+
 ## [0.70.0] - 2026-06-22 — Alpha — "Parallell-redo 🧵"
 
 ### Changed (infra)

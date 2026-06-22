@@ -1,15 +1,15 @@
 {
-  "version": "0.70.0",
-  "tag": "v0.70.0",
+  "version": "0.70.1",
+  "tag": "v0.70.1",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.70.0/ReptileShop-Windows-v0.70.0.zip",
-    "sizeBytes": 44830613,
-    "sha256": "a5bcc0339dc5b79b4afc1483c7fdbd0cbe88883c54a85c87f6f9b495c1c2616b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.70.1/ReptileShop-Windows-v0.70.1.zip",
+    "sizeBytes": 44830713,
+    "sha256": "31a4f4eff33a9cc22d5b8f97c96aed42f352c9f953951ff21df6d91cfc9d2323"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.70.0 - Parallell-utvecklingsrigg: wiring-filer ar nu partial med per-doman-sommar sa flera utvecklare kan jobba samtidigt utan att krocka. Worktree-script + workflow-dok. Mojliggor 1 integrator + 3 builders."
+  "notes": "Alpha v0.70.1 - Bakatkompatibilitets-guard: saves skapade innan en feature fanns laddar anda utan krasch med sakra tomma defaults. Satter kontraktet for parallella builders nya falt."
 }
