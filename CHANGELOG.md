@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.48.0] - 2026-06-22 — Alpha — "Fler achievements 🏆"
+
+### Added
+- **🏆 7 nya achievements** — Millionaire ($1M), Dynasty (föd upp 100 djur totalt), Big Score (enskild
+  försäljning $5 000+), Sales Veteran (sälj 100 totalt), Investor (äg aktier), Stock Mogul (aktieportfölj
+  $50 000), Month One (nå dag 30). Knyter ihop avel, försäljning och börsen.
+
+### Changed
+- **Alla achievement-namn + beskrivningar är nu på engelska** (speltestar-feedback om engelskt UI).
+
+### Tested
+- EditMode 746/746 (katalog engelsk + unika id:n), PlayMode 101/101 (nya tröskel-achievements awardas från servicen).
+
 ## [0.47.0] - 2026-06-22 — Alpha — "Cricket Casino 🎰"
 
 ### Added

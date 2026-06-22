@@ -1,15 +1,15 @@
 {
-  "version": "0.47.0",
-  "tag": "v0.47.0",
+  "version": "0.48.0",
+  "tag": "v0.48.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.47.0/ReptileShop-Windows-v0.47.0.zip",
-    "sizeBytes": 44804500,
-    "sha256": "41277ab25bf0fc2f61d8d9475e180e8bee46885d469f68a2e26629fefb61ccd1"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.48.0/ReptileShop-Windows-v0.48.0.zip",
+    "sizeBytes": 44805765,
+    "sha256": "1c129c0990c61cb4edca96fddc9c57d76788bbd0b32ce7707ebe0533acf5b56e"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.47.0 - Cricket Casino: en enarmad bandit att spela med butikskassan. Tre lika ger stor vinst (diamant x20), tva lika ger insatsen tillbaka. Riktig house edge - kul money-sink."
+  "notes": "Alpha v0.48.0 - 7 nya achievements (Millionaire, Dynasty, Big Score, Sales Veteran, Investor, Stock Mogul, Month One) + alla achievement-namn nu pa engelska."
 }
