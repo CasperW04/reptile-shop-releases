@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.45.0] - 2026-06-22 — Alpha — "Börs-nyheter 📰"
+
+### Added
+- **📰 Börs-nyhetshändelser** — vissa börsdagar dyker en rubrik upp som skakar om en enskild aktie:
+  positiva ("{bolag} landar rikstäckande kedjeavtal", "viral kläckningsvideo") ger +8–18%, negativa
+  ("foderbrist", "myndighetsböter", "återkallelse") ger −8–18%. Rubriken visas i Stocks-appen och priset
+  rör sig samma dag. Deterministiskt per dag — håll koll på nyheterna och tajma dina köp/sälj.
+
+### Tested
+- EditMode 738/738 (rubriker deterministiska, träffar riktiga aktier, jolt åt rätt håll, inträffar ibland men ej varje dag), PlayMode 98/98.
+
 ## [0.44.0] - 2026-06-22 — Alpha — "Reptil-encyklopedi 📖"
 
 ### Added
