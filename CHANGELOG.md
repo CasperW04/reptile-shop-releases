@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.74.0] - 2026-06-22 — Alpha — "Golden hour 🌅"
+
+### Added
+- **🌅 Ljus-stämningar + animerad dimma** (Builder D/Graphics) — omgivningsljuset värms nu till en
+  **golden-hour-amber** kring gryning (~06) och skymning (~18), ovanpå dygn/säsong/väder (neutralt mitt på
+  dagen/natten). **Animerad dimma**: diset andas in/ut över tid (±12% sikt) istället för statiskt. Allt
+  kod-drivet, inga assets. (Värmelamps-glöd är en uppföljning.)
+
+### Tested
+- EditMode 840/840, PlayMode 119/119 på merged main (golden-hour byggde rent ovanpå integratorns säsong/väder-kod, auto-merge).
+
 ## [0.73.0] - 2026-06-22 — Alpha — "Biosäkerhet 🧫"
 
 ### Added

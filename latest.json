@@ -1,15 +1,15 @@
 {
-  "version": "0.73.0",
-  "tag": "v0.73.0",
+  "version": "0.74.0",
+  "tag": "v0.74.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.73.0/ReptileShop-Windows-v0.73.0.zip",
-    "sizeBytes": 44839543,
-    "sha256": "4ae5842a0f59d50bf5782b8909c199da6e341584d9ab9fd2f5fae1617fe2deb0"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.74.0/ReptileShop-Windows-v0.74.0.zip",
+    "sizeBytes": 44841947,
+    "sha256": "6ac015cb189a16aa3bda614c822b7b012303c14aad3fc55348b48574b43ccadb"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.73.0 - Biosakerhet och smitta: en smittsam akomma sprids mellan samboende djur; karantan skyddar. Ny Biosecurity-app med Treat all. Builder C (husbandry), mergad med en doman-konflikt lost."
+  "notes": "Alpha v0.74.0 - Ljus-stamningar och animerad dimma: omgivningsljuset varms till golden-hour vid gryning/skymning ovanpa dygn/sasong/vader; diset andas in/ut over tid. Allt kod-drivet. Builder D (graphics)."
 }
