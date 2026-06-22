@@ -1,15 +1,15 @@
 {
-  "version": "0.147.0",
-  "tag": "v0.147.0",
+  "version": "0.148.0",
+  "tag": "v0.148.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.147.0/ReptileShop-Windows-v0.147.0.zip",
-    "sizeBytes": 46364299,
-    "sha256": "5736449605db625b955092fd6946d20fcd0cc75b52a148beb8fde8c56e8a9bf5"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.148.0/ReptileShop-Windows-v0.148.0.zip",
+    "sizeBytes": 46364626,
+    "sha256": "be1abb72009289cd31a19d8d5490b71b7b694f8e432e49526c060b8b080e7b36"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.147.0 - Nettoformogenheten raknas upp animerat nar Home oppnas. Builder D."
+  "notes": "Alpha v0.148.0 - Onboarding-progress-baren fyller animerat nar steg bockas av. Builder D."
 }

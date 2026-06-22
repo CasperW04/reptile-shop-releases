@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.148.0] - 2026-06-22 — Alpha — "Animerad onboarding-bar 📊"
+
+### Added
+- **📊 Animerad Onboarding-progress-bar** (Builder D/Graphics) — progress-baren fyller animerat när steg bockas av.
+
+### Tested
+- EditMode 1237/1237, PlayMode 188/188 på merged main.
+
 ## [0.147.0] - 2026-06-22 — Alpha — "Home: count-up 🔢"
 
 ### Added
