@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.96.0] - 2026-06-22 — Alpha — "Avelslinjer 🏷"
+
+### Added
+- **🏷 Breeding Lines** (Builder C/Husbandry) — ny app: märk djur med ett projekt-/linjenamn (t.ex. "Sunset
+  Pied project") och se hur många djur som ingår i varje linje. **Avkomma ärver automatiskt faderns linje**
+  vid kläckning. `LineNameModule` propagerar linjen på `ReptileBornEvent`.
+
+### Tested
+- EditMode 975/975, PlayMode 155/155 på merged main (5 nya LineNameModel-tester + linje-arv; konfliktfri merge).
+
 ## [0.95.0] - 2026-06-22 — Alpha — "Analytics-intervall 🗓️"
 
 ### Added

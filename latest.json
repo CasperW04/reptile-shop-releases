@@ -1,15 +1,15 @@
 {
-  "version": "0.95.0",
-  "tag": "v0.95.0",
+  "version": "0.96.0",
+  "tag": "v0.96.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.95.0/ReptileShop-Windows-v0.95.0.zip",
-    "sizeBytes": 44899620,
-    "sha256": "843a5365ff6c781dc9df57a433247dc04caa706b01ad5e8765aee60dc698f450"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.96.0/ReptileShop-Windows-v0.96.0.zip",
+    "sizeBytes": 44902489,
+    "sha256": "c32b757e19a06391d2a38a56dd527ede6d6cf26ebe47667a65f57309fc2360be"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.95.0 - Analytics: 7d/All-vaxel for att fokusera formogenhets-trend, forandrings-staplar och basta/samsta pa senaste veckan eller hela historiken. Builder D."
+  "notes": "Alpha v0.96.0 - Breeding Lines: mark djur med projekt/linjenamn och se antal per linje; avkomma arver faderns linje vid klackning. Builder C."
 }
