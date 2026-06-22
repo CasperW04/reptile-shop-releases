@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.64.0] - 2026-06-22 — Alpha — "Alerts 🔔"
+
+### Added
+- **🔔 Alerts-app (smart varningscenter)** — en deduperad, allvarlighets-ordnad lista över vad som behöver
+  din uppmärksamhet: sjuka djur (kritiskt), djur som behöver vård, låg kassa, lån som löper med ränta,
+  ömsande djur. Ersätter notis-spam med en åtgärdbar feed. (Research-backlog.)
+
+### Tested
+- EditMode 803/803 (frisk rik butik = inga larm, sjuka djur = kritiskt + antal, låg kassa/lån = varningar, ordning, null-säker), PlayMode 109/109.
+
 ## [0.63.0] - 2026-06-22 — Alpha — "Portfölj-försäkring 🛡"
 
 ### Added
