@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.78.0] - 2026-06-22 — Alpha — "Enrichment + Analytics 🌿📊"
+
+### Added
+- **🌿 Enrichment & bioaktiv kvalitet** (Builder C/Husbandry) — ny app: investera per terrarium i
+  **enrichment** (håller djuren i form, stabiliserar kroppskondition mot ideal dagligen) och en bioaktiv
+  **städpatrull** (gråsuggor/hoppstjärtar som rensar smitta över tid). Välskötta terrarier blir lättare.
+- **📊 Analytics-app** (Builder D/Graphics) — kod-ritad **nettoförmögenhets-trendlinje** + en
+  **tillgångs-allokerings-paj** (kontanter/sparande/aktier) med legend, allt via Painter2D (inga bilder).
+  Geometrin i en ren `ChartMath`.
+
+### Tested
+- EditMode 867/867, PlayMode 128/128 på merged main (konfliktfria merges; ChartMath + EnrichmentModel verifierade).
+
 ## [0.77.0] - 2026-06-22 — Alpha — "Kroppskondition + onboarding 💪🚀"
 
 ### Added
