@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.39.0] - 2026-06-22 — Alpha — "Co-op: avatar-sync 🚶"
+
+### Added
+- **🚶 Co-op avatar-sync (Milstolpe 3a/5)** — protokollet för att se varandra röra sig: en `AvatarState`
+  (position, riktning, går/står) skickas mellan spelarna, och en `AvatarInterpolator` mjukar ut rörelsen
+  mellan nätverks-uppdateringarna (linjär interpolation av position + kortaste-väg för riktning) så den
+  andra spelaren glider istället för att hoppa. Host och klient skickar varandras pose.
+- Nästa steg (M3b): rendera den faktiska avataren i världen från den interpolerade posen.
+
+### Tested
+- EditMode 729/729 (interpolation lerpar + clampar + wrap-hanterar yaw; pose når fram åt båda håll över loopback). PlayMode opåverkat (isolerad Net-assembly): 88/88.
+
 ## [0.38.0] - 2026-06-22 — Alpha — "Co-op: kommando-pipeline 🔀"
 
 ### Added

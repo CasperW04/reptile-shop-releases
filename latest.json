@@ -1,15 +1,15 @@
 {
-  "version": "0.38.0",
-  "tag": "v0.38.0",
+  "version": "0.39.0",
+  "tag": "v0.39.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.38.0/ReptileShop-Windows-v0.38.0.zip",
-    "sizeBytes": 44782220,
-    "sha256": "a3131fb137ec9fbdebf504039538a6e6eb1cfabd125544c63136bbee1c98eba8"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.39.0/ReptileShop-Windows-v0.39.0.zip",
+    "sizeBytes": 44783694,
+    "sha256": "6e787851b6516293928acb478ed3983253befe81811c7eb77aa18de21e6469a7"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.38.0 - Co-op kommando-pipeline (M2/5): klient skickar avsikter, host kor dem auktoritativt och speglar resultatet till klienten. Host validerar (avvisar oaffordabla kop). Forsta kommandon: aktiehandel."
+  "notes": "Alpha v0.39.0 - Co-op avatar-sync (M3a/5): protokoll for att se varandra rora sig. AvatarState skickas mellan spelarna och en interpolator mjukar ut rorelsen sa den andra spelaren glider istallet for att hoppa."
 }
