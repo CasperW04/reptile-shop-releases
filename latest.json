@@ -1,15 +1,15 @@
 {
-  "version": "0.53.0",
-  "tag": "v0.53.0",
+  "version": "0.54.0",
+  "tag": "v0.54.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.53.0/ReptileShop-Windows-v0.53.0.zip",
-    "sizeBytes": 44811050,
-    "sha256": "b9118f92c21deebe179794ad63fb6a7c69e108e645607e8f411512e969491692"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.54.0/ReptileShop-Windows-v0.54.0.zip",
+    "sizeBytes": 44811571,
+    "sha256": "ad0f4ad78ad8d81d7eb69276aae05571c9ce3cd127e65697556c832f550fa5c8"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.53.0 - Daglig reptil-quiz: en roterande trivia-fraga per speldag (12 fragor). Svara ratt och tjana 150 dollar, ett svar per dag. Kul larande + liten daglig inkomst."
+  "notes": "Alpha v0.54.0 - Nettoformogenhets-historik + peak: spelet sparar din formogenhet per dag och all-time topp. Stocks-appen visar en trend-sparkline + peak."
 }

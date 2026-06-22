@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.54.0] - 2026-06-22 — Alpha — "Förmögenhets-trend 📈"
+
+### Added
+- **📈 Nettoförmögenhets-historik + peak** — spelet sparar din nettoförmögenhet per dag (capad historik) och
+  din all-time topp. Stocks-appen visar nu en liten trend-sparkline + din peak, så du ser om imperiet växer
+  eller krymper över tid.
+
+### Tested
+- EditMode 768/768 (historik capas, peak spåras + sjunker aldrig, persistens), PlayMode 103/103.
+
 ## [0.53.0] - 2026-06-22 — Alpha — "Daglig quiz ❓"
 
 ### Added
