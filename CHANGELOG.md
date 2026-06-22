@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.93.0] - 2026-06-22 — Alpha — "Termostat + tips 🌡💡"
+
+### Added
+- **🌡 Thermostat** (Builder C/Husbandry) — ny app: ställ varje terrariums **varma solplats** och **svala
+  reträtt** och få ett 0–100 termisk-gradient-betyg (Ideal → Dangerous) så reptilerna kan termoreglera.
+  Varnar vid farlig eller inverterad gradient. Konfig-only.
+- **💡 Tips-app** (Builder D/Graphics) — dagens tips (deterministiskt per speldag) med "Next tip" för att
+  bläddra — snabb vägledning för nya skötare. Följer vald accent-färg.
+
+### Tested
+- EditMode 963/963, PlayMode 153/153 på merged main (6 nya TempGradientModel-tester + deterministiskt tips-val; konfliktfria merges).
+
 ## [0.92.0] - 2026-06-22 — Alpha — "Bästa/sämsta dag 📈"
 
 ### Added

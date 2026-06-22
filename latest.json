@@ -1,15 +1,15 @@
 {
-  "version": "0.92.0",
-  "tag": "v0.92.0",
+  "version": "0.93.0",
+  "tag": "v0.93.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.92.0/ReptileShop-Windows-v0.92.0.zip",
-    "sizeBytes": 44893445,
-    "sha256": "739648bce5f965463a5abe2ab0101bf142a16ada8d92ea832b5f360f01e16b62"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.93.0/ReptileShop-Windows-v0.93.0.zip",
+    "sizeBytes": 44897123,
+    "sha256": "27e469966043e81f6cc781794899a69a8e6cb3f17d768843d478195b0133442a"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.92.0 - Analytics: visar basta och samsta enskilda dag i nettoformogenhets-forandring under forandrings-staplarna. Builder D."
+  "notes": "Alpha v0.93.0 - Thermostat: stall varm/sval sida per terrarium for termoregler-betyg med varningar. Tips-app: dagens tips med blade-knapp. Builder C + D."
 }
