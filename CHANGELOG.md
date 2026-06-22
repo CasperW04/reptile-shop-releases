@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.99.0] - 2026-06-22 — Alpha — "Substrat + väder hemma 🪵🌤️"
+
+### Added
+- **🪵 Substrate Change Schedule** (Builder C/Husbandry) — ny app: spåra varje terrariums bädd-**fräschör**
+  (en fräschör-mätare som förfaller över ~14 dagar) och **byt bädden** mot en liten avgift innan den blir
+  försenad — försenade terrarier flaggas.
+- **🌤️ Home: dagens säsong & väder** (Builder D/Graphics) — Home-appen visar nu en "Today"-rad med aktuell
+  säsong och väder (emoji + namn), live från speldagen.
+
+### Tested
+- EditMode 991/991, PlayMode 159/159 på merged main (5 nya SubstrateModel-tester + väder/säsong-mappning; konfliktfria merges).
+
 ## [0.98.0] - 2026-06-22 — Alpha — "Keeper Rank + Home 🎖🏠"
 
 ### Added

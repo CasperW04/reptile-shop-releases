@@ -1,15 +1,15 @@
 {
-  "version": "0.98.0",
-  "tag": "v0.98.0",
+  "version": "0.99.0",
+  "tag": "v0.99.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.98.0/ReptileShop-Windows-v0.98.0.zip",
-    "sizeBytes": 44905333,
-    "sha256": "95bc4b7713c7b6e9c3fd9e0325989339342aad0a16d0137366e7fd8d65736bbf"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.99.0/ReptileShop-Windows-v0.99.0.zip",
+    "sizeBytes": 44907508,
+    "sha256": "f72fee8af67e77ec2e300dcc862f4da541efc4f28b268a72c5540a29a45a2932"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.98.0 - Keeper Rank: tjana skotsel-XP och klattra ranker (Novice till Legendary Breeder). Home-app: overblick med formogenhet-sparkline, notiser, onboarding och dagens tips. Builder C + D."
+  "notes": "Alpha v0.99.0 - Substrate Change Schedule: spara baddens fraschor per terrarium och byt innan den forfaller. Home visar dagens sasong och vader. Builder C + D."
 }
