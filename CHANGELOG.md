@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.51.0] - 2026-06-22 — Alpha — "Väder ⛅"
+
+### Added
+- **⛅ Dynamiskt väder** — varje speldag har ett deterministiskt väder (Sunny/Cloudy/Rain/Storm) som tonar
+  scenens dimma: klar, lång sikt en solig dag; tät, dyster närhet i storm. Ger dagarna olika känsla
+  tillsammans med dygnscykeln. Kod-drivet, inga nya assets.
+
+### Tested
+- EditMode 758/758 (väder deterministiskt, alla typer förekommer, dimma tätnar med oväder), PlayMode 102/102 (storm-dimma närmare än sol).
+
 ## [0.50.0] - 2026-06-22 — Alpha — "Blankning 📉"
 
 ### Added
