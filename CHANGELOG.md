@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.80.0] - 2026-06-22 — Alpha — "Brumation + kontroller ❄⌨️"
+
+### Added
+- **❄ Brumation** (Builder C/Husbandry) — ny app: kör en säsongsbunden nedkylnings-cykel (endast i kalla
+  säsonger — höst/vinter) för att **förbereda djur för avel**, som den riktiga vinter-nedkylning många
+  reptiler behöver. En genomförd cykel ger en temporär **fertilitets-bonus** (1.5×) i ett begränsat fönster.
+- **⌨️ Controls-app** (Builder D/Graphics) — en in-game tangentbindnings-referens grupperad per kategori
+  (Movement / Interaction / Building / Interface), speglar de verkliga bindningarna. (Live rebinding följer.)
+
+### Tested
+- EditMode 878/878, PlayMode 131/131 på merged main (konfliktfria merges; BrumationModel + kontroll-partition verifierade).
+
 ## [0.79.0] - 2026-06-22 — Alpha — "Kund-arketyper 🧑‍🤝‍🧑"
 
 ### Added

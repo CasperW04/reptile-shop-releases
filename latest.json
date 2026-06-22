@@ -1,15 +1,15 @@
 {
-  "version": "0.79.0",
-  "tag": "v0.79.0",
+  "version": "0.80.0",
+  "tag": "v0.80.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.79.0/ReptileShop-Windows-v0.79.0.zip",
-    "sizeBytes": 44857835,
-    "sha256": "a448e6b3a1d078f38b223a81cceb97491f7500cc5b42b1115ac170c29ddf220b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.80.0/ReptileShop-Windows-v0.80.0.zip",
+    "sizeBytes": 44861933,
+    "sha256": "312c10ad2aabc1161b1f664356bc3ba9ddd769205994d175c5df521dbe956164"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.79.0 - Kund-arketyper: fem shopper-typer (Bargain Hunter, Collector, Impulse, Browser, Connoisseur) med farg/ikon/tell, deterministiskt per kund. Ny Customer Guide-app. Builder D."
+  "notes": "Alpha v0.80.0 - Brumation: sasongsbunden nedkylnings-cykel (host/vinter) som forbereder djur for avel med fertilitets-bonus. Controls-app: in-game tangentbindnings-referens per kategori. Builder C + D."
 }
