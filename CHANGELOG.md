@@ -15,6 +15,22 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.128.0] - 2026-06-22 — Alpha — "Riktig UI-font (Inter) + Wealth-app 🔤🏆"
+
+### Added — Asset-omtag
+- **🔤 Riktig människo-gjord UI-font** — hela gränssnittet använder nu **Inter** (av Rasmus Andersson,
+  SIL Open Font License — en äkta, fritt licensierad, människo-författad typsnitt) istället för Unitys
+  inbyggda standardfont. Appliceras på alla topp-nivå-UI-rötter (HUD, dator-appar, huvudmeny, hotbar) och
+  ärvs nedåt; guardad fallback om fonten saknas. Attribution i `Assets/Resources/Fonts/ATTRIBUTIONS.txt`.
+- **🏆 Net-worth milestones / Wealth-app** (Builder B/Economy) — spåra förmögenhets-milstolpar i en egen app.
+
+### Changed
+- **🧪 Härdade tester** (Builder C): WeightLog- + Inbreeding-modellernas edge-cases. **➕ Signed money-format**
+  (Builder D): `MoneyFormat.Signed`-helper för +/- -prefix.
+
+### Tested
+- EditMode 1167/1167, PlayMode 180/180 på merged main (Inter importerad + applicerad; font-API verifierad).
+
 ## [0.127.0] - 2026-06-22 — Alpha — "Finans-djup + skötsel-rutiner + Home-widgets 🏖️🧹🦎"
 
 ### Added — Economy (Builder B)

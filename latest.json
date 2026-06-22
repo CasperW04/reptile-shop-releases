@@ -1,15 +1,15 @@
 {
-  "version": "0.127.0",
-  "tag": "v0.127.0",
+  "version": "0.128.0",
+  "tag": "v0.128.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.127.0/ReptileShop-Windows-v0.127.0.zip",
-    "sizeBytes": 45775280,
-    "sha256": "747af4a8568fe3f54473a18005bbff38fbc32f7ead2316e4517d24ee4c03f445"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.128.0/ReptileShop-Windows-v0.128.0.zip",
+    "sizeBytes": 46239114,
+    "sha256": "e0faac0dcbf27dff5267320c42eebbdcb3bcf73c1bb49fdbebe24d7d21f2f23f"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.127.0 - 9 features: Annuiteter/pensioner, valgorenhets-donationer, one-click hedge (B); Daily Care Routine + fler XP-hooks + Care Hub-varde (C); Home samlings-summary + pengar-milstolpe + notis-sortering + Display-reset (D)."
+  "notes": "Alpha v0.128.0 - ASSET-OMTAG: hela UI:t anvander nu Inter (SIL Open Font License, manniskogjord typsnitt) istallet for Unitys standardfont. Plus Wealth-app net-worth-milstolpar (B), test-hardning (C), MoneyFormat.Signed (D)."
 }
