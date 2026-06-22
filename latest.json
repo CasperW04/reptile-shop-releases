@@ -1,15 +1,15 @@
 {
-  "version": "0.131.0",
-  "tag": "v0.131.0",
+  "version": "0.132.0",
+  "tag": "v0.132.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.131.0/ReptileShop-Windows-v0.131.0.zip",
-    "sizeBytes": 46345606,
-    "sha256": "0470e2b9dcd76efe1f8729e59cd6473e20bf73e75862a135682ed51170183f85"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.132.0/ReptileShop-Windows-v0.132.0.zip",
+    "sizeBytes": 46347083,
+    "sha256": "03bdd50b7ba15ba2adc04ce5df9ffcdaf5341c43992bc68749a6eeccad94e84a"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.131.0 - +60 CC0 mat/varu-modeller (Kenney Food Kit, public domain) - totalt 340 manniskogjorda CC0-modeller kop/placerbara i bygg-menyn."
+  "notes": "Alpha v0.132.0 - Inflations-index (CPI-dashboard) som driver over tid (B). Customer Guide fargkodade tells (D). RosterStats-test-hardning (C)."
 }

@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.132.0] - 2026-06-22 — Alpha — "Inflations-index + kund-färger 📈🎨"
+
+### Added
+- **📈 Inflations-index (CPI-dashboard)** (Builder B/Economy) — ett konsumentprisindex som driver över tid
+  och kontextualiserar priser/avkastning.
+- **🎨 Customer Guide: färgkodade tells** (Builder D/Graphics) — tålamod/budget visas nu färgkodat per arketyp.
+
+### Changed
+- **🧪 Härdade RosterStats-tester** (Builder C).
+
+### Tested
+- EditMode 1189/1189, PlayMode 180/180 på merged main.
+
 ## [0.131.0] - 2026-06-22 — Alpha — "340 CC0-modeller (mat & varor) 🍎🍱"
 
 ### Added
