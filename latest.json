@@ -1,15 +1,15 @@
 {
-  "version": "0.89.0",
-  "tag": "v0.89.0",
+  "version": "0.90.0",
+  "tag": "v0.90.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.89.0/ReptileShop-Windows-v0.89.0.zip",
-    "sizeBytes": 44887626,
-    "sha256": "2291caad60812af7bd7bcae5401ecfba4b8da325f2053169bf19ab8436e2de4e"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.90.0/ReptileShop-Windows-v0.90.0.zip",
+    "sizeBytes": 44889810,
+    "sha256": "505cf32f47d9311efff39bacf9838a30cda0a51f298757577963122950f0f649"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.89.0 - Hall of Fame: logg over utmarkande klackningar (morfer/multi-hets) med sallsynthets-betyg. Relativa tidsstamplar i notiser (today/yesterday/N days ago). Builder C + D."
+  "notes": "Alpha v0.90.0 - Breeding Project Goals: ata dig att klacka 5/10/20 inom 14 dagar for kontant-beloning. Knapptryck-kansla: scale-pop pa klick. Builder C + D."
 }

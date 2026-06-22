@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.90.0] - 2026-06-22 — Alpha — "Avelsmål + knapp-känsla 🎯🔘"
+
+### Added
+- **🎯 Breeding Project Goals** (Builder C/Husbandry) — ny app: åta dig att producera ett antal kläckningar
+  (5/10/20) inom 14 dagar för en **kontant-belöning**. Progress räknar kläckningar; missa deadline → målet
+  misslyckas. `BreedingGoalModule` räknar `ReptileBornEvent` och betalar ut vid klart.
+- **🔘 Knapptryck-känsla** (Builder D/Graphics) — knappar i Builder D:s appar ger nu en subtil **scale-pop**
+  vid klick (respekterar reduced-motion).
+
+### Tested
+- EditMode 944/944, PlayMode 150/150 på merged main (4 nya BreedingGoalModel-tester + pop-on-click; konfliktfria merges).
+
 ## [0.89.0] - 2026-06-22 — Alpha — "Hall of Fame + relativ tid 🏆🕒"
 
 ### Added
