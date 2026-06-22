@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.46.0] - 2026-06-22 — Alpha — "Dag & natt 🌗"
+
+### Added
+- **🌗 Dag/natt-stämning** — butikens omgivningsljus följer nu spelklockan: varmt och ljust vid lunch,
+  gradvis nedtonat till ett svalt, månljust dunkel på natten. Helt kod-drivet (skalar bas-ambient + en
+  kall nattnyans) — inga nya 3D-assets. Ger dygnet en känsla utan att tappa läsbarhet (aldrig kolsvart).
+
+### Tested
+- EditMode 741/741 (ljuskurva: dim vid midnatt, ljus vid lunch, inom intervall, wrap), PlayMode 99/99 (ambient mörkare på natten än mitt på dagen).
+
 ## [0.45.0] - 2026-06-22 — Alpha — "Börs-nyheter 📰"
 
 ### Added

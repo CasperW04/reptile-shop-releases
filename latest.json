@@ -1,15 +1,15 @@
 {
-  "version": "0.45.0",
-  "tag": "v0.45.0",
+  "version": "0.46.0",
+  "tag": "v0.46.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.45.0/ReptileShop-Windows-v0.45.0.zip",
-    "sizeBytes": 44801217,
-    "sha256": "adb7c287e8036c0fae137696af0cbb0cb762543f9ce28fa7c44ed2c548139c60"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.46.0/ReptileShop-Windows-v0.46.0.zip",
+    "sizeBytes": 44802691,
+    "sha256": "4de53c755c232ca755fc055ed14f8dc8d5ba7ca387ad0c06bf1f3176c788e6c1"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.45.0 - Bors-nyhetshandelser: vissa dagar dyker en rubrik upp som skakar om en aktie (+/- 8-18%). Positiva och negativa nyheter, deterministiskt per dag. Visas i Stocks-appen."
+  "notes": "Alpha v0.46.0 - Dag/natt-stamning: butikens omgivningsljus foljer spelklockan - varmt och ljust vid lunch, svalt manljust dunkel pa natten. Helt kod-drivet, inga nya assets."
 }
