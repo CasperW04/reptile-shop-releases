@@ -1,15 +1,15 @@
 {
-  "version": "0.97.0",
-  "tag": "v0.97.0",
+  "version": "0.98.0",
+  "tag": "v0.98.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.97.0/ReptileShop-Windows-v0.97.0.zip",
-    "sizeBytes": 44902883,
-    "sha256": "23352ab0f048f8b7bd5b69532643b0d8d1d08af560754f87288f40b0fd21fb7a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.98.0/ReptileShop-Windows-v0.98.0.zip",
+    "sizeBytes": 44905333,
+    "sha256": "95bc4b7713c7b6e9c3fd9e0325989339342aad0a16d0137366e7fd8d65736bbf"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.97.0 - Kompakt valuta-formatering i Analytics: stora tal som 1.2K/3.4M/1.0B, hover visar exakt belopp. Builder D."
+  "notes": "Alpha v0.98.0 - Keeper Rank: tjana skotsel-XP och klattra ranker (Novice till Legendary Breeder). Home-app: overblick med formogenhet-sparkline, notiser, onboarding och dagens tips. Builder C + D."
 }

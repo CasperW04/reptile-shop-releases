@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.98.0] - 2026-06-22 — Alpha — "Keeper Rank + Home 🎖🏠"
+
+### Added
+- **🎖 Keeper Rank — skötsel-XP** (Builder C/Husbandry) — ny app: tjäna skötsel-**XP** genom att vårda
+  samlingen (dagligen) och kläcka djur, och klättra i keeper-rank — **Novice → Apprentice → Keeper → Senior
+  Keeper → Master → Legendary Breeder**. `HusbandryXpModule` ger XP vid `ReptileBornEvent` + daglig vård.
+- **🏠 Home-app** (Builder D/Graphics) — en överblicksbar sammanfattning som knyter ihop nettoförmögenhet
+  (med sparkline-trend), olästa notiser, onboarding-progress och dagens tips. Ny återanvändbar `SparklineElement`.
+
+### Tested
+- EditMode 984/984, PlayMode 158/158 på merged main (6 nya HusbandryXpModel-tester + Home/sparkline; konfliktfria merges).
+
 ## [0.97.0] - 2026-06-22 — Alpha — "Kompakt valuta 💵"
 
 ### Added
