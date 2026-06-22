@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.138.0] - 2026-06-22 — Alpha — "Allokering + tomt-läge 🥧🫥"
+
+### Added
+- **🥧 Portfölj-allokering & diversifierings-score** (Builder B/Economy) — se din fördelning över tillgångar
+  och ett diversifierings-betyg som varnar för klump-risk.
+- **🫥 Kontextuellt tomt-läge i Notifications** (Builder D/Graphics) — en vänlig tom-vy med tips när flödet är tomt eller ett filter inte matchar.
+
+### Tested
+- EditMode 1225/1225, PlayMode 183/183 på merged main.
+
 ## [0.137.0] - 2026-06-22 — Alpha — "Karantän-tavla + enhetliga headers 🚧🪧"
 
 ### Added

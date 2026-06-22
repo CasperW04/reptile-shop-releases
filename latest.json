@@ -1,15 +1,15 @@
 {
-  "version": "0.137.0",
-  "tag": "v0.137.0",
+  "version": "0.138.0",
+  "tag": "v0.138.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.137.0/ReptileShop-Windows-v0.137.0.zip",
-    "sizeBytes": 46358703,
-    "sha256": "8bde3fe6ffed9cb764f030edbab75b97a97e2719144914b25896c1e2cdb9ceb1"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.138.0/ReptileShop-Windows-v0.138.0.zip",
+    "sizeBytes": 46360561,
+    "sha256": "6d7364256f770f8f2737ac968c8aa649af682126dc35a45dbdd41209f072a449"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.137.0 - Quarantine Board: samlad vy over isolerade djur (C). Enhetliga accent-headers pa alla Builder D-appar (D)."
+  "notes": "Alpha v0.138.0 - Portfolj-allokering och diversifierings-score (B). Kontextuellt tomt-lage i Notifications (D)."
 }
