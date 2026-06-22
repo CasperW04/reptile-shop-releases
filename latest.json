@@ -1,15 +1,15 @@
 {
-  "version": "0.114.0",
-  "tag": "v0.114.0",
+  "version": "0.115.0",
+  "tag": "v0.115.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.114.0/ReptileShop-Windows-v0.114.0.zip",
-    "sizeBytes": 44937164,
-    "sha256": "f3578cb97d432f06a3db6513f785520fbbc95c1e84d69a85278276aca73f746c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.115.0/ReptileShop-Windows-v0.115.0.zip",
+    "sizeBytes": 44937799,
+    "sha256": "271b5bc42bd731504337ee9e31da9bdfaf0644eb0b93d7fbf0e78fa79b1ab57d"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.114.0 - HERP-IRA: last skatte-gynnat pensionskonto i Bank-appen. Avdragsgilla bidrag (tak 25k/ar), vaxer dagligen, last till pensionsdag, 20% straff vid tidigt uttag. Builder B (economy)."
+  "notes": "Alpha v0.115.0 - Diet Guide-app: visar vad varje djur ater (gnagare vs insekter) + bestands-sammanfattning sa du haller ratt foder. Builder C."
 }

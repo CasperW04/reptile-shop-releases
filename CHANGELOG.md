@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.115.0] - 2026-06-22 — Alpha — "Diet-guide 🍽"
+
+### Added
+- **🍽 Diet Guide** (Builder C/Husbandry) — ny app: visar vad varje djur äter — **gnagare vs insekter**
+  (härlett från kroppsbyggnaden) — plus en bestånds-sammanfattning (🐭 gnagar-ätare · 🦗 insektsätare) så du
+  håller rätt foder. Ren läs-modell.
+
+### Tested
+- EditMode 1069/1069, PlayMode 173/173 på merged main (DietModel-tester; konfliktfri merge).
+
 ## [0.114.0] - 2026-06-22 — Alpha — "$HERP-IRA 🏦"
 
 ### Added
