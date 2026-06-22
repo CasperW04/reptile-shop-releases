@@ -1,15 +1,15 @@
 {
-  "version": "0.130.0",
-  "tag": "v0.130.0",
+  "version": "0.131.0",
+  "tag": "v0.131.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.130.0/ReptileShop-Windows-v0.130.0.zip",
-    "sizeBytes": 46241947,
-    "sha256": "aeac7bdc25a1e59ea81cd9c5200201a82a1d4fc5ccabec94d1312d9b1b288470"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.131.0/ReptileShop-Windows-v0.131.0.zip",
+    "sizeBytes": 46345606,
+    "sha256": "0470e2b9dcd76efe1f8729e59cd6473e20bf73e75862a135682ed51170183f85"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.130.0 - Financial Statement-app (tillgangar/skulder/eget kapital/resultat). Home visar topp-nettoformogenhet. Plus Diversity-test-hardning. Builder B + C + D."
+  "notes": "Alpha v0.131.0 - +60 CC0 mat/varu-modeller (Kenney Food Kit, public domain) - totalt 340 manniskogjorda CC0-modeller kop/placerbara i bygg-menyn."
 }

@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.131.0] - 2026-06-22 — Alpha — "340 CC0-modeller (mat & varor) 🍎🍱"
+
+### Added
+- **🍎🍱 +60 CC0 mat/varu-modeller** (Kenney Food Kit, public domain) — fruktdiskar, godis, burkar m.m. som
+  passar en pet-shop, nu köp/placerbara. Totalt **340 människo-gjorda CC0-modeller** i bygg-menyn. Auto-
+  genererad katalog + import via samma pipeline (`tools/assets/`).
+
+### Tested
+- EditMode 1182/1182, PlayMode 180/180 på merged main (340 glb importerade; alla katalognycklar upplöses).
+
 ## [0.130.0] - 2026-06-22 — Alpha — "Bokslut + topp-förmögenhet 🧾📈"
 
 ### Added
