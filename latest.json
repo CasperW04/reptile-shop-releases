@@ -1,15 +1,15 @@
 {
-  "version": "0.46.0",
-  "tag": "v0.46.0",
+  "version": "0.47.0",
+  "tag": "v0.47.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.46.0/ReptileShop-Windows-v0.46.0.zip",
-    "sizeBytes": 44802691,
-    "sha256": "4de53c755c232ca755fc055ed14f8dc8d5ba7ca387ad0c06bf1f3176c788e6c1"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.47.0/ReptileShop-Windows-v0.47.0.zip",
+    "sizeBytes": 44804500,
+    "sha256": "41277ab25bf0fc2f61d8d9475e180e8bee46885d469f68a2e26629fefb61ccd1"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.46.0 - Dag/natt-stamning: butikens omgivningsljus foljer spelklockan - varmt och ljust vid lunch, svalt manljust dunkel pa natten. Helt kod-drivet, inga nya assets."
+  "notes": "Alpha v0.47.0 - Cricket Casino: en enarmad bandit att spela med butikskassan. Tre lika ger stor vinst (diamant x20), tva lika ger insatsen tillbaka. Riktig house edge - kul money-sink."
 }

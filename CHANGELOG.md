@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.47.0] - 2026-06-22 — Alpha — "Cricket Casino 🎰"
+
+### Added
+- **🎰 Cricket Casino** — en ny enarmad bandit-app att spela med butikskassan. Välj insats ($50/$200/$1000),
+  spinn tre hjul: tre lika ger stor utbetalning (💎×20 högst), två lika ger insatsen tillbaka, annars förlust.
+  Riktig house edge (på sikt förlorar man) så det är ett kul money-sink, inte en pengamaskin.
+
+### Tested
+- EditMode 744/744 (paytable + bevisad house edge över 5000 spins), PlayMode 100/100 (insats debiteras via ekonomin; spelaren är back över en lång session).
+
 ## [0.46.0] - 2026-06-22 — Alpha — "Dag & natt 🌗"
 
 ### Added
