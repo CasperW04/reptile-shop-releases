@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.116.0] - 2026-06-22 — Alpha — "Kontroll-sök 🔎"
+
+### Added
+- **🔎 Controls-sök** (Builder D/Graphics) — Controls-appen får en sökruta som filtrerar tangentbindningar på
+  åtgärd eller tangent (tomma kategorier göms).
+
+### Tested
+- EditMode 1070/1070, PlayMode 173/173 på merged main (sök skiftlägesokänslig + tom/no-match; konfliktfri merge).
+
 ## [0.115.0] - 2026-06-22 — Alpha — "Diet-guide 🍽"
 
 ### Added

@@ -1,15 +1,15 @@
 {
-  "version": "0.115.0",
-  "tag": "v0.115.0",
+  "version": "0.116.0",
+  "tag": "v0.116.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.115.0/ReptileShop-Windows-v0.115.0.zip",
-    "sizeBytes": 44937799,
-    "sha256": "271b5bc42bd731504337ee9e31da9bdfaf0644eb0b93d7fbf0e78fa79b1ab57d"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.116.0/ReptileShop-Windows-v0.116.0.zip",
+    "sizeBytes": 44938176,
+    "sha256": "c82abd0683b507ead700141c2acb273003037089c73e2421bfe900191397ed31"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.115.0 - Diet Guide-app: visar vad varje djur ater (gnagare vs insekter) + bestands-sammanfattning sa du haller ratt foder. Builder C."
+  "notes": "Alpha v0.116.0 - Controls-appen far en sokruta som filtrerar tangentbindningar pa atgard eller tangent. Builder D."
 }
