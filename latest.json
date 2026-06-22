@@ -1,15 +1,15 @@
 {
-  "version": "0.100.0",
-  "tag": "v0.100.0",
+  "version": "0.101.0",
+  "tag": "v0.101.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.100.0/ReptileShop-Windows-v0.100.0.zip",
-    "sizeBytes": 44907681,
-    "sha256": "ad1ead3dc1a5a0af140a90fc78972e359fc561d35048c5553a36c2845b95819f"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.101.0/ReptileShop-Windows-v0.101.0.zip",
+    "sizeBytes": 44909592,
+    "sha256": "6807f8ee873df694a9ed97efc0480bec3981170913819a0434da9e424e9a6e25"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.100.0 - Fargkodade notis-rader per typ (forsaljningar gron, klackningar bla, achievements guld). Builder D. (Minor klattrar forbi 99 till 100, major forblir 0.)"
+  "notes": "Alpha v0.101.0 - Humidity/Misting: stall relativ luftfuktighet per terrarium och fa ett betyg mot idealet for friska omsningar. Builder C."
 }

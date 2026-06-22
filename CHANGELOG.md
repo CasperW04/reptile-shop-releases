@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.101.0] - 2026-06-22 — Alpha — "Luftfuktighet 💧"
+
+### Added
+- **💧 Humidity / Misting** (Builder C/Husbandry) — ny app: ställ varje terrariums relativa luftfuktighet
+  (dimning ±5%) och få ett betyg mot idealet (~60% RH) för friska ömsningar + hydrering. Fel fuktighet
+  flaggas (Ideal → Harmful). Konfig-only.
+
+### Tested
+- EditMode 997/997, PlayMode 161/161 på merged main (6 nya HumidityModel-tester; konfliktfri merge).
+
 ## [0.100.0] - 2026-06-22 — Alpha — "Färgkodade notiser 🎨"
 
 ### Added
