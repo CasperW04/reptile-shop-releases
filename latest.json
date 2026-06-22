@@ -1,15 +1,15 @@
 {
-  "version": "0.66.0",
-  "tag": "v0.66.0",
+  "version": "0.67.0",
+  "tag": "v0.67.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.66.0/ReptileShop-Windows-v0.66.0.zip",
-    "sizeBytes": 44829049,
-    "sha256": "8e0426d59457aab0fdc16a67d664624bcf711a6d7e0b0313de6e127bd5035120"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.67.0/ReptileShop-Windows-v0.67.0.zip",
+    "sizeBytes": 44829052,
+    "sha256": "2fc483d4810da95f915d8eb48db378167abb74414440696dc6dd8cec85143d7c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.66.0 - Salj- och klack-feedback: varje forsaljning och klackning ger nu en festlig belopps-skalad toast + kassa-chime. De tva stora positiva ogonblicken kanns. Research-backlog (game-feel)."
+  "notes": "Alpha v0.67.0 - Reptil-andning: djuren andas nu med en subtil kod-driven skal-puls, med egen fas per djur sa ett helt terrarium inte andas i takt. Skillnaden mellan staty och levande. Research-backlog."
 }

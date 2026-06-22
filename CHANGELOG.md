@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.67.0] - 2026-06-22 — Alpha — "Levande djur 🫁"
+
+### Added
+- **🫁 Reptil-andning** — djuren andas nu med en subtil, kod-driven skal-puls (±1,5%), med en egen fas per
+  djur så ett helt terrarium inte andas i takt. Små men stora skillnaden mellan "staty" och "levande".
+  (Research-backlog: game-feel/grafik. Blink + tungspetsning är en uppföljning.)
+
+### Tested
+- EditMode 813/813 (andnings-skala håller sig inom amplitud, olika faser desynkar, oscillerar över tid), PlayMode 110/110.
+
 ## [0.66.0] - 2026-06-22 — Alpha — "Sälj-juice 💰"
 
 ### Added
