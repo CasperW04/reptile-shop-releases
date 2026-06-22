@@ -15,6 +15,22 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.122.0] - 2026-06-22 — Alpha — "Centralbank + valuta + Care Hub 🏛️💱🏠"
+
+### Added
+- **🏛️ Centralbanks-styrränta** (Builder B/Economy) — en policy-ränta cyklar nu deterministiskt över tid
+  (~120-dagars easing→tightening-våg) och skalar de räntekänsliga instrumenten.
+- **💱 Valutaväxling (FX)** (Builder B/Economy) — ny **Exchange**-app: växla USD mot **Exotic Bucks (EXB)**,
+  en andra valuta vars mittkurs driver över tid (~70-dagars cykel + daglig wobble), med köp/sälj-spread.
+- **🏠 Care Hub** (Builder C/Husbandry) — ny husbandry-hemskärm: visar den mest brådskande **rubriken** (top
+  almanac-item, färgkodad) plus keeper-rank, care-streak, samlingsstorlek på ett ögonkast.
+- **🔺 Home: nettoförmögenhets-trendpil** (Builder D/Graphics) — Home visar nu ▲/▼/— för senaste dagens
+  förändring.
+- **🔢 Notis-chip-antal** (Builder D/Graphics) — filter-chipsen visar antal per typ ("All (12)", "💰 Sales (3)").
+
+### Tested
+- EditMode 1116/1116, PlayMode 177/177 på merged main (5 features; en BankApp-konflikt löst till B:s superset).
+
 ## [0.121.0] - 2026-06-22 — Alpha — "Kreditvärdighet + miljö-Almanacka 💳📔"
 
 ### Added

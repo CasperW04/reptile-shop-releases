@@ -1,15 +1,15 @@
 {
-  "version": "0.121.0",
-  "tag": "v0.121.0",
+  "version": "0.122.0",
+  "tag": "v0.122.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.121.0/ReptileShop-Windows-v0.121.0.zip",
-    "sizeBytes": 44949477,
-    "sha256": "972b9b3e26d6c84333e0186340d3d994e17e4a905dbdc6f4f29d2336ae520b97"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.122.0/ReptileShop-Windows-v0.122.0.zip",
+    "sizeBytes": 44953224,
+    "sha256": "789532deeb4f8f3eb41f226da19247384b0a00ac4fc1853ac0f20885655a839f"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.121.0 - Kreditvardighet (credit score 300-850 som formar kreditgrans + ranta). Almanackan tacker nu luftfuktighet/substrat/karantan. Analytics A-F-betyg. Plus: det flaky klock-testet ar nu deterministiskt. Builder B + C + D + integrator."
+  "notes": "Alpha v0.122.0 - Centralbanks-styrranta (deterministisk rante-cykel). Valutavaxling FX (USD vs Exotic Bucks med spread). Care Hub husbandry-hemskarm. Home nettoformogenhets-trendpil. Notis-chip-antal. Builder B + C + D."
 }
