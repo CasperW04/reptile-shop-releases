@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.117.0] - 2026-06-22 — Alpha — "Kapitalprojekt 📈"
+
+### Added
+- **📈 Capital Projects (Ventures)** (Builder B/Economy) — ny **Ventures**-app: finansiera kapitalprojekt som
+  betalar en **daglig avkastning** över en fast livslängd. Fyra projekt (Automated Feeder, Reptile Spa,
+  Breeding Lab Upgrade, Cricket Farm), var och en med riktiga **finans-kort** — återbetalningstid, total ROI,
+  **annualiserad IRR** — så de jämförs som riktiga investeringar. Riskablare projekt varierar utbetalningen
+  (deterministiskt ±band); säkra är garanterade. Inkomsten räknas mot årsskatten. Kostnad + utbetalningar sparas.
+
+### Tested
+- EditMode 1076/1076, PlayMode 173/173 på merged main (CapitalProjectModel; en delad econ-service-konflikt (StockMarketService daily tick) union:ades till B:s superset).
+
 ## [0.116.0] - 2026-06-22 — Alpha — "Kontroll-sök 🔎"
 
 ### Added

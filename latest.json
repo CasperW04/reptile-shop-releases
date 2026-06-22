@@ -1,15 +1,15 @@
 {
-  "version": "0.116.0",
-  "tag": "v0.116.0",
+  "version": "0.117.0",
+  "tag": "v0.117.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.116.0/ReptileShop-Windows-v0.116.0.zip",
-    "sizeBytes": 44938176,
-    "sha256": "c82abd0683b507ead700141c2acb273003037089c73e2421bfe900191397ed31"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.117.0/ReptileShop-Windows-v0.117.0.zip",
+    "sizeBytes": 44941213,
+    "sha256": "af9f855087d5ea0245b91cfab9468b56b33f780538a236d953f877a4f7120812"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.116.0 - Controls-appen far en sokruta som filtrerar tangentbindningar pa atgard eller tangent. Builder D."
+  "notes": "Alpha v0.117.0 - Capital Projects (Ventures): finansiera projekt som betalar daglig avkastning med riktiga finans-kort (payback, ROI, IRR). Fyra projekt, riskablare varierar utbetalning. Builder B (economy)."
 }
