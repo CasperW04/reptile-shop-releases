@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.143.0] - 2026-06-22 — Alpha — "Tips: bläddra bakåt 💡"
+
+### Added
+- **💡 Föregående-tips-navigering** (Builder D/Graphics) — Tips-appen får en "Previous"-knapp så du kan bläddra åt båda håll.
+
+### Tested
+- EditMode 1236/1236, PlayMode 185/185 på merged main.
+
 ## [0.142.0] - 2026-06-22 — Alpha — "Tomt-läge i Customer Guide-sök 🫥"
 
 ### Added

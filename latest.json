@@ -1,15 +1,15 @@
 {
-  "version": "0.142.0",
-  "tag": "v0.142.0",
+  "version": "0.143.0",
+  "tag": "v0.143.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.142.0/ReptileShop-Windows-v0.142.0.zip",
-    "sizeBytes": 46363528,
-    "sha256": "cb8c10b1c42acf717398b0e0d46b56f3b0d9eece046e65d43f2c67bd6763dc26"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.143.0/ReptileShop-Windows-v0.143.0.zip",
+    "sizeBytes": 46363726,
+    "sha256": "66c4416baf7187387f4b5221ff5ff64e73271976b836033c34515380600e0158"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.142.0 - Kontextuellt tomt-lage nar en Customer Guide-arketyp-sokning inte matchar. Builder D."
+  "notes": "Alpha v0.143.0 - Tips-appen far Previous-knapp for att bladdra at bada hall. Builder D."
 }
