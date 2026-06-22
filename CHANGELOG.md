@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.124.0] - 2026-06-22 — Alpha — "Trend-färgad förmögenhetslinje 📉"
+
+### Added
+- **📉 Trend-färgad nettoförmögenhets-linje** (Builder D/Graphics) — linjediagrammet är nu grönt när du är
+  plus över vald period och rött när minus.
+
+### Tested
+- EditMode 1120/1120, PlayMode 178/178 på merged main (GraphStats.PctChange + Analytics-bygge; transient I/O-flake under 4-Unity-last löstes med Temp-rensning + omkörning).
+
 ## [0.123.0] - 2026-06-22 — Alpha — "Husbandry-värdebonus 💎"
 
 ### Added

@@ -1,15 +1,15 @@
 {
-  "version": "0.123.0",
-  "tag": "v0.123.0",
+  "version": "0.124.0",
+  "tag": "v0.124.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.123.0/ReptileShop-Windows-v0.123.0.zip",
-    "sizeBytes": 44953782,
-    "sha256": "c50bb471a129822ab7349e154db47f633c0fe57d7b4616377bd88e4e1b404337"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.124.0/ReptileShop-Windows-v0.124.0.zip",
+    "sizeBytes": 44954801,
+    "sha256": "264721efac17a893a651c8d8fdbf37b134f260be88a55bf3255160a3d60cae0c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.123.0 - Husbandry Value Boost: tamhet + kroppskondition + DNA-test + avels-primat vags ihop till 0-30% vardebonus som prissattning kan lasa. Builder C."
+  "notes": "Alpha v0.124.0 - Trend-fargad nettoformogenhets-linje: gron nar plus over perioden, rod nar minus. Builder D."
 }
