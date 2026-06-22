@@ -1,15 +1,15 @@
 {
-  "version": "0.140.0",
-  "tag": "v0.140.0",
+  "version": "0.141.0",
+  "tag": "v0.141.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.140.0/ReptileShop-Windows-v0.140.0.zip",
-    "sizeBytes": 46363386,
-    "sha256": "84c989b8514a9f7be5858c25e299ecd55d8cc6e561e96b333c2805d68d9fddbd"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.141.0/ReptileShop-Windows-v0.141.0.zip",
+    "sizeBytes": 46363541,
+    "sha256": "6b6394bbf6c64f3266319ca42456cabc64631aefbf7a5963c36626a8d92de20c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.140.0 - Economic calendar over kommande pengar-handelser (B). Forecast rough-days-summering (D)."
+  "notes": "Alpha v0.141.0 - Kontextuellt tomt-lage nar en Controls-sokning inte matchar. Builder D."
 }

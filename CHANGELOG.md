@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.141.0] - 2026-06-22 — Alpha — "Tomt-läge i Controls-sök 🫥"
+
+### Added
+- **🫥 Kontextuellt tomt-läge i Controls-sök** (Builder D/Graphics) — en vänlig tom-vy när en
+  tangentbindnings-sökning inte matchar något.
+
+### Tested
+- EditMode 1235/1235, PlayMode 184/184 på merged main.
+
 ## [0.140.0] - 2026-06-22 — Alpha — "Ekonomisk kalender + väder-summering 📅⛈️"
 
 ### Added
