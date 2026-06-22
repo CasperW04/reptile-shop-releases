@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.73.0] - 2026-06-22 — Alpha — "Biosäkerhet 🧫"
+
+### Added
+- **🧫 Biosäkerhet & smitta** (Builder C/Husbandry) — en smittsam åkomma (kvalster/sjukdom) sprids nu dagligen
+  mellan samboende djur; **karantän**-satta djur varken smittas eller smittar, och utbrott startar organiskt.
+  Ny **Biosecurity**-app: se infekterade vs karantän-satta + "Treat all" för att bota mot en avgift per djur.
+  Deterministisk `ContagionModel` tickad dagligen; smitt-/karantänstatus sparas.
+
+### Tested
+- EditMode 837/837, PlayMode 118/118 på merged main (6 nya ContagionModel-tester + app-nåbarhet; konflikt löstes på Builder C:s domän-partial, övrigt rent).
+
 ## [0.72.0] - 2026-06-22 — Alpha — "Parallellt skördat: inkubation + notiser 🥚📨"
 
 _Första parallella integrationen: 2 builders (Husbandry + Graphics) levererade samtidigt, mergade konfliktfritt via partial-sömmarna._

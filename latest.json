@@ -1,15 +1,15 @@
 {
-  "version": "0.72.0",
-  "tag": "v0.72.0",
+  "version": "0.73.0",
+  "tag": "v0.73.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.72.0/ReptileShop-Windows-v0.72.0.zip",
-    "sizeBytes": 44836155,
-    "sha256": "45f359bf4575c257292f46ef1d2e1fce45bfb81761725d2a9440cbd2249f9860"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.73.0/ReptileShop-Windows-v0.73.0.zip",
+    "sizeBytes": 44839543,
+    "sha256": "4ae5842a0f59d50bf5782b8909c199da6e341584d9ab9fd2f5fae1617fe2deb0"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.72.0 - Forsta parallella integrationen: Incubation Planner (kons-ratio + dodlighet per temperatur) + Notifications Center (bestaende handelse-flode) + Celebration juice (konfetti + count-up). Tva builders mergade konfliktfritt."
+  "notes": "Alpha v0.73.0 - Biosakerhet och smitta: en smittsam akomma sprids mellan samboende djur; karantan skyddar. Ny Biosecurity-app med Treat all. Builder C (husbandry), mergad med en doman-konflikt lost."
 }
