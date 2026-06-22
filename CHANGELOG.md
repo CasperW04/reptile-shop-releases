@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.110.0] - 2026-06-22 — Alpha — "Keeper Notes + high/low 📝📈"
+
+### Added
+- **📝 Keeper Notes** (Builder C/Husbandry) — ny app: skriv en fri-text-anteckning på valfritt djur och
+  **stjärnmärk keepers** (favoriterna du inte säljer). Keeper-antal visas på ett ögonkast. Tomma poster
+  städas automatiskt, prunas vid försäljning.
+- **📈 Analytics: high/low** (Builder D/Graphics) — Analytics-appen visar **högsta och lägsta**
+  nettoförmögenhets-värdet över vald period.
+
+### Tested
+- EditMode 1040/1040, PlayMode 168/168 på merged main (5 nya NotesModel-tester + Max/Min; konfliktfria merges).
+
 ## [0.109.0] - 2026-06-22 — Alpha — "Margin & hävstång 📉⚠️"
 
 ### Added

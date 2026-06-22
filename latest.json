@@ -1,15 +1,15 @@
 {
-  "version": "0.109.0",
-  "tag": "v0.109.0",
+  "version": "0.110.0",
+  "tag": "v0.110.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.109.0/ReptileShop-Windows-v0.109.0.zip",
-    "sizeBytes": 44923561,
-    "sha256": "ea3199d6ef5c38b3db7b230faba61aaab49f9c8c34e65065d49757d4fa7df0b8"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.110.0/ReptileShop-Windows-v0.110.0.zip",
+    "sizeBytes": 44925794,
+    "sha256": "df06770fa3246b542358d84898c58afa1d034a076b0680a41397dbd4272553b5"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.109.0 - Margin och havstang: lana mot portfoljen (2x kopkraft) for att handla storre; en nedgang under 25%-underhall utloser margin call som tvangslikviderar storsta innehav. Builder B (economy)."
+  "notes": "Alpha v0.110.0 - Keeper Notes: fri-text-anteckning per djur + stjarnmark keepers du inte saljer. Analytics high/low for nettoformogenhet. Builder C + D."
 }
