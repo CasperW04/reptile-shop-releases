@@ -15,6 +15,24 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.127.0] - 2026-06-22 — Alpha — "Finans-djup + skötsel-rutiner + Home-widgets 🏖️🧹🦎"
+
+### Added — Economy (Builder B)
+- **🏖️ Annuiteter & pensioner** — köp term- eller livränte-kontrakt som betalar ut garanterat över tid.
+- **❤️ Välgörenhets-donationer** — donera för **Patron-tiers** (rykte/förmåner), avdragsgillt mot årsskatten.
+- **🛡️ One-click portfölj-hedge** — köp skydds-puttar i ett klick som paket mot din exponering.
+
+### Added — Husbandry (Builder C)
+- **🧹 Daily Care Routine** — en-knapps batch-skötsel av hela samlingen.
+- **🎖 Fler skötsel-åtgärder ger Keeper-XP** (enrichment + intake-graduering); **💎 Care Hub visar snitt-husbandry-värde**.
+
+### Added — Graphics/UX (Builder D)
+- **🦎 Home: samlings-sammanfattning**, **🏁 pengar-milstolpe-spårare**, **↕️ Notis-sortering (Nyast/Äldst)**,
+  **♻️ Display: återställ till standard**.
+
+### Tested
+- EditMode 1159/1159, PlayMode 180/180 på merged main (två enskild-domän-konflikter (StockMarketService, HomeApp) auto-lösta till superset; I/O-flake löst med Temp-rensning).
+
 ## [0.126.0] - 2026-06-22 — Alpha — "330 människo-gjorda CC0-modeller 🪑🌿"
 
 ### Added — Asset-omtag (människo-gjort, gratis)

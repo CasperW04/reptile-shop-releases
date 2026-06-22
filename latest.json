@@ -1,15 +1,15 @@
 {
-  "version": "0.126.0",
-  "tag": "v0.126.0",
+  "version": "0.127.0",
+  "tag": "v0.127.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.126.0/ReptileShop-Windows-v0.126.0.zip",
-    "sizeBytes": 45767154,
-    "sha256": "01441ba687892f91be31d4c86d003d0bb9978456ea15c3af0991a85f967f3591"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.127.0/ReptileShop-Windows-v0.127.0.zip",
+    "sizeBytes": 45775280,
+    "sha256": "747af4a8568fe3f54473a18005bbff38fbc32f7ead2316e4517d24ee4c03f445"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.126.0 - ASSET-OMTAG: 330 riktiga manniskogjorda CC0-modeller (Kenney Furniture + Nature Kit, public domain) ar nu kop/placerbara i bygg-menyn - ersatter procedur-genererad geometri. Plus VIP Club (B) + Home vaderfarg (D). Font/ikoner/UI-kit foljer."
+  "notes": "Alpha v0.127.0 - 9 features: Annuiteter/pensioner, valgorenhets-donationer, one-click hedge (B); Daily Care Routine + fler XP-hooks + Care Hub-varde (C); Home samlings-summary + pengar-milstolpe + notis-sortering + Display-reset (D)."
 }
