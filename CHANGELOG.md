@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.75.0] - 2026-06-22 — Alpha — "DNA-labb 🧬"
+
+### Added
+- **🧬 DNA Lab** (Builder C/Husbandry) — ny app: istället för att prov-para kan du betala en avgift för att
+  direkt **bevisa ut** ett djurs dolda (möjliga) het-anlag. Varje obevisat het löses till antingen
+  **bekräftad bärare** eller **rensat** — deterministiskt, viktat mot dess het-sannolikhet (66% het bevisas
+  ut ~66% av gångerna). Skriver tillbaka i genotypen; testade djur spåras + sparas.
+
+### Tested
+- EditMode 847/847, PlayMode 120/120 på merged main (7 nya DnaTestModel-tester + app-nåbarhet; konfliktfri merge).
+
 ## [0.74.0] - 2026-06-22 — Alpha — "Golden hour 🌅"
 
 ### Added

@@ -1,15 +1,15 @@
 {
-  "version": "0.74.0",
-  "tag": "v0.74.0",
+  "version": "0.75.0",
+  "tag": "v0.75.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.74.0/ReptileShop-Windows-v0.74.0.zip",
-    "sizeBytes": 44841947,
-    "sha256": "6ac015cb189a16aa3bda614c822b7b012303c14aad3fc55348b48574b43ccadb"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.75.0/ReptileShop-Windows-v0.75.0.zip",
+    "sizeBytes": 44843945,
+    "sha256": "af9b0e65457a13a459bbf9bfe49bd58b397e35d3a197ba2a59dc7de289504b02"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.74.0 - Ljus-stamningar och animerad dimma: omgivningsljuset varms till golden-hour vid gryning/skymning ovanpa dygn/sasong/vader; diset andas in/ut over tid. Allt kod-drivet. Builder D (graphics)."
+  "notes": "Alpha v0.75.0 - DNA Lab: betala en avgift for att direkt bevisa ut ett djurs dolda het-anlag (bekraftad barare eller rensat, viktat mot sannolikheten). Builder C (husbandry)."
 }
