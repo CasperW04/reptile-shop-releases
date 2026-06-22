@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.88.0] - 2026-06-22 — Alpha — "Genetisk mångfald + accent-tema 🧬🎨"
+
+### Added
+- **🧬 Genetic Diversity-score** (Builder C/Husbandry) — ny app: en bestånds-hälsokoll som snittar parvis
+  släktskap till ett **0–100 mångfalds-score** (Excellent → Inbred) och räknar **nära släkt-par**, varnar när
+  samlingen behöver nytt blod. Ren läs-modell över stamtavlan.
+- **🎨 Accent-färgtema** (Builder D/Graphics) — ny **Accent colour**-inställning (Display): växla app-highlight
+  mellan Gold / Teal / Rose / Violet / Lime. Sparas och appliceras över Builder D:s appar.
+
+### Tested
+- EditMode 933/933, PlayMode 146/146 på merged main (DiversityModel + accent-paletter verifierade; konfliktfria merges).
+
 ## [0.87.0] - 2026-06-22 — Alpha — "Notis-sökning 🔎"
 
 ### Added

@@ -1,15 +1,15 @@
 {
-  "version": "0.87.0",
-  "tag": "v0.87.0",
+  "version": "0.88.0",
+  "tag": "v0.88.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.87.0/ReptileShop-Windows-v0.87.0.zip",
-    "sizeBytes": 44882824,
-    "sha256": "3d756565a986c6e45027053ecd19b396d5feac1dfc3b21a1a343cda0e81dd2a1"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.88.0/ReptileShop-Windows-v0.88.0.zip",
+    "sizeBytes": 44885104,
+    "sha256": "262cf48ca7d609a0e8ac1572d8a79d288e39c05b8097f4f829ed322c46ba8140"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.87.0 - Notis-sokning: sokruta som live-filtrerar notis-flodet pa text, kombinerat med typ-chips. Builder D."
+  "notes": "Alpha v0.88.0 - Genetic Diversity-score: bestands-halsokoll som snittar slaktskap till ett mangfalds-score med varningar. Accent-fargtema: valj app-highlight-farg. Builder C + D."
 }
