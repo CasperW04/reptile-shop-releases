@@ -1,15 +1,15 @@
 {
-  "version": "0.153.0",
-  "tag": "v0.153.0",
+  "version": "0.154.0",
+  "tag": "v0.154.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.153.0/ReptileShop-Windows-v0.153.0.zip",
-    "sizeBytes": 46367280,
-    "sha256": "44471b51fb5b0143185c20f1ce9603af62f484aaccf91a022cdb948e270b7614"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.154.0/ReptileShop-Windows-v0.154.0.zip",
+    "sizeBytes": 46367624,
+    "sha256": "ec5d57439a3f81394948bd810c3cb2ec8aa547f3992698cd174ece9a3bef6534"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.153.0 - Milstolpe-prognos i Analytics (nar du nar nasta mal). Relativa dag-etiketter i Forecast. Nytt-rekord-flagga pa Home. Builder D (batch om 3)."
+  "notes": "Alpha v0.154.0 - Allokerings-procent + dominant tillgang i Analytics. Milstolpe-ETA pa Home. Hover-highlight pa Controls-rader. Builder D (batch om 4)."
 }
