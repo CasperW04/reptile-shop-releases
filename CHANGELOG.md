@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.56.0] - 2026-06-22 — Alpha — "Djur-roster 🦎"
+
+### Added
+- **🦎 Animals-app: sökbar/sorterbar/filtrerbar djur-roster** — hitta rätt djur på sekunder i en växande
+  samling: sök på namn/art, filtrera (Till salu / Behöver vård / Sjuk / Ömsar / Hanar / Honor / Bevisade)
+  och sortera (Namn / Art / Äldst / Vikt / Kvalitet / Hälsa). Visar hälsa, välmående, vikt, stjärnor.
+  (Första featuren ur den nya research-backloggen — `docs/RESEARCH-BACKLOG.md`.)
+
+### Tested
+- EditMode 778/778 (filter/sök/sortering korrekt över fixtur-roster), PlayMode 104/104 (app nåbar, speglar samlingen + sök).
+
 ## [0.55.0] - 2026-06-22 — Alpha — "Obligationer 🏦"
 
 ### Added

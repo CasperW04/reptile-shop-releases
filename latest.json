@@ -1,15 +1,15 @@
 {
-  "version": "0.55.0",
-  "tag": "v0.55.0",
+  "version": "0.56.0",
+  "tag": "v0.56.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.55.0/ReptileShop-Windows-v0.55.0.zip",
-    "sizeBytes": 44812909,
-    "sha256": "b6cd8e963205e7d35d49e63aae51e87947e57773353a1f955db72cd775071f46"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.56.0/ReptileShop-Windows-v0.56.0.zip",
+    "sizeBytes": 44816163,
+    "sha256": "9d6a248ebba92f12cc366c261c5f0768a89615461e06935b057019485bc8975c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.55.0 - Obligationer/bundet sparande: las en summa pa fast tid for garanterad hogre avkastning (7d +8%, 14d +20%, 30d +50%). Mognar vid forfall. Bank-appen nu pa engelska."
+  "notes": "Alpha v0.56.0 - Animals-app: sokbar, sorterbar och filtrerbar roster over dina djur (sok namn/art, filter till-salu/sjuk/omsar/m.m., sortera namn/art/aldst/vikt/kvalitet/halsa). Forsta ur research-backloggen."
 }
