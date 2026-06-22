@@ -1,15 +1,15 @@
 {
-  "version": "0.132.0",
-  "tag": "v0.132.0",
+  "version": "0.133.0",
+  "tag": "v0.133.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.132.0/ReptileShop-Windows-v0.132.0.zip",
-    "sizeBytes": 46347083,
-    "sha256": "03bdd50b7ba15ba2adc04ce5df9ffcdaf5341c43992bc68749a6eeccad94e84a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.133.0/ReptileShop-Windows-v0.133.0.zip",
+    "sizeBytes": 46348727,
+    "sha256": "992ce1714d5a72fd41acbe9657f74d780f0337ee16c0b4dae18ffc5907e249f8"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.132.0 - Inflations-index (CPI-dashboard) som driver over tid (B). Customer Guide fargkodade tells (D). RosterStats-test-hardning (C)."
+  "notes": "Alpha v0.133.0 - Market sentiment (Fear and Greed-matare) (B). Notifications kommer ihag valt filter mellan sessioner (D). Logbook-test-hardning (C)."
 }

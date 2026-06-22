@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.133.0] - 2026-06-22 — Alpha — "Fear & Greed + kom-ihåg-filter 😱💾"
+
+### Added
+- **😱 Market sentiment (Fear & Greed-mätare)** (Builder B/Economy) — en marknadssentiment-indikator som
+  speglar girighet/rädsla och färgar marknadsläget.
+- **💾 Notifications: ihågkommet filter** (Builder D/Graphics) — det valda notis-filtret sparas mellan sessioner.
+
+### Changed
+- **🧪 Härdade Logbook-tester** (Builder C).
+
+### Tested
+- EditMode 1197/1197, PlayMode 180/180 på merged main.
+
 ## [0.132.0] - 2026-06-22 — Alpha — "Inflations-index + kund-färger 📈🎨"
 
 ### Added
