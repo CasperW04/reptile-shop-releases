@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.55.0] - 2026-06-22 — Alpha — "Obligationer 🏦"
+
+### Added
+- **🏦 Obligationer / bundet sparande** — lås en summa i banken på fast tid för garanterad högre avkastning:
+  7 dagar +8%, 14 dagar +20%, 30 dagar +50%. Kan inte tas ut i förtid (avvägningen mot det fria
+  sparkontot). Mognar automatiskt och betalas ut vid förfallodagen.
+
+### Changed
+- **Bank-appen är nu på engelska** (speltestar-feedback om engelskt UI).
+
+### Tested
+- EditMode 773/773 (längre löptid ger mer, köp drar kapital, mognar vid förfall ej innan, persistens), PlayMode 103/103.
+
 ## [0.54.0] - 2026-06-22 — Alpha — "Förmögenhets-trend 📈"
 
 ### Added
