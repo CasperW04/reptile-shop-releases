@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.84.0] - 2026-06-22 — Alpha — "Stamtavla + förändrings-staplar 🌳📊"
+
+### Added
+- **🌳 Pedigree / lineage-tracker** (Builder C/Husbandry) — ny app: välj ett djur och spåra dess släktträd
+  (föräldrar + far-/morföräldrar) med en **inavels-varning** när föräldrarna var släkt. Sålda/avlivade anor
+  visas som okända. Ren läs-modell över befintliga Sire/Dam-id (återanvänder InbreedingModel).
+- **📊 Analytics: dagliga förändrings-staplar** (Builder D/Graphics) — Analytics-appen får ett stapeldiagram
+  över daglig nettoförmögenhets-förändring (grön upp / röd ner), ritat från historiken via Painter2D.
+
+### Tested
+- EditMode 910/910, PlayMode 138/138 på merged main (PedigreeModel + bar-layout verifierade; konfliktfria merges).
+
 ## [0.83.0] - 2026-06-22 — Alpha — "Tillväxtkurvor + notis-filter 📈🔔"
 
 ### Added
