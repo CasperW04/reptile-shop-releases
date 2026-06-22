@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.130.0] - 2026-06-22 — Alpha — "Bokslut + topp-förmögenhet 🧾📈"
+
+### Added
+- **🧾 Financial Statement-app** (Builder B/Economy) — ett komplett bokslut: tillgångar, skulder, eget
+  kapital och resultaträkning på ett ställe.
+- **📈 Home: topp-förmögenhet** (Builder D/Graphics) — Home visar nu din högsta nettoförmögenhet hittills.
+
+### Changed
+- **🧪 Härdade Diversity-tester** (Builder C).
+
+### Tested
+- EditMode 1182/1182, PlayMode 180/180 på merged main.
+
 ## [0.129.0] - 2026-06-22 — Alpha — "Auto-invest + Home-delta 💸📊"
 
 ### Added

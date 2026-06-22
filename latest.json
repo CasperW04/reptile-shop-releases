@@ -1,15 +1,15 @@
 {
-  "version": "0.129.0",
-  "tag": "v0.129.0",
+  "version": "0.130.0",
+  "tag": "v0.130.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.129.0/ReptileShop-Windows-v0.129.0.zip",
-    "sizeBytes": 46240277,
-    "sha256": "2cbf1887ef8c36d07bc77017f44081896e55ac29559aa34a1b0d75d71d6b301a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.130.0/ReptileShop-Windows-v0.130.0.zip",
+    "sizeBytes": 46241947,
+    "sha256": "aeac7bdc25a1e59ea81cd9c5200201a82a1d4fc5ccabec94d1312d9b1b288470"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.129.0 - Auto-invest (dollar-cost averaging): schemalagda aterkommande kop. Home visar dagens formogenhets-forandring i kronor. Plus Pedigree-test-hardning. Builder B + C + D."
+  "notes": "Alpha v0.130.0 - Financial Statement-app (tillgangar/skulder/eget kapital/resultat). Home visar topp-nettoformogenhet. Plus Diversity-test-hardning. Builder B + C + D."
 }
