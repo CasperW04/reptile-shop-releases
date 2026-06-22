@@ -1,15 +1,15 @@
 {
-  "version": "0.144.0",
-  "tag": "v0.144.0",
+  "version": "0.145.0",
+  "tag": "v0.145.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.144.0/ReptileShop-Windows-v0.144.0.zip",
-    "sizeBytes": 46364079,
-    "sha256": "375944f0d585f7c0942fd4ec76a4c706c2f8f8e266e1dc3c72e3600d770df598"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.145.0/ReptileShop-Windows-v0.145.0.zip",
+    "sizeBytes": 46364154,
+    "sha256": "129791aa47d7b0e6104d48f5b0bdebe09242a024e0e5c401f9c9734acc3c8158"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.144.0 - Notis-rader markeras subtilt vid hovring. Builder D."
+  "notes": "Alpha v0.145.0 - Konsekvent rad-highlight vid hovring over Forecast och Customer Guide. Builder D."
 }
