@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.49.0] - 2026-06-22 — Alpha — "Daglig bonus 🎁"
+
+### Added
+- **🎁 Daglig login-bonus** — varje ny speldag får du ett litet kontant-stipendium som växer med en
+  streak av dagar i rad ($200 → upp till $440 vid 7 dagar i rad), och nollställs om du hoppar över en dag.
+  Delas ut automatiskt vid dygnsskiftet. En mjuk inkomst-floor + anledning att komma tillbaka.
+
+### Tested
+- EditMode 750/750 (bonus-trappa + cap, en gång per dag, streak ökar/nollställs, persistens), PlayMode 101/101.
+
 ## [0.48.0] - 2026-06-22 — Alpha — "Fler achievements 🏆"
 
 ### Added
