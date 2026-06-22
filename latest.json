@@ -1,15 +1,15 @@
 {
-  "version": "0.136.0",
-  "tag": "v0.136.0",
+  "version": "0.137.0",
+  "tag": "v0.137.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.136.0/ReptileShop-Windows-v0.136.0.zip",
-    "sizeBytes": 46357084,
-    "sha256": "3c465e32c0d61c0f63fa4257016a374b9affad831444ace319a378c6b719f30f"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.137.0/ReptileShop-Windows-v0.137.0.zip",
+    "sizeBytes": 46358703,
+    "sha256": "8bde3fe6ffed9cb764f030edbab75b97a97e2719144914b25896c1e2cdb9ceb1"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.136.0 - Financial news feed: dagliga makro-rubriker som farger marknadssentimentet och ger kontext at prisrorelser. Builder B."
+  "notes": "Alpha v0.137.0 - Quarantine Board: samlad vy over isolerade djur (C). Enhetliga accent-headers pa alla Builder D-appar (D)."
 }

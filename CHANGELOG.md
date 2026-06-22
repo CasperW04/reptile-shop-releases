@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.137.0] - 2026-06-22 — Alpha — "Karantän-tavla + enhetliga headers 🚧🪧"
+
+### Added
+- **🚧 Quarantine Board** (Builder C/Husbandry) — en samlad vy över alla isolerade/karantän-satta djur.
+
+### Changed
+- **🪧 Enhetliga app-headers överallt** (Builder D/Graphics) — den delade accent-headern applicerad på samtliga Builder D-appar.
+
+### Tested
+- EditMode 1220/1220, PlayMode 183/183 på merged main.
+
 ## [0.136.0] - 2026-06-22 — Alpha — "Finans-nyheter 📰"
 
 ### Added
