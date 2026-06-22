@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.134.0] - 2026-06-22 — Alpha — "Sparmål + ihågkommet intervall 🎯💾"
+
+### Added
+- **🎯 Sparmål / budget-kuvert** (Builder B/Economy) — sätt upp sparmål och fördela pengar i budget-kuvert.
+- **💾 Analytics: ihågkommet intervall** (Builder D/Graphics) — 7d/All-valet sparas mellan sessioner.
+
+### Changed
+- **🧪 Härdade BreedingGoal-tester** (Builder C).
+
+### Tested
+- EditMode 1205/1205, PlayMode 180/180 på merged main.
+
 ## [0.133.0] - 2026-06-22 — Alpha — "Fear & Greed + kom-ihåg-filter 😱💾"
 
 ### Added

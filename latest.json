@@ -1,15 +1,15 @@
 {
-  "version": "0.133.0",
-  "tag": "v0.133.0",
+  "version": "0.134.0",
+  "tag": "v0.134.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.133.0/ReptileShop-Windows-v0.133.0.zip",
-    "sizeBytes": 46348727,
-    "sha256": "992ce1714d5a72fd41acbe9657f74d780f0337ee16c0b4dae18ffc5907e249f8"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.134.0/ReptileShop-Windows-v0.134.0.zip",
+    "sizeBytes": 46350854,
+    "sha256": "f1453b89ae9d30540d5d242aa74b6aef5e414e5486eaae469750f2b227ef7222"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.133.0 - Market sentiment (Fear and Greed-matare) (B). Notifications kommer ihag valt filter mellan sessioner (D). Logbook-test-hardning (C)."
+  "notes": "Alpha v0.134.0 - Sparmal/budget-kuvert (B). Analytics kommer ihag 7d/All-intervallet (D). BreedingGoal-test-hardning (C)."
 }
