@@ -1,15 +1,15 @@
 {
-  "version": "0.154.0",
-  "tag": "v0.154.0",
+  "version": "0.155.0",
+  "tag": "v0.155.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.154.0/ReptileShop-Windows-v0.154.0.zip",
-    "sizeBytes": 46367624,
-    "sha256": "ec5d57439a3f81394948bd810c3cb2ec8aa547f3992698cd174ece9a3bef6534"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.155.0/ReptileShop-Windows-v0.155.0.zip",
+    "sizeBytes": 46368032,
+    "sha256": "caaff76168a72c736d49b7c8659e8d721b225a4ce3a85ad8284862c6439dfa0f"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.154.0 - Allokerings-procent + dominant tillgang i Analytics. Milstolpe-ETA pa Home. Hover-highlight pa Controls-rader. Builder D (batch om 4)."
+  "notes": "Alpha v0.155.0 - Vader-rad i Forecast och pa Home (skotsel-tips utifran vadret). Accent-namn-tooltips pa Display-swatcharna. Builder D (batch om 3)."
 }

@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.155.0] - 2026-06-23 — Alpha — "Väder-tips + accent-tooltips 🌦️🎨"
+
+### Added (Builder D/Graphics)
+- **🌦️ Väder-råd i Forecast & på Home** — en kort skötsel-tips utifrån dagens/veckans väder (t.ex. höj värmen vid storm).
+- **🎨 Accent-namn-tooltips på Display-swatcharna** — hovra en färg för att se dess namn.
+
+### Tested
+- EditMode 1253/1253, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.154.0] - 2026-06-23 — Alpha — "Analytics-djup + Home-ETA 🥧🔮"
 
 ### Added (Builder D/Graphics)
