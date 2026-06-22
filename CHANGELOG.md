@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.109.0] - 2026-06-22 — Alpha — "Margin & hävstång 📉⚠️"
+
+### Added
+- **📉 Margin & hävstång** (Builder B/Economy) — nytt **Margin**-kort i Stocks-appen: låna kontanter mot din
+  portfölj (upp till **2× köpkraft**) för att handla större, mot daglig ränta. Visar live köpkraft, equity,
+  skuld och en margin-call-räknare (Borrow/Repay). En nedgång som driver equity under **25%-underhållsgränsen**
+  utlöser en **margin call** — mäklaren tvångslikviderar dina största innehav för att täcka lånet. En äkta
+  baksida av överhävstång. Ränta + margin-koll tickar dagligen; skuld + räknare sparas.
+
+### Tested
+- EditMode 1034/1034, PlayMode 167/167 på merged main (MarginModel-tester; econ-partialer konfliktfritt).
+
 ## [0.108.0] - 2026-06-22 — Alpha — "Loggbok + dag/vecka 📖🗓️"
 
 ### Added

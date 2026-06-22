@@ -1,15 +1,15 @@
 {
-  "version": "0.108.0",
-  "tag": "v0.108.0",
+  "version": "0.109.0",
+  "tag": "v0.109.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.108.0/ReptileShop-Windows-v0.108.0.zip",
-    "sizeBytes": 44921489,
-    "sha256": "ac19670b8844414961f0e60d5df8719add57267c6f3fb3aa7eb53528d6f54399"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.109.0/ReptileShop-Windows-v0.109.0.zip",
+    "sizeBytes": 44923561,
+    "sha256": "ea3199d6ef5c38b3db7b230faba61aaab49f9c8c34e65065d49757d4fa7df0b8"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.108.0 - Husbandry Logbook: nyast-forst-journal over klackningar och forsaljningar stamplad med speldag. Home visar Day N / Week W. Builder C + D."
+  "notes": "Alpha v0.109.0 - Margin och havstang: lana mot portfoljen (2x kopkraft) for att handla storre; en nedgang under 25%-underhall utloser margin call som tvangslikviderar storsta innehav. Builder B (economy)."
 }
