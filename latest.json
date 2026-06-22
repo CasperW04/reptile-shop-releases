@@ -1,15 +1,15 @@
 {
-  "version": "0.119.0",
-  "tag": "v0.119.0",
+  "version": "0.120.0",
+  "tag": "v0.120.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.119.0/ReptileShop-Windows-v0.119.0.zip",
-    "sizeBytes": 44944516,
-    "sha256": "fe37f03ce56320841821557ab5a5282c74e7dbcfb2c65fbef0cddc4be6b15216"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.120.0/ReptileShop-Windows-v0.120.0.zip",
+    "sizeBytes": 44948086,
+    "sha256": "ae8c7a1c39cec8427d597aaca444f06d7c4a9af73360f8a08e057cc7ce287e22"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.119.0 - Onboarding nasta-steg-hint: Getting Started-checklistan och Home pekar ut ditt nasta steg (Next: ...). Builder D."
+  "notes": "Alpha v0.120.0 - Fordjupade auktionsformat (English/Sealed/Dutch + reserve, kan passa in). Weekly Husbandry Report (7-dagars sammanfattning). Tip-kategori-taggar. Builder B + C + D - alla tre. Builder B har tomt sin ko."
 }

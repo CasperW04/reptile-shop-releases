@@ -15,6 +15,22 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.120.0] - 2026-06-22 — Alpha — "Auktionsformat + veckorapport 🔨🗓"
+
+### Added
+- **🔨 Fördjupade auktionsformat** (Builder B/Economy) — Auction House erbjuder nu tre **säljformat** med var
+  sitt deterministiskt NPC-budgivarfält och risk/belöning: **English** (stigande proxy — strax över tvåan,
+  säkert/lägre), **Sealed-bid** (en skuggad bud var — medel), **Dutch** (fallande — toppbudgivaren tar nära
+  fullt värde, högst men kan passa). Valfri **reserve** (×1.20/×1.40): når vinnande budet inte upp **passar
+  lotten in** och djuret återgår osålt. Auction House översatt till engelska.
+- **🗓 Weekly Husbandry Report** (Builder C/Husbandry) — ny app: en 7-dagars skötsel-sammanfattning
+  (kläckningar + försäljningar denna vecka, care-streak, genetisk mångfald, samlingsstorlek) i stat-kort.
+- **🏷️ Tips: kategori-taggar** (Builder D/Graphics) — varje tips bär nu en kategori-chip (Husbandry/Economy/
+  Breeding/Shop).
+
+### Tested
+- EditMode 1090/1090, PlayMode 176/176 på merged main (AuctionFormat + WeeklyReportModel + tip-kategorier; konfliktfria merges).
+
 ## [0.119.0] - 2026-06-22 — Alpha — "Nästa-steg-hint 🧭"
 
 ### Added
