@@ -1,15 +1,15 @@
 {
-  "version": "0.41.0",
-  "tag": "v0.41.0",
+  "version": "0.41.1",
+  "tag": "v0.41.1",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.41.0/ReptileShop-Windows-v0.41.0.zip",
-    "sizeBytes": 44789700,
-    "sha256": "4c0f473963ecc154f98cabdd498ac93e8e9613fc10424ce1f0835afec4fa6401"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.41.1/ReptileShop-Windows-v0.41.1.zip",
+    "sizeBytes": 44792429,
+    "sha256": "53871c2cd83587e04e8fe522c3de2a29920a85a78c63f6d775b004f92aa6a08b"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.41.0 - Co-op session-fasad (M5a/5): CoopSession - en enkel ingang for att starta/ga med i co-op (host/join/avatar/stop). Menyn och riktiga socketen pluggar in har."
+  "notes": "Alpha v0.41.1 - Co-op-meny (M5b/5): ny Co-op-app pa datorn (Host / Join + IP / Leave) kopplad till en riktig CoopController/CoopSession. Transport-soemmen klar for socketen (M5)."
 }

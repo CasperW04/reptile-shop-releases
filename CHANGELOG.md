@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.41.1] - 2026-06-22 — Alpha — "Co-op: meny 📋"
+
+### Added
+- **📋 Co-op-meny (Milstolpe 5b/5)** — ny **Co-op-app** på datorn: statusrad, "Host a game", ett fält för
+  kompisens IP + "Join", och "Leave". Knapparna driver en riktig `CoopController`/`CoopSession` via en
+  Core-söm (`ICoopController`); en transport-factory-söm är förberedd där nätverks-socketen pluggas in (M5).
+  Tills dess faller host/join tillbaka snyggt med ett tydligt statusmeddelande.
+
+### Tested
+- EditMode 733/733, PlayMode 95/95 (controller host/join/leave + status; saknad transport hanteras snyggt; appen nåbar + bygger fönster i ett live-spel).
+
 ## [0.41.0] - 2026-06-22 — Alpha — "Co-op: session-fasad 🧩"
 
 ### Added
