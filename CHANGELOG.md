@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.63.0] - 2026-06-22 — Alpha — "Portfölj-försäkring 🛡"
+
+### Added
+- **🛡 Portfölj-försäkring** — en hedge mot börskrascher: betala en liten daglig premie (0,6% av portföljen)
+  och få en kompensation (7% av portföljen) varje krasch-dag. Slå på/av i Stocks-appen. Knyter ihop
+  försäkring med de befintliga marknads-events. (Research-backlog.)
+
+### Tested
+- EditMode 799/799 (oförsäkrad = ingen effekt, normal dag = bara premie, krasch-dag = nettoutbetalning), PlayMode 108/108.
+
 ## [0.62.0] - 2026-06-22 — Alpha — "Mål 🎯"
 
 ### Added

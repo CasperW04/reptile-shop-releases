@@ -1,15 +1,15 @@
 {
-  "version": "0.62.0",
-  "tag": "v0.62.0",
+  "version": "0.63.0",
+  "tag": "v0.63.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.62.0/ReptileShop-Windows-v0.62.0.zip",
-    "sizeBytes": 44824341,
-    "sha256": "030df9d89ef45fea1b19d4872a2c3b1dd8d879f8609e33becb1c69e179de86b9"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.63.0/ReptileShop-Windows-v0.63.0.zip",
+    "sizeBytes": 44824944,
+    "sha256": "9483cc65ec462ef6fe648fca1cc8940e30ee51b9a4d4d72f9e24f9120e257952"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.62.0 - Goals-app: 10 langsiktiga milstolpar (formogenhet, samling, avel, achievements, aktier, niva) med kod-ritade progress-barer som uppdateras live. Riktning bortom dagsmalet. Research-backlog."
+  "notes": "Alpha v0.63.0 - Portfolj-forsakring: en hedge mot borskrascher. Betala 0.6% daglig premie och fa 7% kompensation varje krasch-dag. Sla pa/av i Stocks-appen. Research-backlog."
 }
