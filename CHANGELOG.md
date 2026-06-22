@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.81.0] - 2026-06-22 — Alpha — "Pre-orders + kläck-kamera 📋🎥"
+
+### Added
+- **📋 Pre-Orders / Most-Wanted-tavla** (Builder C/Husbandry) — ny app: kunder lägger stående beställningar
+  på en art med minst en viss kvalitet (★). Lämna över ett matchande eget djur för att **uppfylla** och få
+  en **premie-belöning**. Tavlan fylls på dagligen och beställningar går ut om de inte fylls.
+- **🎥 Kläck-kamerajuice** (Builder D/Graphics) — en ny kläckning ger nu en kort **kamera-shake + FOV-punch**
+  (kod-driven game-feel), medvetet bara vid kläckningar (sällsynt, spännande), inte vid varje försäljning.
+
+### Tested
+- EditMode 887/887, PlayMode 133/133 på merged main (6 nya PreOrderModel-tester + kamera-modeller; flaky klock-test grönt på omkörning).
+
 ## [0.80.0] - 2026-06-22 — Alpha — "Brumation + kontroller ❄⌨️"
 
 ### Added

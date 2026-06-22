@@ -1,15 +1,15 @@
 {
-  "version": "0.80.0",
-  "tag": "v0.80.0",
+  "version": "0.81.0",
+  "tag": "v0.81.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.80.0/ReptileShop-Windows-v0.80.0.zip",
-    "sizeBytes": 44861933,
-    "sha256": "312c10ad2aabc1161b1f664356bc3ba9ddd769205994d175c5df521dbe956164"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.81.0/ReptileShop-Windows-v0.81.0.zip",
+    "sizeBytes": 44865727,
+    "sha256": "867a4a0be385e1d799653bee346e0d0bec1c04b41c200b7d764d5b26b095021d"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.80.0 - Brumation: sasongsbunden nedkylnings-cykel (host/vinter) som forbereder djur for avel med fertilitets-bonus. Controls-app: in-game tangentbindnings-referens per kategori. Builder C + D."
+  "notes": "Alpha v0.81.0 - Pre-Orders-tavla: kunder lagger standande bestallningar pa art+kvalitet, uppfyll for premie. Klack-kamerajuice: shake + FOV-punch vid klackning. Builder C + D."
 }
