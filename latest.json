@@ -1,15 +1,15 @@
 {
-  "version": "0.155.0",
-  "tag": "v0.155.0",
+  "version": "0.156.0",
+  "tag": "v0.156.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.155.0/ReptileShop-Windows-v0.155.0.zip",
-    "sizeBytes": 46368032,
-    "sha256": "caaff76168a72c736d49b7c8659e8d721b225a4ce3a85ad8284862c6439dfa0f"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.156.0/ReptileShop-Windows-v0.156.0.zip",
+    "sizeBytes": 46368271,
+    "sha256": "76977975908a4a19ef37b7533014a9e48aeb73807d30022ea35a628df6dc356d"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.155.0 - Vader-rad i Forecast och pa Home (skotsel-tips utifran vadret). Accent-namn-tooltips pa Display-swatcharna. Builder D (batch om 3)."
+  "notes": "Alpha v0.156.0 - Sasong-rad i Forecast och pa Home (sasongsanpassade skotsel-tips). Forecast-dagskorten fadar in. Builder D (batch om 3)."
 }

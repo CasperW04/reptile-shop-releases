@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.156.0] - 2026-06-23 — Alpha — "Säsong-tips + Forecast-fade 🍂✨"
+
+### Added (Builder D/Graphics)
+- **🍂 Säsong-råd i Forecast & på Home** — säsongsanpassade skötsel-tips (t.ex. brumation på vintern).
+- **✨ Forecast-dagskorten fadar in** när de byggs.
+
+### Tested
+- EditMode 1254/1254, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.155.0] - 2026-06-23 — Alpha — "Väder-tips + accent-tooltips 🌦️🎨"
 
 ### Added (Builder D/Graphics)
