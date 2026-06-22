@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.123.0] - 2026-06-22 — Alpha — "Husbandry-värdebonus 💎"
+
+### Added
+- **💎 Husbandry Value Boost** (Builder C/Husbandry) — ny **Husbandry Value**-app + `HusbandryValueModel`-hook:
+  premien varje djur tjänat ihop — **tamhet + ideal kroppskondition + ren DNA-test + avels-primat** — vägs
+  ihop till en enda 0–30% värdebonus som prissättning kan läsa (försäljning × (1 + bonus)). Ren läs-modell
+  som komponerar de befintliga skötsel-systemen — en färdig söm för ekonomin/integratorn att konsumera senare.
+
+### Tested
+- EditMode 1120/1120, PlayMode 178/178 på merged main (4 nya HusbandryValueModel-tester; Husbandry-partial-konflikt auto-löst).
+
 ## [0.122.0] - 2026-06-22 — Alpha — "Centralbank + valuta + Care Hub 🏛️💱🏠"
 
 ### Added

@@ -1,15 +1,15 @@
 {
-  "version": "0.122.0",
-  "tag": "v0.122.0",
+  "version": "0.123.0",
+  "tag": "v0.123.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.122.0/ReptileShop-Windows-v0.122.0.zip",
-    "sizeBytes": 44953224,
-    "sha256": "789532deeb4f8f3eb41f226da19247384b0a00ac4fc1853ac0f20885655a839f"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.123.0/ReptileShop-Windows-v0.123.0.zip",
+    "sizeBytes": 44953782,
+    "sha256": "c50bb471a129822ab7349e154db47f633c0fe57d7b4616377bd88e4e1b404337"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.122.0 - Centralbanks-styrranta (deterministisk rante-cykel). Valutavaxling FX (USD vs Exotic Bucks med spread). Care Hub husbandry-hemskarm. Home nettoformogenhets-trendpil. Notis-chip-antal. Builder B + C + D."
+  "notes": "Alpha v0.123.0 - Husbandry Value Boost: tamhet + kroppskondition + DNA-test + avels-primat vags ihop till 0-30% vardebonus som prissattning kan lasa. Builder C."
 }
