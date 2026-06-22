@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.76.0] - 2026-06-22 — Alpha — "UI-juice ✨"
+
+### Added
+- **✨ UI-juice** (Builder D/Graphics) — återanvändbara `UiJuice`-helpers för dator-apparna: animerade
+  **count-up**-siffror (ease-out), **pop**-overshoot, **fade-in** och pop-scale. Notifications-flödet
+  fadar nu in sina rader. Mer liv i gränssnittet, helt kod-drivet.
+
+### Tested
+- EditMode 847/847, PlayMode 124/124 på merged main (count-up/pop/fade verifierade; konfliktfri merge).
+
 ## [0.75.0] - 2026-06-22 — Alpha — "DNA-labb 🧬"
 
 ### Added
