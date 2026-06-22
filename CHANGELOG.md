@@ -15,6 +15,22 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.107.0] - 2026-06-22 — Alpha — "GeckoCoin 🦎💥"
+
+_Builder B (Economy) online — första ekonomi-featuren landar, nu bidrar alla tre builders._
+
+### Added
+- **🦎 GeckoCoin (GECK)** (Builder B/Economy) — ny krypto i Stocks-appens Crypto-kort: en hyper-volatil
+  meme-tillgång **utan fundamenta** med en dold, eskalerande **rug-pull** — ju längre den pumpar, desto mer
+  sannolikt kraschar den till ett golv. Den medvetna fällan som får de lugna instrumenten (aktier, index,
+  obligationer) att kännas kloka. Handlas via portföljen (Ape/Dump), visar daglig förändring, pump-streak och
+  ⚠ hype / 💥 RUGGED-banner. Deterministisk (seedad på speldagen), sparas över save/load.
+- **💡 Fler tips** (Builder D/Graphics) — Tips-appen utökad till 16 tips (karantän, klimat, återinvestering,
+  kundläsning, analytics, m.m.).
+
+### Tested
+- EditMode 1022/1022, PlayMode 166/166 på merged main (CryptoModel-tester + tips; econ-partial-sömmarna aktiverade konfliktfritt).
+
 ## [0.106.0] - 2026-06-22 — Alpha — "Skötsel-streak 🔥"
 
 ### Added

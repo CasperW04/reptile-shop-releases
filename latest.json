@@ -1,15 +1,15 @@
 {
-  "version": "0.106.0",
-  "tag": "v0.106.0",
+  "version": "0.107.0",
+  "tag": "v0.107.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.106.0/ReptileShop-Windows-v0.106.0.zip",
-    "sizeBytes": 44915710,
-    "sha256": "0ebb7a6f2e29c8a873ddcde2f52316fe0e46fef971bf3a8c7adb08e47d7dbe67"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.107.0/ReptileShop-Windows-v0.107.0.zip",
+    "sizeBytes": 44919631,
+    "sha256": "8da2e8b68a413fc97a13f20795b5e2e5e5f880ffa73c03f8d39c1df39793791b"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.106.0 - Daily Care Streak: svit av valskotta dagar (foder pafyllt + inget utbrott), 7-dagars milstolpar ger bonus keeper-XP. Builder C."
+  "notes": "Alpha v0.107.0 - GeckoCoin (GECK): hyper-volatil meme-krypto utan fundamenta med dold eskalerande rug-pull - den medvetna fallan. Builder B (economy, forsta econ-featuren!). Plus Tips utokade till 16 (Builder D)."
 }
