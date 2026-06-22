@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.69.0] - 2026-06-22 — Alpha — "Årstider 🍂"
+
+### Added
+- **🍂 Årstider** — spelet har nu en årscykel (Vår/Sommar/Höst/Vinter, 15 dagar var) som tonar butikens
+  omgivnings-palett: frisk vår, varm sommar, bärnstensfärgad höst, sval vinter — ovanpå dygnscykeln och
+  vädret. Tillsammans ger de tre systemen en levande värld, helt kod-drivet utan nya assets. (Research-backlog.)
+
+### Tested
+- EditMode 819/819 (säsong cyklar genom fyra + wrappar till nytt år, dag-i-säsong), PlayMode 111/111 (vinter-ambient svalare/blåare än sommar).
+
 ## [0.68.0] - 2026-06-22 — Alpha — "VIP-stamkunder 🤝"
 
 ### Added

@@ -1,15 +1,15 @@
 {
-  "version": "0.68.0",
-  "tag": "v0.68.0",
+  "version": "0.69.0",
+  "tag": "v0.69.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.68.0/ReptileShop-Windows-v0.68.0.zip",
-    "sizeBytes": 44829821,
-    "sha256": "5685a7d8a6dec61147fe5fca25972f758bf20da40165920b2d5041bd92dc6e5c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.69.0/ReptileShop-Windows-v0.69.0.zip",
+    "sizeBytes": 44830403,
+    "sha256": "b74826a7fc195240c8b71470c3732aa91f0628cb56a6f388ff2f83736a380009"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.68.0 - Lojala VIP-stamkunder: ett vaxande underlag aterkommande kunder (skalar med rykte) som ger stadig passiv intakt via upprepade order. Belonar rykte, balanseras av skatten. Research-backlog."
+  "notes": "Alpha v0.69.0 - Arstider: en arscykel (Var/Sommar/Host/Vinter) som tonar butikens palett ovanpa dygnscykeln och vadret. Tillsammans ger de tre systemen en levande varld, helt kod-drivet. Research-backlog."
 }
