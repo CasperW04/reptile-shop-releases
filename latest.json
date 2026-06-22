@@ -1,15 +1,15 @@
 {
-  "version": "0.124.0",
-  "tag": "v0.124.0",
+  "version": "0.125.0",
+  "tag": "v0.125.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.124.0/ReptileShop-Windows-v0.124.0.zip",
-    "sizeBytes": 44954801,
-    "sha256": "264721efac17a893a651c8d8fdbf37b134f260be88a55bf3255160a3d60cae0c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.125.0/ReptileShop-Windows-v0.125.0.zip",
+    "sizeBytes": 44955671,
+    "sha256": "2f2914e3e94da19ac497a9024085be8717bd8897adf2d5ea7b013b6bad1e0a32"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.124.0 - Trend-fargad nettoformogenhets-linje: gron nar plus over perioden, rod nar minus. Builder D."
+  "notes": "Alpha v0.125.0 - Nivaindelad portfolj-forsakring (Basic/Standard/Premium). Skotsel-atgarder (hantering/vet/matning) ger Keeper-XP. Forecast vader-svarighetsfarger. Builder B + C + D."
 }

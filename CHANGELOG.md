@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.125.0] - 2026-06-22 — Alpha — "Försäkrings-nivåer + Keeper-XP 🛡️🎖"
+
+### Added
+- **🛡️ Nivåindelad portfölj-försäkring** (Builder B/Economy) — portfölj-försäkringen har nu tre **planer**
+  (Basic/Standard/Premium) istället för en platt taxa, med en riktig kostnad/täckning-avvägning.
+- **🎖 Skötsel-åtgärder ger Keeper-XP** (Builder C/Husbandry) — praktisk skötsel bygger nu keeper-rank:
+  **hantering**, **vet-koll** och **matning** ger var sin husbandry-XP, vilket binder ihop de dagliga
+  skötsel-apparna med Keeper Rank-progressionen.
+- **⛈️ Forecast: väder-svårighetsfärger** (Builder D/Graphics) — Forecast-appen färgar nu varje dags väder
+  efter svårighetsgrad (soligt varmt, molnigt grått, regn blått, storm rött).
+
+### Tested
+- EditMode 1125/1125, PlayMode 178/178 på merged main (insurance-nivåer + care-XP + severity-färger; en SaveMapper.Economy-konflikt auto-löst).
+
 ## [0.124.0] - 2026-06-22 — Alpha — "Trend-färgad förmögenhetslinje 📉"
 
 ### Added
