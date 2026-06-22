@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.58.0] - 2026-06-22 — Alpha — "Index-fond 🧺"
+
+### Added
+- **🧺 Reptil-index-fond (RIDX)** — en diversifierad investering vars kurs är snittet av hela marknaden.
+  Lägre volatilitet än en enskild aktie (bevisat i test) — den säkrare delen av risk-spektrumet bredvid
+  enskilda aktier, blankning och obligationer. Köp/sälj högst upp i Stocks-appen. (Research-backlog.)
+
+### Tested
+- EditMode 781/781 (index = marknadssnitt + inom min/max, köp/sälj via index-pris, svänger mindre än en volatil aktie över 60 dagar), PlayMode 105/105.
+
 ## [0.57.0] - 2026-06-22 — Alpha — "Dashboard 📊"
 
 ### Added
