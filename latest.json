@@ -1,15 +1,15 @@
 {
-  "version": "0.151.0",
-  "tag": "v0.151.0",
+  "version": "0.152.0",
+  "tag": "v0.152.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.151.0/ReptileShop-Windows-v0.151.0.zip",
-    "sizeBytes": 46365988,
-    "sha256": "41a19e1ca0522440b2693df82fe87756fcee66dc31deab920ac3dfdce6630e9d"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.152.0/ReptileShop-Windows-v0.152.0.zip",
+    "sizeBytes": 46366800,
+    "sha256": "916d41307e48f1a6a434470d1fe26908a168a3016ab735eacef0179c5c213d06"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.151.0 - Kategori-fargade Tips (kort + label). Arketyp-antal i Customer Guide. Builder D (batch om 3)."
+  "notes": "Alpha v0.152.0 - Vinst/forlust-streak pa Home och Analytics (svit av plus/minus-dagar). Binding-antal i Controls. Builder D (batch om 3)."
 }

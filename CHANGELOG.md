@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.152.0] - 2026-06-23 — Alpha — "Vinst/förlust-streak + räknare 🔥⌨️"
+
+### Added (Builder D/Graphics)
+- **🔥 Vinst/förlust-streak på Home & Analytics** — visar din nuvarande svit av plus- eller minus-dagar i rad.
+- **⌨️ Binding-antal i Controls** — Controls-appen visar hur många tangentbindningar som listas.
+
+### Tested
+- EditMode 1247/1247, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.151.0] - 2026-06-23 — Alpha — "Tips-färger + gäst-antal 🎨🧑‍🤝‍🧑"
 
 ### Added (Builder D/Graphics)
