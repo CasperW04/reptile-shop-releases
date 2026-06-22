@@ -1,15 +1,15 @@
 {
-  "version": "0.43.0",
-  "tag": "v0.43.0",
+  "version": "0.44.0",
+  "tag": "v0.44.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.43.0/ReptileShop-Windows-v0.43.0.zip",
-    "sizeBytes": 44798687,
-    "sha256": "22539ea52c5ecf777a33a71f52e0460204d2602e6dde7a9d73cd3c3306773613"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.44.0/ReptileShop-Windows-v0.44.0.zip",
+    "sizeBytes": 44799969,
+    "sha256": "377b85fc4d1961e62dfd8b2c1925af2ee1d228a8eb49d33c1027831684fdcb6a"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.43.0 - Limit-order pa borsen: lagg staaende order som utloses nar kursen passerar din niva (auto-kop under, auto-salj over). Kollas varje borsdag, sparas mellan sessioner."
+  "notes": "Alpha v0.44.0 - Reptil-encyklopedi: ny codex-app som listar alla arter med kroppstyp, gener och kanda morfer. En in-game uppslagsbok byggd pa spelets egen data."
 }

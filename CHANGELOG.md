@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.44.0] - 2026-06-22 — Alpha — "Reptil-encyklopedi 📖"
+
+### Added
+- **📖 Reptil-encyklopedi** — en ny codex-app som listar ALLA arter i databasen med kroppstyp, antal gener
+  i genomet och kända morfer (med namn). En riktig in-game uppslagsbok byggd på spelets egen data — bra för
+  att lära sig vad som finns att föda upp. Scrollbar, på telefon + dator.
+
+### Tested
+- EditMode 736/736, PlayMode 98/98 (appen nåbar + artkatalogen populerad med 50+ arter).
+
 ## [0.43.0] - 2026-06-22 — Alpha — "Börs: limit-order 🎯"
 
 ### Added
