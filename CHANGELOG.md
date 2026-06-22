@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.57.0] - 2026-06-22 — Alpha — "Dashboard 📊"
+
+### Added
+- **📊 Dashboard-app** — ett finansiellt kommandocenter: stat-rutor (kassa, nettoförmögenhet, peak,
+  portfölj, livstidsförsäljning/intäkt, uppfödda djur, bästa försäljning) + en **kod-ritad
+  förmögenhetsgraf** (staplar från daglig historik, helt via VisualElement — ingen charting-lib, inga
+  assets). (Research-backlog #2.)
+
+### Tested
+- EditMode 778/778, PlayMode 105/105 (stat-rutor visas, en graf-stapel per historik-punkt).
+
 ## [0.56.0] - 2026-06-22 — Alpha — "Djur-roster 🦎"
 
 ### Added

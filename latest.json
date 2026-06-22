@@ -1,15 +1,15 @@
 {
-  "version": "0.56.0",
-  "tag": "v0.56.0",
+  "version": "0.57.0",
+  "tag": "v0.57.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.56.0/ReptileShop-Windows-v0.56.0.zip",
-    "sizeBytes": 44816163,
-    "sha256": "9d6a248ebba92f12cc366c261c5f0768a89615461e06935b057019485bc8975c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.57.0/ReptileShop-Windows-v0.57.0.zip",
+    "sizeBytes": 44817404,
+    "sha256": "5fd826ccc75353b344883528b31437cda6ed69debde7003553db50bf28b182ef"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.56.0 - Animals-app: sokbar, sorterbar och filtrerbar roster over dina djur (sok namn/art, filter till-salu/sjuk/omsar/m.m., sortera namn/art/aldst/vikt/kvalitet/halsa). Forsta ur research-backloggen."
+  "notes": "Alpha v0.57.0 - Dashboard-app: finansiellt kommandocenter med stat-rutor (kassa, nettoformogenhet, peak, portfolj, livstidsstats) + en kod-ritad formogenhetsgraf. Research-backlog."
 }
