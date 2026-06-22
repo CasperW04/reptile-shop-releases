@@ -1,15 +1,15 @@
 {
-  "version": "0.58.0",
-  "tag": "v0.58.0",
+  "version": "0.59.0",
+  "tag": "v0.59.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.58.0/ReptileShop-Windows-v0.58.0.zip",
-    "sizeBytes": 44818105,
-    "sha256": "eca5e89e107078303986fa11b0749dc8386664e11d5bc19c7576428f125115bc"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.59.0/ReptileShop-Windows-v0.59.0.zip",
+    "sizeBytes": 44819513,
+    "sha256": "4f503dae42692589a489a4ce1092201a82fa9e5e9996573cefe67eeeb9617638"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.58.0 - Reptil-index-fond (RIDX): en diversifierad investering vars kurs ar snittet av hela marknaden. Lagre volatilitet an enskild aktie. Kop/salj i Stocks-appen."
+  "notes": "Alpha v0.59.0 - Optioner (calls och puts): havstangs-satsningar pa borsen. Kop en 7-dagars call (tjanar nar kursen stiger) eller put (nar den faller). Premie nu, payoff vid forfall. Research-backlog."
 }

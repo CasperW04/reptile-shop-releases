@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.59.0] - 2026-06-22 — Alpha — "Optioner 🎟️"
+
+### Added
+- **🎟️ Optioner (calls & puts)** — hävstångs-satsningar på börsen: köp en 7-dagars at-the-money call (tjänar
+  om kursen stiger över strike) eller put (tjänar om den faller). Du betalar en premie nu (vol-/tids-baserad);
+  vid förfall betalas eventuell vinst ut automatiskt, annars förfaller den värdelös. Köp i Stocks-appen.
+  Ännu ett lager på det överdrivet välutvecklade börssystemet. (Research-backlog.)
+
+### Tested
+- EditMode 785/785 (premie positiv + skalar med vol/tid, call betalar över strike, put under, OTM förfaller noll, ej innan term, persistens), PlayMode 105/105.
+
 ## [0.58.0] - 2026-06-22 — Alpha — "Index-fond 🧺"
 
 ### Added
