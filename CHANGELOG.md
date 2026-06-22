@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.150.0] - 2026-06-23 — Alpha — "Förmögenhets-tier + väder-varning 👑⚠️"
+
+### Added (Builder D/Graphics)
+- **👑 Net-worth tier-badge på Home** — en prestige-nivå-bricka (Bronze → Diamant …) baserad på din nettoförmögenhet.
+- **🎯 Nästa-tier-hint på Home** — visar hur långt kvar till nästa prestige-nivå.
+- **⚠️ Forecast: grövsta dagen flaggad** — väderprognosen markerar veckans tuffaste dag.
+
+### Tested
+- EditMode 1241/1241, PlayMode 188/188 på merged main (batch om 3; en konflikt i NetWorthTier/HomeApp löstes till Builder D:s version).
+
 ## [0.149.0] - 2026-06-22 — Alpha — "Animerad milstolpe-bar 🏁"
 
 ### Added

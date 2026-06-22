@@ -1,15 +1,15 @@
 {
-  "version": "0.149.0",
-  "tag": "v0.149.0",
+  "version": "0.150.0",
+  "tag": "v0.150.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.149.0/ReptileShop-Windows-v0.149.0.zip",
-    "sizeBytes": 46364674,
-    "sha256": "31821a12bcbfa4b4384009efff8d68f8d51bc246e0109253f19abc6ab1764525"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.150.0/ReptileShop-Windows-v0.150.0.zip",
+    "sizeBytes": 46365696,
+    "sha256": "c6dacd3cc8ab8eb3eb8ac9e8a7168bec2dc5a80d46fac2e8eed2ede2ca4798a3"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.149.0 - Pengar-milstolpe-baren pa Home fyller animerat mot nasta mal. Builder D."
+  "notes": "Alpha v0.150.0 - Net-worth tier-badge (prestige-nivaer) + nasta-tier-hint pa Home. Forecast flaggar veckans grovsta dag. Builder D (batch om 3)."
 }
