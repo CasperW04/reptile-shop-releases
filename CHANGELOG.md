@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.142.0] - 2026-06-22 — Alpha — "Tomt-läge i Customer Guide-sök 🫥"
+
+### Added
+- **🫥 Kontextuellt tomt-läge i Customer Guide-sök** (Builder D/Graphics) — vänlig tom-vy när en arketyp-sökning inte matchar.
+
+### Tested
+- EditMode 1236/1236, PlayMode 184/184 på merged main.
+
 ## [0.141.0] - 2026-06-22 — Alpha — "Tomt-läge i Controls-sök 🫥"
 
 ### Added
