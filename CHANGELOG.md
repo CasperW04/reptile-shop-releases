@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.114.0] - 2026-06-22 — Alpha — "$HERP-IRA 🏦"
+
+### Added
+- **🏦 $HERP-IRA pensionskonto** (Builder B/Economy) — ny **$HERP-IRA**-sektion i Bank-appen: ett låst,
+  skatte-gynnat pensionskonto. **Bidrag är avdragsgilla** (sänker årets skattepliktiga inkomst, tak $25k/år)
+  och saldot **växer dagligen** med en stabil säker ränta — en äkta safe haven. Saldot är **låst till
+  pensionsdagen**; tidigt uttag kostar **20% straffavgift** och distributioner räknas som **skattepliktig
+  inkomst** (klassisk traditional-IRA skatteuppskjutning). Saldo + årligt utrymme + straff sparas.
+
+### Tested
+- EditMode 1067/1067, PlayMode 172/172 på merged main (IraModel-tester; econ-partialer konfliktfritt).
+
 ## [0.113.0] - 2026-06-22 — Alpha — "Karantän-intag + snitt/dag 🧾📈"
 
 ### Added

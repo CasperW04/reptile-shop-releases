@@ -1,15 +1,15 @@
 {
-  "version": "0.113.0",
-  "tag": "v0.113.0",
+  "version": "0.114.0",
+  "tag": "v0.114.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.113.0/ReptileShop-Windows-v0.113.0.zip",
-    "sizeBytes": 44935332,
-    "sha256": "488088e1d513debfa38c9e6cd6159231a4e70154a0c794b92cabc957ced95b02"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.114.0/ReptileShop-Windows-v0.114.0.zip",
+    "sizeBytes": 44937164,
+    "sha256": "f3578cb97d432f06a3db6513f785520fbbc95c1e84d69a85278276aca73f746c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.113.0 - Quarantine Intake-app: karantan-checklista (observera/avmaska/vag) for nya djur innan de rensas in. Analytics snitt-per-dag med trend-pil. Builder C + D."
+  "notes": "Alpha v0.114.0 - HERP-IRA: last skatte-gynnat pensionskonto i Bank-appen. Avdragsgilla bidrag (tak 25k/ar), vaxer dagligen, last till pensionsdag, 20% straff vid tidigt uttag. Builder B (economy)."
 }
