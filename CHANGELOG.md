@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.103.0] - 2026-06-22 — Alpha — "Milstolpar + väderprognos 🏅🌤️"
+
+### Added
+- **🏅 Husbandry Milestones** (Builder C/Husbandry) — ny app: tjäna achievement-**badges** för avels-output
+  (1/25/100 kläckningar), morf-upptäckter (5/15 distinkta visuella morfer), livslängd (dag 30/100) och
+  samlingsstorlek (20 djur). `MilestoneModule` räknar upp på `ReptileBornEvent`.
+- **🌤️ Weather Forecast-app** (Builder D/Graphics) — ny app: en sex-dagars säsong- & väderutsikt (idag
+  markerad), live från speldagen. Skild från Almanackan (som är ett skötsel-to-do-flöde).
+
+### Tested
+- EditMode 1003/1003 (passerade 1000), PlayMode 163/163 på merged main (5 nya MilestoneModel-tester + forecast; konfliktfria merges).
+
 ## [0.102.0] - 2026-06-22 — Alpha — "Sedan start-% 📈"
 
 ### Added

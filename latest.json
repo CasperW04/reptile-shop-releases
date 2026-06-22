@@ -1,15 +1,15 @@
 {
-  "version": "0.102.0",
-  "tag": "v0.102.0",
+  "version": "0.103.0",
+  "tag": "v0.103.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.102.0/ReptileShop-Windows-v0.102.0.zip",
-    "sizeBytes": 44909276,
-    "sha256": "b4afdbde043e30c9f81de4861845cb81cd32083525a8932a82e610352aba241c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.103.0/ReptileShop-Windows-v0.103.0.zip",
+    "sizeBytes": 44912009,
+    "sha256": "bb49152713ab9e20d140d35833f411cd2222479ecbbe6999d9546d1f1ab0985e"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.102.0 - Analytics: 'Since start'-procent for nettoformogenhet over valt intervall, respekterar 7d/All-vaxeln. Builder D."
+  "notes": "Alpha v0.103.0 - Husbandry Milestones: achievement-badges for avel, morfer, livslangd och samlingsstorlek. Weather Forecast-app: sex-dagars sasong- och vaderutsikt. Builder C + D. (1000+ tester.)"
 }
