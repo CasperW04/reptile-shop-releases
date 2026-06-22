@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.95.0] - 2026-06-22 — Alpha — "Analytics-intervall 🗓️"
+
+### Added
+- **🗓️ Analytics: intervall-växel** (Builder D/Graphics) — Analytics-graferna får en **7d / All**-växel så
+  du kan fokusera förmögenhets-trenden, förändrings-staplarna och bästa/sämsta på senaste veckan eller hela
+  historiken.
+
+### Tested
+- EditMode 970/970, PlayMode 154/154 på merged main (LastN-svans/all/tom-säker + växel-filtrering; konfliktfri merge).
+
 ## [0.94.0] - 2026-06-22 — Alpha — "Almanacka + onboarding-bar 📔📊"
 
 ### Added

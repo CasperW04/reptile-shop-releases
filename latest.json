@@ -1,15 +1,15 @@
 {
-  "version": "0.94.0",
-  "tag": "v0.94.0",
+  "version": "0.95.0",
+  "tag": "v0.95.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.94.0/ReptileShop-Windows-v0.94.0.zip",
-    "sizeBytes": 44899154,
-    "sha256": "ebaf537d4e2998c9ed0534b57a680a3dfdb765a88d546329511a31fb423bc097"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.95.0/ReptileShop-Windows-v0.95.0.zip",
+    "sizeBytes": 44899620,
+    "sha256": "843a5365ff6c781dc9df57a433247dc04caa706b01ad5e8765aee60dc698f450"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.94.0 - Husbandry Almanac: daglig sammanfattning som rullar upp alla skotsel-delsystem till ett prioriterat to-do/varnings-flode. Onboarding progress-bar. Builder C + D."
+  "notes": "Alpha v0.95.0 - Analytics: 7d/All-vaxel for att fokusera formogenhets-trend, forandrings-staplar och basta/samsta pa senaste veckan eller hela historiken. Builder D."
 }
