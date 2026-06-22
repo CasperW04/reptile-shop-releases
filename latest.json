@@ -1,15 +1,15 @@
 {
-  "version": "0.37.0",
-  "tag": "v0.37.0",
+  "version": "0.38.0",
+  "tag": "v0.38.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.37.0/ReptileShop-Windows-v0.37.0.zip",
-    "sizeBytes": 44780778,
-    "sha256": "5a227426f11c5253d7b571e6bbbf1a1673f7aab930b743796d21b9d77ddf8cab"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.38.0/ReptileShop-Windows-v0.38.0.zip",
+    "sizeBytes": 44782220,
+    "sha256": "a3131fb137ec9fbdebf504039538a6e6eb1cfabd125544c63136bbee1c98eba8"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.37.0 - Co-op grundstomme (M1/5): transport-agnostisk natverks-karna med loopback + snapshot-handskakning (host speglar hela varlden till klient). Host-auktoritativ listen-server for delad butik, 2 spelare. Byggs/verifieras headless; riktig socket kommer senare."
+  "notes": "Alpha v0.38.0 - Co-op kommando-pipeline (M2/5): klient skickar avsikter, host kor dem auktoritativt och speglar resultatet till klienten. Host validerar (avvisar oaffordabla kop). Forsta kommandon: aktiehandel."
 }

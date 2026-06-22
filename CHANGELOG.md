@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.38.0] - 2026-06-22 — Alpha — "Co-op: kommando-pipeline 🔀"
+
+### Added
+- **🔀 Co-op kommando-pipeline (Milstolpe 2/5)** — klienten skickar *avsikter* (typade kommandon) som
+  **host kör auktoritativt** mot sin värld och broadcastar tillbaka som event; klienten speglar bara den
+  ändrade delen (ingen full re-snapshot per handling). Första kommandona: köp/sälj av aktier. Host
+  validerar (t.ex. avvisar köp man inte har råd med), så klienten kan aldrig fuska sig till pengar.
+- Okända kommandon vidarebefordras till en host-modul (för world-kommandon i kommande milstolpar).
+
+### Tested
+- EditMode 725/725 (köp/sälj appliceras host-auktoritativt + speglas; sälj-allt rensar innehav; host avvisar oaffordabla köp). PlayMode opåverkat (isolerad Net-assembly): 88/88.
+
 ## [0.37.0] - 2026-06-22 — Alpha — "Co-op: nätverks-kärna 🌐"
 
 ### Added
