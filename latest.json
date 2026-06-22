@@ -1,15 +1,15 @@
 {
-  "version": "0.41.1",
-  "tag": "v0.41.1",
+  "version": "0.42.0",
+  "tag": "v0.42.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.41.1/ReptileShop-Windows-v0.41.1.zip",
-    "sizeBytes": 44792429,
-    "sha256": "53871c2cd83587e04e8fe522c3de2a29920a85a78c63f6d775b004f92aa6a08b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.42.0/ReptileShop-Windows-v0.42.0.zip",
+    "sizeBytes": 44795643,
+    "sha256": "21d67b8c4ad3650871286c9ae156815ee14967c0744e714d86811a1aa1ef0d96"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.41.1 - Co-op-meny (M5b/5): ny Co-op-app pa datorn (Host / Join + IP / Leave) kopplad till en riktig CoopController/CoopSession. Transport-soemmen klar for socketen (M5)."
+  "notes": "Alpha v0.42.0 - Co-op spelbart over natverk (M5/5): riktig TCP-transport. Host a game (port 7777) eller Join via IP. Host-auktoritativ delad butik, 2 spelare. Localhost/LAN funkar direkt; internet via port-forward."
 }

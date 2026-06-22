@@ -15,6 +15,23 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.42.0] - 2026-06-22 — Alpha — "Co-op: ONLINE (TCP) 🌍"
+
+### Added
+- **🌍 Co-op spelbart över nätverk (Milstolpe 5/5)** — riktig TCP-transport. Öppna Co-op-appen och välj
+  **Host a game** (öppnar port 7777) eller skriv en kompis **IP** och **Join**. Host kör den auktoritativa
+  butiken; klienten speglar världen, ser värdens avatar röra sig, och alla handlingar (köp/sälj, aktier,
+  bär/släpp) körs på host och speglas tillbaka. Snabbaste testet: kör två spel-instanser och joina
+  `127.0.0.1`. LAN funkar via host-datorns lokala IP; internet via port-forward av 7777.
+- Trådsäker socket-läsning med main-thread-pump (`CoopPump`) så allt spel-tillstånd ändras på Unitys huvudtråd.
+
+### Notes
+- Localhost + LAN funkar direkt. Internet kräver att host port-forwardar 7777 (TCP). NAT punch-through
+  (slippa port-forward) kan läggas till senare (UDP/LiteNetLib) bakom samma gränssnitt.
+
+### Tested
+- EditMode 733/733, PlayMode 97/97 — inkl. två RIKTIGA sockets över 127.0.0.1: anslutning, meddelanden åt båda håll, full världs-snapshot + ett live köp-kommando över socketen.
+
 ## [0.41.1] - 2026-06-22 — Alpha — "Co-op: meny 📋"
 
 ### Added
