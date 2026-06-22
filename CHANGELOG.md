@@ -15,6 +15,26 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.121.0] - 2026-06-22 — Alpha — "Kreditvärdighet + miljö-Almanacka 💳📔"
+
+### Added
+- **💳 Kreditvärdighet** (Builder B/Economy) — Banken spårar nu en **credit score** (300–850, FICO-stil,
+  start 650) som formar dina lånevillkor: bättre score **höjer kreditgränsen** och **sänker räntan**, sämre
+  gör tvärtom. Scoren stiger när du återbetalar/håller låg utnyttjandegrad, sjunker vid hög. Visas i Bank-
+  appen med tier (Poor → Excellent). Startvärdet ger exakt de gamla villkoren.
+- **📔 Almanacka: miljö-täckning** (Builder C/Husbandry) — Almanackan flaggar nu även **skadlig luftfuktighet**,
+  **försenat substrat** och **djur i karantän-intag**, utöver de befintliga raderna.
+- **🎓 Analytics: betyg** (Builder D/Graphics) — Analytics visar ett **A–F-betyg** för nettoförmögenhets-
+  förändringen över vald period.
+
+### Fixed (integrator)
+- **Deterministiskt save-round-trip-klocktest** — det tidigare tidvis-flaky `SaveThenLoad...AndClock` jämför
+  nu mot det FAKTISKT persisterade klockvärdet (läst synkront efter save) istället för en live-klocka som
+  hann ticka vidare under tung maskinlast. Inga fler 30→31-flaky.
+
+### Tested
+- EditMode 1099/1099, PlayMode 176/176 på merged main (CreditModel + GradeModel + Almanac-integration; klocktestet nu deterministiskt grönt).
+
 ## [0.120.0] - 2026-06-22 — Alpha — "Auktionsformat + veckorapport 🔨🗓"
 
 ### Added

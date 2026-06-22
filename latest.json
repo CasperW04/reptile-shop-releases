@@ -1,15 +1,15 @@
 {
-  "version": "0.120.0",
-  "tag": "v0.120.0",
+  "version": "0.121.0",
+  "tag": "v0.121.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.120.0/ReptileShop-Windows-v0.120.0.zip",
-    "sizeBytes": 44948086,
-    "sha256": "ae8c7a1c39cec8427d597aaca444f06d7c4a9af73360f8a08e057cc7ce287e22"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.121.0/ReptileShop-Windows-v0.121.0.zip",
+    "sizeBytes": 44949477,
+    "sha256": "972b9b3e26d6c84333e0186340d3d994e17e4a905dbdc6f4f29d2336ae520b97"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.120.0 - Fordjupade auktionsformat (English/Sealed/Dutch + reserve, kan passa in). Weekly Husbandry Report (7-dagars sammanfattning). Tip-kategori-taggar. Builder B + C + D - alla tre. Builder B har tomt sin ko."
+  "notes": "Alpha v0.121.0 - Kreditvardighet (credit score 300-850 som formar kreditgrans + ranta). Almanackan tacker nu luftfuktighet/substrat/karantan. Analytics A-F-betyg. Plus: det flaky klock-testet ar nu deterministiskt. Builder B + C + D + integrator."
 }
