@@ -1,15 +1,15 @@
 {
-  "version": "0.148.0",
-  "tag": "v0.148.0",
+  "version": "0.149.0",
+  "tag": "v0.149.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.148.0/ReptileShop-Windows-v0.148.0.zip",
-    "sizeBytes": 46364626,
-    "sha256": "be1abb72009289cd31a19d8d5490b71b7b694f8e432e49526c060b8b080e7b36"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.149.0/ReptileShop-Windows-v0.149.0.zip",
+    "sizeBytes": 46364674,
+    "sha256": "31821a12bcbfa4b4384009efff8d68f8d51bc246e0109253f19abc6ab1764525"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.148.0 - Onboarding-progress-baren fyller animerat nar steg bockas av. Builder D."
+  "notes": "Alpha v0.149.0 - Pengar-milstolpe-baren pa Home fyller animerat mot nasta mal. Builder D."
 }
