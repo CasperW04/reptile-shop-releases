@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.43.0] - 2026-06-22 — Alpha — "Börs: limit-order 🎯"
+
+### Added
+- **🎯 Limit-order på börsen** — lägg stående order som utlöses automatiskt när kursen passerar din nivå:
+  auto-köp när priset faller till/under, auto-sälj när det stiger till/över. Order kollas varje börsdag.
+  I Stocks-appen: "Limit buy −10%" / "Limit sell +10%"-knappar (lägger order 10% under/över aktuell kurs)
+  + visar antal öppna order med en avbryt-knapp. Order sparas mellan sessioner.
+
+### Tested
+- EditMode 736/736 (limit buy/sell fyller vid rätt prisnivå, avbryt fungerar, persistens), PlayMode 97/97.
+
 ## [0.42.0] - 2026-06-22 — Alpha — "Co-op: ONLINE (TCP) 🌍"
 
 ### Added

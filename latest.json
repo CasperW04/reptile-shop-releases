@@ -1,15 +1,15 @@
 {
-  "version": "0.42.0",
-  "tag": "v0.42.0",
+  "version": "0.43.0",
+  "tag": "v0.43.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.42.0/ReptileShop-Windows-v0.42.0.zip",
-    "sizeBytes": 44795643,
-    "sha256": "21d67b8c4ad3650871286c9ae156815ee14967c0744e714d86811a1aa1ef0d96"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.43.0/ReptileShop-Windows-v0.43.0.zip",
+    "sizeBytes": 44798687,
+    "sha256": "22539ea52c5ecf777a33a71f52e0460204d2602e6dde7a9d73cd3c3306773613"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.42.0 - Co-op spelbart over natverk (M5/5): riktig TCP-transport. Host a game (port 7777) eller Join via IP. Host-auktoritativ delad butik, 2 spelare. Localhost/LAN funkar direkt; internet via port-forward."
+  "notes": "Alpha v0.43.0 - Limit-order pa borsen: lagg staaende order som utloses nar kursen passerar din niva (auto-kop under, auto-salj over). Kollas varje borsdag, sparas mellan sessioner."
 }
