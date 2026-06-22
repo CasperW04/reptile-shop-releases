@@ -1,15 +1,15 @@
 {
-  "version": "0.76.0",
-  "tag": "v0.76.0",
+  "version": "0.77.0",
+  "tag": "v0.77.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.76.0/ReptileShop-Windows-v0.76.0.zip",
-    "sizeBytes": 44844996,
-    "sha256": "f3e24213b9f447c90854b8b5fbd519312c78ef61ec33e74083fa75509b4d7113"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.77.0/ReptileShop-Windows-v0.77.0.zip",
+    "sizeBytes": 44849722,
+    "sha256": "ac8845be368c84644f389230ab4cb70ebec124c17087a89b7aa9ddff348ef680"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.76.0 - UI-juice: ateranvandbara helpers for dator-apparna - count-up-siffror, pop-overshoot, fade-in. Notifications-flodet fadar in rader. Mer liv i UI, kod-drivet. Builder D (graphics)."
+  "notes": "Alpha v0.77.0 - Body Condition-app (kondition + matrespons + Feed) och Getting Started-checklista (guidad forsta session som bockar av sig sjalv). Builder C + D, mergade konfliktfritt."
 }

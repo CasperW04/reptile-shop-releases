@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.77.0] - 2026-06-22 — Alpha — "Kroppskondition + onboarding 💪🚀"
+
+### Added
+- **💪 Body Condition & feeding-response** (Builder C/Husbandry) — ny app: en veterinär-överblick per djur med
+  kroppskondition (utmärglad → mager → ideal → överviktig → fet), matrespons (ivrig/villig/tveksam/vägrar)
+  och en **Feed**-åtgärd. Mata hungriga bygger kondition; övermatning → fetma + vägran; vanvård → utmärgling.
+  Deterministisk `BodyConditionModel`, per-djur, sparas.
+- **🚀 Getting Started-checklista** (Builder D/Graphics) — ny app: en guidad första-sessions-checklista
+  (placera terrarium, lägg till reptil, dekorera, första försäljning, spara ihop $5 000) som bockar av sig
+  själv live, visar progress och kan döljas (sparas).
+
+### Tested
+- EditMode 857/857, PlayMode 126/126 på merged main (konfliktfria merges; flaky klock-test grönt på omkörning).
+
 ## [0.76.0] - 2026-06-22 — Alpha — "UI-juice ✨"
 
 ### Added
