@@ -1,15 +1,15 @@
 {
-  "version": "0.84.0",
-  "tag": "v0.84.0",
+  "version": "0.85.0",
+  "tag": "v0.85.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.84.0/ReptileShop-Windows-v0.84.0.zip",
-    "sizeBytes": 44876318,
-    "sha256": "e18c33447801fb10aecb065b4614644b85fc4b49cd4c3c43b83e882f9bdfb5e1"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.85.0/ReptileShop-Windows-v0.85.0.zip",
+    "sizeBytes": 44878919,
+    "sha256": "1a7845795bd54341cb8d9434fe82e670112278f28f5a030269c563682a6414b3"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.84.0 - Pedigree/lineage-tracker: sparar slaktrad med inavels-varning. Analytics: dagliga formogenhets-forandrings-staplar (gron/rod). Builder C + D."
+  "notes": "Alpha v0.85.0 - Vet Clinic: halsoundersokning som avslojar halsobetyg + dolda parasiter och behandlar dem. UI hover-tooltips for dator-apparna. Builder C + D."
 }

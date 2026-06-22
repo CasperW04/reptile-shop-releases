@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.85.0] - 2026-06-22 — Alpha — "Veterinärklinik + tooltips 🩺💬"
+
+### Added
+- **🩺 Vet Clinic** (Builder C/Husbandry) — ny app: betala för en hälsoundersökning som **avslöjar** ett
+  djurs sanna hälsobetyg (A–D) och eventuella **dolda parasiter** (hälsa är okänd tills den kollas), och
+  **behandlar** parasiterna direkt. Avslöjandet håller ett antal dagar, sedan behövs ny koll. Väver ihop
+  smitt- och kroppskondition-systemen.
+- **💬 UI-tooltips** (Builder D/Graphics) — återanvändbara hover-tooltips för dator-apparna; applicerade på
+  Analytics-allokeringens legend och Customer Guide-ikonerna.
+
+### Tested
+- EditMode 916/916, PlayMode 141/141 på merged main (6 nya VetModel-tester + tooltip-toggle; konfliktfria merges).
+
 ## [0.84.0] - 2026-06-22 — Alpha — "Stamtavla + förändrings-staplar 🌳📊"
 
 ### Added
