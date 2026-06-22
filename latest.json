@@ -1,15 +1,15 @@
 {
-  "version": "0.64.0",
-  "tag": "v0.64.0",
+  "version": "0.65.0",
+  "tag": "v0.65.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.64.0/ReptileShop-Windows-v0.64.0.zip",
-    "sizeBytes": 44827415,
-    "sha256": "23bd4317847791aa53f3f3cc2925c8c9ebf4c58be19612a9bfcda0294148bf79"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.65.0/ReptileShop-Windows-v0.65.0.zip",
+    "sizeBytes": 44827997,
+    "sha256": "3fef5eae3b9885748903ebddc90f548c4d2af4f4f2c9673e07391685a0a20d6b"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.64.0 - Alerts-app: ett smart varningscenter med deduperade, allvarlighets-ordnade larm (sjuka djur, lag kassa, lan med ranta, omsning). Ersatter notis-spam med en atgardbar feed. Research-backlog."
+  "notes": "Alpha v0.65.0 - Foretagsskatt: en aterkommande wealth-sink som balanserar alla inkomstkallor. Var 10:e dag beskattas 5% av kassan over ett fribelopp pa 10000 dollar. Bank-appen visar nasta skattedag."
 }

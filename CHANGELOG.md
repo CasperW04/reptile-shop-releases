@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.65.0] - 2026-06-22 — Alpha — "Företagsskatt 🧾"
+
+### Added
+- **🧾 Företagsskatt** — en återkommande wealth-sink som balanserar alla nya inkomstkällor: var 10:e dag
+  beskattas 5% av kassan över ett fribelopp på $10 000. Bank-appen visar nästa skattedag + uppskattat
+  belopp. (Research-inspirerad: sinks vs faucets.)
+
+### Tested
+- EditMode 807/807 (skatt bara var 10:e dag, fribelopp exkluderas, dras på rätt dag, nästa-skattedag), PlayMode 109/109.
+
 ## [0.64.0] - 2026-06-22 — Alpha — "Alerts 🔔"
 
 ### Added
