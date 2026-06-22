@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.104.0] - 2026-06-22 — Alpha — "Miljööverblick + swatches 🏝🎨"
+
+### Added
+- **🏝 Environment Overview** (Builder C/Husbandry) — ny app: en hälso-överblick per terrarium som väger ihop
+  **temperatur-gradient + luftfuktighet + substrat-fräschör** till ett 0–100-betyg (Excellent → Critical),
+  med del-betygen och en varning som flaggar **svagaste aspekten**. Ren läs-modell.
+- **🎨 Display: accent-swatch-preview** (Builder D/Graphics) — Display-appen visar nu alla fem accent-färger
+  som klickbara swatches (aktiv inringad) — välj direkt istället för att bara stega.
+
+### Tested
+- EditMode 1008/1008, PlayMode 165/165 på merged main (5 nya EnvironmentModel-tester + swatch-val; konfliktfria merges).
+
 ## [0.103.0] - 2026-06-22 — Alpha — "Milstolpar + väderprognos 🏅🌤️"
 
 ### Added
