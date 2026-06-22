@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.62.0] - 2026-06-22 — Alpha — "Mål 🎯"
+
+### Added
+- **🎯 Goals-app: långsiktiga milstolpar** — 10 stora mål som binder ihop alla system (nå $100k/$1M
+  nettoförmögenhet, äg 20 djur, föd upp 50, sälj 100, $5k-försäljning, 10 achievements, $50k aktieportfölj,
+  butiksnivå 5, dag 50) med kod-ritade progress-barer som uppdateras live. Ger riktning bortom dagsmålet.
+  (Research-backlog.)
+
+### Tested
+- EditMode 796/796 (mål unika, progress/done följer state + klampar, completed-count), PlayMode 108/108 (appen speglar uppnådda milstolpar).
+
 ## [0.61.0] - 2026-06-22 — Alpha — "Bulk-åtgärder 📦"
 
 ### Added

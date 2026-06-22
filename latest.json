@@ -1,15 +1,15 @@
 {
-  "version": "0.61.0",
-  "tag": "v0.61.0",
+  "version": "0.62.0",
+  "tag": "v0.62.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.61.0/ReptileShop-Windows-v0.61.0.zip",
-    "sizeBytes": 44822513,
-    "sha256": "63537de1429f2ddd6e16f9f1ede3b6fefe6410edf2a4528202417c0b29e3dc5a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.62.0/ReptileShop-Windows-v0.62.0.zip",
+    "sizeBytes": 44824341,
+    "sha256": "030df9d89ef45fea1b19d4872a2c3b1dd8d879f8609e33becb1c69e179de86b9"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.61.0 - Bulk-atgarder i Animals-rostern: agera pa hela det filtrerade urvalet samtidigt - List/Unlist shown + Markup 1.2x/1.5x. Kombinera med filter for snabb butikshantering. Research-backlog."
+  "notes": "Alpha v0.62.0 - Goals-app: 10 langsiktiga milstolpar (formogenhet, samling, avel, achievements, aktier, niva) med kod-ritade progress-barer som uppdateras live. Riktning bortom dagsmalet. Research-backlog."
 }
