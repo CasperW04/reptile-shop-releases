@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.61.0] - 2026-06-22 — Alpha — "Bulk-åtgärder 📦"
+
+### Added
+- **📦 Bulk-åtgärder i Animals-rostern** — agera på hela det filtrerade urvalet på en gång istället för ett
+  djur i taget: "List shown" / "Unlist shown" (sätt/ta bort till-salu) och "Markup 1.2× / 1.5×". Kombinera
+  med filter (t.ex. visa hanar → lista alla) för snabb butikshantering. (Research-backlog.)
+
+### Tested
+- EditMode 793/793 (set-for-sale ändrar bara de som behövs, markup klampas + appliceras, null-säker), PlayMode 107/107 (bulk listar exakt de visade hanarna).
+
 ## [0.60.0] - 2026-06-22 — Alpha — "Pairing Planner 🧬"
 
 ### Added
