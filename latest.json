@@ -1,15 +1,15 @@
 {
-  "version": "0.93.0",
-  "tag": "v0.93.0",
+  "version": "0.94.0",
+  "tag": "v0.94.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.93.0/ReptileShop-Windows-v0.93.0.zip",
-    "sizeBytes": 44897123,
-    "sha256": "27e469966043e81f6cc781794899a69a8e6cb3f17d768843d478195b0133442a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.94.0/ReptileShop-Windows-v0.94.0.zip",
+    "sizeBytes": 44899154,
+    "sha256": "ebaf537d4e2998c9ed0534b57a680a3dfdb765a88d546329511a31fb423bc097"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.93.0 - Thermostat: stall varm/sval sida per terrarium for termoregler-betyg med varningar. Tips-app: dagens tips med blade-knapp. Builder C + D."
+  "notes": "Alpha v0.94.0 - Husbandry Almanac: daglig sammanfattning som rullar upp alla skotsel-delsystem till ett prioriterat to-do/varnings-flode. Onboarding progress-bar. Builder C + D."
 }

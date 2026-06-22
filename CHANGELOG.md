@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.94.0] - 2026-06-22 — Alpha — "Almanacka + onboarding-bar 📔📊"
+
+### Added
+- **📔 Husbandry Almanac** (Builder C/Husbandry) — ny app: en daglig sammanfattning som rullar upp ALLA
+  skötsel-delsystem till ett prioriterat to-do/varnings-flöde — infektioner, tom foderkoloni, låg genetisk
+  mångfald, oundersökta djur, farliga termiska gradienter, avelsmåls-progress och karantän — mest akut först.
+- **📊 Onboarding-progress-bar** (Builder D/Graphics) — Getting Started-checklistan visar nu en kod-ritad
+  **progress-bar** (accent-fylld) ovanför stegen.
+
+### Tested
+- EditMode 969/969, PlayMode 154/154 på merged main (5 nya AlmanacModel-tester + progress-fraktion; konfliktfria merges).
+
 ## [0.93.0] - 2026-06-22 — Alpha — "Termostat + tips 🌡💡"
 
 ### Added
