@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.79.0] - 2026-06-22 — Alpha — "Kund-arketyper 🧑‍🤝‍🧑"
+
+### Added
+- **🧑‍🤝‍🧑 Kund-arketyper + guide** (Builder D/Graphics) — fem shopper-typer (Bargain Hunter 💸, Collector 🏆,
+  Impulse ⚡, Browser 👀, Connoisseur 🧐), var och en med färg, ikon och tålamods-/budget-"tell", tilldelas
+  deterministiskt per kund. Ny **Customer Guide**-app: en snabbnyckel till varje arketyp och vad de vill ha.
+  (Diegetisk badge i världen är en uppföljning.)
+
+### Tested
+- EditMode 870/870, PlayMode 129/129 på merged main (deterministisk arketyp-tilldelning + komplett spridning; guide listar alla fem).
+
 ## [0.78.0] - 2026-06-22 — Alpha — "Enrichment + Analytics 🌿📊"
 
 ### Added

@@ -1,15 +1,15 @@
 {
-  "version": "0.78.0",
-  "tag": "v0.78.0",
+  "version": "0.79.0",
+  "tag": "v0.79.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.78.0/ReptileShop-Windows-v0.78.0.zip",
-    "sizeBytes": 44855275,
-    "sha256": "a09d6f5a71fd7eb38c79801160f5cb23fd320116a63dd292218a3242468a9154"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.79.0/ReptileShop-Windows-v0.79.0.zip",
+    "sizeBytes": 44857835,
+    "sha256": "a448e6b3a1d078f38b223a81cceb97491f7500cc5b42b1115ac170c29ddf220b"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.78.0 - Enrichment & bioaktiv enclosure-kvalitet (enrichment + stadpatrull som rensar smitta) och Analytics-app (kod-ritad formogenhets-trendlinje + allokerings-paj). Builder C + D."
+  "notes": "Alpha v0.79.0 - Kund-arketyper: fem shopper-typer (Bargain Hunter, Collector, Impulse, Browser, Connoisseur) med farg/ikon/tell, deterministiskt per kund. Ny Customer Guide-app. Builder D."
 }
