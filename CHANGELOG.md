@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.89.0] - 2026-06-22 — Alpha — "Hall of Fame + relativ tid 🏆🕒"
+
+### Added
+- **🏆 Hall of Fame — morf-jackpott** (Builder C/Husbandry) — ny app: en löpande logg över dina
+  utmärkande kläckningar (visuella morfer / multi-hets), registrerade automatiskt vid kläckning med
+  morf-etikett, dag och sällsynthets-betyg. `JackpotModule` lyssnar på `ReptileBornEvent`.
+- **🕒 Relativa tidsstämplar i notiser** (Builder D/Graphics) — notis-poster visar nu en vänlig relativ
+  ålder ("today" / "yesterday" / "N days ago") istället för ett rått dagnummer.
+
+### Tested
+- EditMode 940/940, PlayMode 147/147 på merged main (5 nya JackpotModel-tester + time-ago-formatering; konfliktfria merges).
+
 ## [0.88.0] - 2026-06-22 — Alpha — "Genetisk mångfald + accent-tema 🧬🎨"
 
 ### Added

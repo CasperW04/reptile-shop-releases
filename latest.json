@@ -1,15 +1,15 @@
 {
-  "version": "0.88.0",
-  "tag": "v0.88.0",
+  "version": "0.89.0",
+  "tag": "v0.89.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.88.0/ReptileShop-Windows-v0.88.0.zip",
-    "sizeBytes": 44885104,
-    "sha256": "262cf48ca7d609a0e8ac1572d8a79d288e39c05b8097f4f829ed322c46ba8140"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.89.0/ReptileShop-Windows-v0.89.0.zip",
+    "sizeBytes": 44887626,
+    "sha256": "2291caad60812af7bd7bcae5401ecfba4b8da325f2053169bf19ab8436e2de4e"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.88.0 - Genetic Diversity-score: bestands-halsokoll som snittar slaktskap till ett mangfalds-score med varningar. Accent-fargtema: valj app-highlight-farg. Builder C + D."
+  "notes": "Alpha v0.89.0 - Hall of Fame: logg over utmarkande klackningar (morfer/multi-hets) med sallsynthets-betyg. Relativa tidsstamplar i notiser (today/yesterday/N days ago). Builder C + D."
 }
