@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.66.0] - 2026-06-22 — Alpha — "Sälj-juice 💰"
+
+### Added
+- **💰 Sälj- & kläck-feedback** — varje försäljning och varje kläckning ger nu en festlig, belopps-skalad
+  toast ("Sold for $X" → "💰 Sold for $X!" → "💰💰 BIG SALE — $X! 🎉") plus kassa-chime. De två stora
+  positiva ögonblicken känns nu. (Research-backlog: game-feel.)
+
+### Tested
+- EditMode 810/810 (tier skalar med pris, toast-text per tier, kläck-toast), PlayMode 110/110 (sälj-/kläck-event ger rätt toast via polish-modulen).
+
 ## [0.65.0] - 2026-06-22 — Alpha — "Företagsskatt 🧾"
 
 ### Added

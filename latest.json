@@ -1,15 +1,15 @@
 {
-  "version": "0.65.0",
-  "tag": "v0.65.0",
+  "version": "0.66.0",
+  "tag": "v0.66.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.65.0/ReptileShop-Windows-v0.65.0.zip",
-    "sizeBytes": 44827997,
-    "sha256": "3fef5eae3b9885748903ebddc90f548c4d2af4f4f2c9673e07391685a0a20d6b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.66.0/ReptileShop-Windows-v0.66.0.zip",
+    "sizeBytes": 44829049,
+    "sha256": "8e0426d59457aab0fdc16a67d664624bcf711a6d7e0b0313de6e127bd5035120"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.65.0 - Foretagsskatt: en aterkommande wealth-sink som balanserar alla inkomstkallor. Var 10:e dag beskattas 5% av kassan over ett fribelopp pa 10000 dollar. Bank-appen visar nasta skattedag."
+  "notes": "Alpha v0.66.0 - Salj- och klack-feedback: varje forsaljning och klackning ger nu en festlig belopps-skalad toast + kassa-chime. De tva stora positiva ogonblicken kanns. Research-backlog (game-feel)."
 }
