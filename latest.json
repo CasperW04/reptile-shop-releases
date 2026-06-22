@@ -1,15 +1,15 @@
 {
-  "version": "0.40.0",
-  "tag": "v0.40.0",
+  "version": "0.40.1",
+  "tag": "v0.40.1",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.40.0/ReptileShop-Windows-v0.40.0.zip",
-    "sizeBytes": 44787695,
-    "sha256": "b925b10556b006374f1a8fb076229f614dbfceb58a5c2294ab1e83cbe030e22b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.40.1/ReptileShop-Windows-v0.40.1.zip",
+    "sizeBytes": 44789124,
+    "sha256": "a1dcbb783a67d84d9d7d648ba8ae6ee398234a33b96bacc1694213f067c07706"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.40.0 - Co-op carry/agarskap (M4/5): host-auktoritativ konflikt-arbitrering sa tva spelare inte kan greppa samma djur/mobel samtidigt. Pickup/drop speglas; bada ser vem som bar vad."
+  "notes": "Alpha v0.40.1 - Co-op world-kommando (M4b/5): klientens avsikt kors mot riktiga spel-tjanster pa host (salj djur via kanoniska SellReptile) och speglas. Samma sanning for bada spelarna."
 }

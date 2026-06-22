@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.40.1] - 2026-06-22 — Alpha — "Co-op: world-kommando 🛠"
+
+### Added
+- **🛠 Co-op world-kommando (Milstolpe 4b/5)** — en spelares avsikt körs nu mot de RIKTIGA spel-tjänsterna
+  på host: när klienten säljer ett djur kör host den kanoniska `SellReptile` (beräknar pris, tar bort djuret,
+  krediterar, publicerar event) och speglar resultatet (saldo + borttagning) till klienten. Samma sanning
+  för båda spelarna, ingen divergens. Mönstret återanvänds för fler handlingar (placera/flytta) härnäst.
+
+### Tested
+- EditMode 733/733, PlayMode 90/90 (klient säljer → host kör SellReptile → host-värld + klient-spegling stämmer: saldo upp, djur borttaget på båda).
+
 ## [0.40.0] - 2026-06-22 — Alpha — "Co-op: delat ägarskap 🤝"
 
 ### Added
