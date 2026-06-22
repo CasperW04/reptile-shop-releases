@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.60.0] - 2026-06-22 — Alpha — "Pairing Planner 🧬"
+
+### Added
+- **🧬 Pairing Planner + inavels-koll** — välj två av dina djur och se deras släktskap (från stamtavlan:
+  föräldrar, hel-/halvsyskon, far/morföräldrar) med en tydlig varning (säker / viss risk / stark
+  inavelsrisk) innan du parar dem. Ny app. (Research-backlog.)
+
+### Tested
+- EditMode 790/790 (förälder-barn 0.5, helsyskon 0.5, halvsyskon 0.25, far/morförälder 0.25, obesläktad 0, varnings-nivåer), PlayMode 106/106 (appen flaggar syskon-par).
+
 ## [0.59.0] - 2026-06-22 — Alpha — "Optioner 🎟️"
 
 ### Added
