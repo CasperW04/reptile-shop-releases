@@ -1,15 +1,15 @@
 {
-  "version": "0.105.0",
-  "tag": "v0.105.0",
+  "version": "0.106.0",
+  "tag": "v0.106.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.105.0/ReptileShop-Windows-v0.105.0.zip",
-    "sizeBytes": 44914145,
-    "sha256": "311d75e49e839f40a59e489a2b01d53b139887e55d6e9164a49fb8b89661378a"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.106.0/ReptileShop-Windows-v0.106.0.zip",
+    "sizeBytes": 44915710,
+    "sha256": "0ebb7a6f2e29c8a873ddcde2f52316fe0e46fef971bf3a8c7adb08e47d7dbe67"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.105.0 - Home-appen halsar efter tid pa dygnet (Good morning/afternoon/evening/night). Builder D."
+  "notes": "Alpha v0.106.0 - Daily Care Streak: svit av valskotta dagar (foder pafyllt + inget utbrott), 7-dagars milstolpar ger bonus keeper-XP. Builder C."
 }

@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.106.0] - 2026-06-22 — Alpha — "Skötsel-streak 🔥"
+
+### Added
+- **🔥 Daily Care Streak** (Builder C/Husbandry) — ny app: en svit av sammanhängande välskötta dagar (foder
+  påfyllt + inget aktivt utbrott) — varje bra dag förlänger den, en dålig dag bryter den. Varje 7-dagars
+  milstolpe ger bonus keeper-XP. `CareStreakModule` utvärderar vid dagsslut.
+
+### Tested
+- EditMode 1015/1015, PlayMode 166/166 på merged main (5 nya CareStreakModel-tester; konfliktfri merge).
+
 ## [0.105.0] - 2026-06-22 — Alpha — "Hälsning på Home 👋"
 
 ### Added
