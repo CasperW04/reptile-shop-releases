@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.108.0] - 2026-06-22 — Alpha — "Loggbok + dag/vecka 📖🗓️"
+
+### Added
+- **📖 Husbandry Logbook** (Builder C/Husbandry) — ny app: en nyast-först-journal över viktiga skötsel-
+  händelser — **kläckningar** och **försäljningar** — var och en stämplad med speldagen. Ring-buffrad
+  `LogbookModel`; `LogbookModule` lägger till från `ReptileBornEvent` + `ReptileSoldEvent`.
+- **🗓️ Home: dag & vecka** (Builder D/Graphics) — Home-hälsningen visar nu även "Day N · Week W".
+
+### Tested
+- EditMode 1028/1028, PlayMode 167/167 på merged main (4 nya LogbookModel-tester + vecko-räkning; konfliktfria merges).
+
 ## [0.107.0] - 2026-06-22 — Alpha — "GeckoCoin 🦎💥"
 
 _Builder B (Economy) online — första ekonomi-featuren landar, nu bidrar alla tre builders._

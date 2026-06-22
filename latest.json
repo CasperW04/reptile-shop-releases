@@ -1,15 +1,15 @@
 {
-  "version": "0.107.0",
-  "tag": "v0.107.0",
+  "version": "0.108.0",
+  "tag": "v0.108.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.107.0/ReptileShop-Windows-v0.107.0.zip",
-    "sizeBytes": 44919631,
-    "sha256": "8da2e8b68a413fc97a13f20795b5e2e5e5f880ffa73c03f8d39c1df39793791b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.108.0/ReptileShop-Windows-v0.108.0.zip",
+    "sizeBytes": 44921489,
+    "sha256": "ac19670b8844414961f0e60d5df8719add57267c6f3fb3aa7eb53528d6f54399"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.107.0 - GeckoCoin (GECK): hyper-volatil meme-krypto utan fundamenta med dold eskalerande rug-pull - den medvetna fallan. Builder B (economy, forsta econ-featuren!). Plus Tips utokade till 16 (Builder D)."
+  "notes": "Alpha v0.108.0 - Husbandry Logbook: nyast-forst-journal over klackningar och forsaljningar stamplad med speldag. Home visar Day N / Week W. Builder C + D."
 }
