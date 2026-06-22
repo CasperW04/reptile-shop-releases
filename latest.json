@@ -1,15 +1,15 @@
 {
-  "version": "0.51.0",
-  "tag": "v0.51.0",
+  "version": "0.52.0",
+  "tag": "v0.52.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.51.0/ReptileShop-Windows-v0.51.0.zip",
-    "sizeBytes": 44808151,
-    "sha256": "3689c633f8bdcc075878ea9e1222a1ddee57d3ea2765e64c530e085ca2cc1bf1"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.52.0/ReptileShop-Windows-v0.52.0.zip",
+    "sizeBytes": 44808454,
+    "sha256": "f803e456ed72be18337b8d7b5e1d97aaf609b5d94bc55bff8780a4a31c590a79"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.51.0 - Dynamiskt vader: varje speldag har ett vader (Sunny/Cloudy/Rain/Storm) som tonar dimman - klar sikt en solig dag, tat dyster narhet i storm. Tillsammans med dygnscykeln."
+  "notes": "Alpha v0.52.0 - Nettoformogenhet: ett samlat tal som binder ihop kontanter, sparande, aktieportfolj, short-P/L och lan. Visas i Stocks-appen."
 }

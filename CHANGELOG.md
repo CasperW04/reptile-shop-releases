@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.52.0] - 2026-06-22 — Alpha — "Nettoförmögenhet 💼"
+
+### Added
+- **💼 Nettoförmögenhet** — ett samlat tal som binder ihop alla pengasystem: kontanter + sparande +
+  aktieportfölj + orealiserad short-P/L − utestående lån. Visas i Stocks-appen så du ser hela din
+  finansiella bottom line på ett ställe.
+
+### Tested
+- EditMode 761/761 (summerar cash/sparande/portfölj − lån, inkluderar short-P/L, null-säker), PlayMode 102/102.
+
 ## [0.51.0] - 2026-06-22 — Alpha — "Väder ⛅"
 
 ### Added
