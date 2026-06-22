@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.70.0] - 2026-06-22 — Alpha — "Parallell-redo 🧵"
+
+### Changed (infra)
+- **🧵 Parallell-utvecklingsrigg** — wiring-filerna (`GameState`, `SaveGame`, `SaveMapper`,
+  `ComputerAppsModule`, `ModuleWiring`) är nu `partial` med per-domän-sömmar (Economy/Husbandry/Graphics),
+  så flera utvecklare kan jobba samtidigt utan att krocka i delade filer. Worktree-script
+  (`tools/parallel/new-worktree.sh`), workflow + tilldelningar (`docs/PARALLEL-WORKFLOW.md`,
+  `docs/PARALLEL-ASSIGNMENTS.md`) och CHANGELOG-fragment (`docs/changes/unreleased/`) tillagda. Möjliggör
+  1 integrator + 3 builders i isolerade worktrees mot en enda versionslinje.
+
+### Tested
+- EditMode 819/819, PlayMode 111/111 — sömmarna är no-ops tills domän-filer fyller dem; alla appar/moduler registreras oförändrat.
+
 ## [0.69.0] - 2026-06-22 — Alpha — "Årstider 🍂"
 
 ### Added
