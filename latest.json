@@ -1,15 +1,15 @@
 {
-  "version": "0.145.0",
-  "tag": "v0.145.0",
+  "version": "0.146.0",
+  "tag": "v0.146.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.145.0/ReptileShop-Windows-v0.145.0.zip",
-    "sizeBytes": 46364154,
-    "sha256": "129791aa47d7b0e6104d48f5b0bdebe09242a024e0e5c401f9c9734acc3c8158"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.146.0/ReptileShop-Windows-v0.146.0.zip",
+    "sizeBytes": 46364261,
+    "sha256": "afea109d3a871fe224e411a1ce983d56941bc1f4cb69771dcc9fa523c4045c51"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.145.0 - Konsekvent rad-highlight vid hovring over Forecast och Customer Guide. Builder D."
+  "notes": "Alpha v0.146.0 - Tid-pa-dygnet-ikon pa Home-halsningen + dagar-sparade-rad i Analytics. Builder D."
 }

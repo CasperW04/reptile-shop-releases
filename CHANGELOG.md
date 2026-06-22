@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.146.0] - 2026-06-22 — Alpha — "Home-ikon + dagar-spårade 🌅📊"
+
+### Added
+- **🌅 Tid-på-dygnet-ikon på Home-hälsningen** (Builder D/Graphics) — en liten sol/måne-ikon bredvid hälsningen.
+- **📊 "Dagar spårade"-rad i Analytics** (Builder D/Graphics) — visar hur många dagar förmögenhets-historiken täcker.
+
+### Tested
+- EditMode 1237/1237, PlayMode 186/186 på merged main.
+
 ## [0.145.0] - 2026-06-22 — Alpha — "Hover-highlight överallt ✨"
 
 ### Added
