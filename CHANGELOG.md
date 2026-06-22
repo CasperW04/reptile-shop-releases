@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.41.0] - 2026-06-22 — Alpha — "Co-op: session-fasad 🧩"
+
+### Added
+- **🧩 Co-op session-fasad (Milstolpe 5a/5)** — `CoopSession`: en enda enkel ingång för att starta/gå med i
+  co-op (StartHost / StartClient / SendLocalAvatar / Stop). Den buntar ihop host-, world-host- och klient-
+  delarna bakom ett rollbaserat API, så att den kommande co-op-menyn och den riktiga nätverks-socketen bara
+  behöver prata med den här klassen. Transport-agnostisk: loopback i test/editor, riktig socket i skarpt läge.
+- Nästa steg mot spelbart: in-game co-op-meny (Host/Join + IP-fält), sedan själva socketen (tillsammans).
+
+### Tested
+- EditMode 733/733, PlayMode 92/92 (hel host↔klient-session via fasadens publika API: snapshot, avatar åt båda håll, kommando-routing, ren teardown).
+
 ## [0.40.1] - 2026-06-22 — Alpha — "Co-op: world-kommando 🛠"
 
 ### Added
