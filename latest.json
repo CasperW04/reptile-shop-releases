@@ -1,15 +1,15 @@
 {
-  "version": "0.156.0",
-  "tag": "v0.156.0",
+  "version": "0.157.0",
+  "tag": "v0.157.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.156.0/ReptileShop-Windows-v0.156.0.zip",
-    "sizeBytes": 46368271,
-    "sha256": "76977975908a4a19ef37b7533014a9e48aeb73807d30022ea35a628df6dc356d"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.157.0/ReptileShop-Windows-v0.157.0.zip",
+    "sizeBytes": 46368497,
+    "sha256": "301c7b916383b51a90dddc11d29e05760087c4ac55bb699b6924d53e09b1ac4b"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.156.0 - Sasong-rad i Forecast och pa Home (sasongsanpassade skotsel-tips). Forecast-dagskorten fadar in. Builder D (batch om 3)."
+  "notes": "Alpha v0.157.0 - Kvalitativt trend-ord i Analytics (Stark uppgang/Stabilt/Nedgang). Fade-in pa Customer Guide-kort och Onboarding-steg. Builder D (batch om 3)."
 }
