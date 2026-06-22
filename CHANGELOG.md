@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.92.0] - 2026-06-22 — Alpha — "Bästa/sämsta dag 📈"
+
+### Added
+- **📈 Analytics: bästa/sämsta dag** (Builder D/Graphics) — under de dagliga förändrings-staplarna visar
+  Analytics-appen nu din **bästa och sämsta enskilda dag** i nettoförmögenhets-förändring
+  ("Best +$X · Worst −$Y").
+
+### Tested
+- EditMode 954/954, PlayMode 151/151 på merged main (dag-deltan best=max/worst=min + tom historik neutral; konfliktfri merge).
+
 ## [0.91.0] - 2026-06-22 — Alpha — "Stud Service + rensa notiser ♂🧹"
 
 ### Added

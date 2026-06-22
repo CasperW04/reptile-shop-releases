@@ -1,15 +1,15 @@
 {
-  "version": "0.91.0",
-  "tag": "v0.91.0",
+  "version": "0.92.0",
+  "tag": "v0.92.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.91.0/ReptileShop-Windows-v0.91.0.zip",
-    "sizeBytes": 44892189,
-    "sha256": "7a5eb2e39f643268511a93efb97927d6541626b5450171bb25070ec951a9b418"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.92.0/ReptileShop-Windows-v0.92.0.zip",
+    "sizeBytes": 44893445,
+    "sha256": "739648bce5f965463a5abe2ab0101bf142a16ada8d92ea832b5f360f01e16b62"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.91.0 - Stud Service: lista beprovade hanar for betalda avels-lan med kvalitets-skalad avgift, passiv inkomst. Clear-knapp i notis-flodet. Builder C + D."
+  "notes": "Alpha v0.92.0 - Analytics: visar basta och samsta enskilda dag i nettoformogenhets-forandring under forandrings-staplarna. Builder D."
 }
