@@ -1,15 +1,15 @@
 {
-  "version": "0.128.0",
-  "tag": "v0.128.0",
+  "version": "0.129.0",
+  "tag": "v0.129.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.128.0/ReptileShop-Windows-v0.128.0.zip",
-    "sizeBytes": 46239114,
-    "sha256": "e0faac0dcbf27dff5267320c42eebbdcb3bcf73c1bb49fdbebe24d7d21f2f23f"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.129.0/ReptileShop-Windows-v0.129.0.zip",
+    "sizeBytes": 46240277,
+    "sha256": "2cbf1887ef8c36d07bc77017f44081896e55ac29559aa34a1b0d75d71d6b301a"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.128.0 - ASSET-OMTAG: hela UI:t anvander nu Inter (SIL Open Font License, manniskogjord typsnitt) istallet for Unitys standardfont. Plus Wealth-app net-worth-milstolpar (B), test-hardning (C), MoneyFormat.Signed (D)."
+  "notes": "Alpha v0.129.0 - Auto-invest (dollar-cost averaging): schemalagda aterkommande kop. Home visar dagens formogenhets-forandring i kronor. Plus Pedigree-test-hardning. Builder B + C + D."
 }

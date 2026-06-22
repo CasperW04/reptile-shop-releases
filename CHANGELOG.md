@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.129.0] - 2026-06-22 — Alpha — "Auto-invest + Home-delta 💸📊"
+
+### Added
+- **💸 Auto-invest (dollar-cost averaging)** (Builder B/Economy) — schemalägg återkommande automatiska köp
+  (t.ex. av index/ETF) för att snitta in dig över tid utan manuellt klick.
+- **📊 Home: dagens förändring i kronor** (Builder D/Graphics) — Home visar nu dagens nettoförmögenhets-
+  förändring som belopp (signerat ±), inte bara en pil.
+
+### Changed
+- **🧪 Härdade Pedigree-tester** (Builder C). Integrator: behåll Inter-fontens .meta vid builder-rebaser + städa orphan-meta.
+
+### Tested
+- EditMode 1175/1175, PlayMode 180/180 på merged main.
+
 ## [0.128.0] - 2026-06-22 — Alpha — "Riktig UI-font (Inter) + Wealth-app 🔤🏆"
 
 ### Added — Asset-omtag
