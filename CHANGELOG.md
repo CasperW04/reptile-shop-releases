@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.136.0] - 2026-06-22 — Alpha — "Finans-nyheter 📰"
+
+### Added
+- **📰 Financial news feed** (Builder B/Economy) — dagliga makro-rubriker som färgar marknadssentimentet
+  och ger kontext åt prisrörelser.
+
+### Tested
+- EditMode 1216/1216, PlayMode 182/182 på merged main.
+
 ## [0.135.0] - 2026-06-22 — Alpha — "Screener + Matchmaker + app-headers 🔎💞🪧"
 
 ### Added

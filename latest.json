@@ -1,15 +1,15 @@
 {
-  "version": "0.135.0",
-  "tag": "v0.135.0",
+  "version": "0.136.0",
+  "tag": "v0.136.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.135.0/ReptileShop-Windows-v0.135.0.zip",
-    "sizeBytes": 46354656,
-    "sha256": "9350b73498f346ea496aeea58d5b7550f83e42b953986fe38529d289e5ce0af4"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.136.0/ReptileShop-Windows-v0.136.0.zip",
+    "sizeBytes": 46357084,
+    "sha256": "3c465e32c0d61c0f63fa4257016a374b9affad831444ace319a378c6b719f30f"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.135.0 - Stock screener and watchlist (B). Breeding Matchmaker rankade outcross-forslag (C). Konsekventa accent-understrukna app-headers (D)."
+  "notes": "Alpha v0.136.0 - Financial news feed: dagliga makro-rubriker som farger marknadssentimentet och ger kontext at prisrorelser. Builder B."
 }
