@@ -1,15 +1,15 @@
 {
-  "version": "0.52.0",
-  "tag": "v0.52.0",
+  "version": "0.53.0",
+  "tag": "v0.53.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.52.0/ReptileShop-Windows-v0.52.0.zip",
-    "sizeBytes": 44808454,
-    "sha256": "f803e456ed72be18337b8d7b5e1d97aaf609b5d94bc55bff8780a4a31c590a79"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.53.0/ReptileShop-Windows-v0.53.0.zip",
+    "sizeBytes": 44811050,
+    "sha256": "b9118f92c21deebe179794ad63fb6a7c69e108e645607e8f411512e969491692"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.52.0 - Nettoformogenhet: ett samlat tal som binder ihop kontanter, sparande, aktieportfolj, short-P/L och lan. Visas i Stocks-appen."
+  "notes": "Alpha v0.53.0 - Daglig reptil-quiz: en roterande trivia-fraga per speldag (12 fragor). Svara ratt och tjana 150 dollar, ett svar per dag. Kul larande + liten daglig inkomst."
 }

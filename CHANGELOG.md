@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.53.0] - 2026-06-22 — Alpha — "Daglig quiz ❓"
+
+### Added
+- **❓ Daglig reptil-quiz** — en ny app med en roterande trivia-fråga per speldag (12 frågor om reptiler &
+  skötsel). Svara rätt och tjäna $150 — ett svar per dag. Lite kul lärande + en liten daglig inkomst.
+
+### Tested
+- EditMode 766/766 (frågebank giltig, deterministisk per dag, belönar rätt en gång/dag, persistens), PlayMode 103/103 (app nåbar, rätt svar betalar en gång).
+
 ## [0.52.0] - 2026-06-22 — Alpha — "Nettoförmögenhet 💼"
 
 ### Added
