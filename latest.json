@@ -1,15 +1,15 @@
 {
-  "version": "0.39.1",
-  "tag": "v0.39.1",
+  "version": "0.40.0",
+  "tag": "v0.40.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.39.1/ReptileShop-Windows-v0.39.1.zip",
-    "sizeBytes": 44786569,
-    "sha256": "98abf9d6d14498ab00de5d41bb6638a171828298af7cbea00598158ef9353f27"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.40.0/ReptileShop-Windows-v0.40.0.zip",
+    "sizeBytes": 44787695,
+    "sha256": "b925b10556b006374f1a8fb076229f614dbfceb58a5c2294ab1e83cbe030e22b"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.39.1 - Co-op fjarr-avatar (M3b/5): RemoteAvatarView driver andra spelarens kropp i varlden fran den interpolerade posen (position, riktning, ga/star). Mjuk rorelse. Patch-release (delsteg)."
+  "notes": "Alpha v0.40.0 - Co-op carry/agarskap (M4/5): host-auktoritativ konflikt-arbitrering sa tva spelare inte kan greppa samma djur/mobel samtidigt. Pickup/drop speglas; bada ser vem som bar vad."
 }

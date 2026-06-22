@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.40.0] - 2026-06-22 — Alpha — "Co-op: delat ägarskap 🤝"
+
+### Added
+- **🤝 Co-op carry/ägarskap-synk (Milstolpe 4/5)** — host-auktoritativ konflikt-arbitrering så två spelare
+  inte kan greppa samma sak samtidigt. När en spelare tar upp ett djur (eller börjar flytta en möbel) äger
+  hen det tills hen släpper; den andres försök avvisas av host, och båda ser vem som bär vad. pickUp/drop
+  går över kommando-pipelinen och speglas till klienten.
+- Nästa (vid live-wiring): koppla placera/flytta/bygg-kommandon till de riktiga World-tjänsterna + visa det
+  burna objektet i handen.
+
+### Tested
+- EditMode 733/733 (arbiter: grant/återanvänd/avvisa/release; över loopback: klient-pickup beviljas, host blockeras tills släppt, ägarskap speglas). PlayMode opåverkat (isolerad Net-assembly): 89/89.
+
 ## [0.39.1] - 2026-06-22 — Alpha — "Co-op: fjärr-avatar 🧍"
 
 ### Added
