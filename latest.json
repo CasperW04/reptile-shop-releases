@@ -1,15 +1,15 @@
 {
-  "version": "0.110.0",
-  "tag": "v0.110.0",
+  "version": "0.111.0",
+  "tag": "v0.111.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.110.0/ReptileShop-Windows-v0.110.0.zip",
-    "sizeBytes": 44925794,
-    "sha256": "df06770fa3246b542358d84898c58afa1d034a076b0680a41397dbd4272553b5"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.111.0/ReptileShop-Windows-v0.111.0.zip",
+    "sizeBytes": 44930535,
+    "sha256": "e351cfbaf63bf8c1870240fe8ca5e07edd3f779a76f08a4092c67e5ed88d54c8"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.110.0 - Keeper Notes: fri-text-anteckning per djur + stjarnmark keepers du inte saljer. Analytics high/low for nettoformogenhet. Builder C + D."
+  "notes": "Alpha v0.111.0 - Year-end taxes/Tax Center: arlig inkomstskatt med avdrag (margin-ranta, utdelningar) pa progressiv skala. Collection Composition-app: kon/art/kvalitet. Home senaste aktivitet. Builder B + C + D - alla tre i samma release."
 }

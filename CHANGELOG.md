@@ -15,6 +15,22 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.111.0] - 2026-06-22 — Alpha — "Årsskatt + samlingsanalys 🧾📊"
+
+### Added
+- **🧾 Year-end taxes & Tax Center** (Builder B/Economy) — ny **Tax Center**-app: en årlig inkomstskatte-
+  uppgörelse ovanpå den periodiska förmögenhetsskatten. Över varje **90-dagars räkenskapsår** ackumuleras
+  **skattepliktig inkomst** (djurförsäljningar + utdelningar) och **avdragsgilla utgifter** (margin-ränta +
+  standardavdrag); vid årsskiftet beräknas notan på en **progressiv skala** (0/10/20/30%) och dras automatiskt.
+  Belönar att använda de andra systemen — margin-lån/utdelningar blir avdrag som sänker notan.
+- **📊 Collection Composition** (Builder C/Husbandry) — ny **Collection**-app: könsfördelning (färgstapel),
+  art-fördelning, snittkvalitet, till-salu + keeper-antal. Ren läs-modell.
+- **📰 Home: senaste aktivitet** (Builder D/Graphics) — Home visar nu senaste notisen (ikon, text, relativ
+  tid, färg-stripe).
+
+### Tested
+- EditMode 1050/1050, PlayMode 171/171 på merged main (TaxFilingModel + RosterStatsModel; en äkta econ-partial-konflikt löstes till B:s superset margin+tax).
+
 ## [0.110.0] - 2026-06-22 — Alpha — "Keeper Notes + high/low 📝📈"
 
 ### Added
