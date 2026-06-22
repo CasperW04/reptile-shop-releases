@@ -1,15 +1,15 @@
 {
-  "version": "0.101.0",
-  "tag": "v0.101.0",
+  "version": "0.102.0",
+  "tag": "v0.102.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.101.0/ReptileShop-Windows-v0.101.0.zip",
-    "sizeBytes": 44909592,
-    "sha256": "6807f8ee873df694a9ed97efc0480bec3981170913819a0434da9e424e9a6e25"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.102.0/ReptileShop-Windows-v0.102.0.zip",
+    "sizeBytes": 44909276,
+    "sha256": "b4afdbde043e30c9f81de4861845cb81cd32083525a8932a82e610352aba241c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.101.0 - Humidity/Misting: stall relativ luftfuktighet per terrarium och fa ett betyg mot idealet for friska omsningar. Builder C."
+  "notes": "Alpha v0.102.0 - Analytics: 'Since start'-procent for nettoformogenhet over valt intervall, respekterar 7d/All-vaxeln. Builder D."
 }

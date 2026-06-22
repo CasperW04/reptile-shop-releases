@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.102.0] - 2026-06-22 — Alpha — "Sedan start-% 📈"
+
+### Added
+- **📈 Analytics: sedan start-%** (Builder D/Graphics) — Analytics-appen visar en **"Since start"-procent**
+  för nettoförmögenhet över valt intervall (grön upp / röd ner), respekterar 7d/All-växeln.
+
+### Tested
+- EditMode 998/998, PlayMode 161/161 på merged main (PctChange upp/ner + edge-cases; konfliktfri merge).
+
 ## [0.101.0] - 2026-06-22 — Alpha — "Luftfuktighet 💧"
 
 ### Added
