@@ -1,15 +1,15 @@
 {
-  "version": "0.49.0",
-  "tag": "v0.49.0",
+  "version": "0.50.0",
+  "tag": "v0.50.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.49.0/ReptileShop-Windows-v0.49.0.zip",
-    "sizeBytes": 44806521,
-    "sha256": "92ef2ec789ffaff422ff0af37341ea7eefccce2971c7c8b86ac31161dce1f166"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.50.0/ReptileShop-Windows-v0.50.0.zip",
+    "sizeBytes": 44807793,
+    "sha256": "d1264c57a16eafda012e7575750cc3ab4082c93fdb64e14e5526060700a18310"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.49.0 - Daglig login-bonus: varje ny speldag ger ett kontant-stipendium som vaxer med en streak av dagar i rad (200 upp till 440), nollstalls vid missad dag. Delas ut vid dygnsskiftet."
+  "notes": "Alpha v0.50.0 - Blankning (short selling): satsa MOT en aktie. Short lanar och saljer; faller kursen tjanar du nar du coverar, stiger den forlorar du. Kraver marginal. Annu ett lager pa borssystemet."
 }

@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.50.0] - 2026-06-22 — Alpha — "Blankning 📉"
+
+### Added
+- **📉 Blankning (short selling)** — satsa MOT en aktie: "Short" lånar och säljer aktier till nuvarande
+  kurs; faller kursen tjänar du mellanskillnaden när du "Cover":ar, stiger den förlorar du. Kräver
+  marginal (kontanter ≥ positionens värde) som säkerhet. Öppnar/coverar i Stocks-appen med live P/L.
+  Ännu ett lager på det överdrivet utvecklade börssystemet.
+
+### Tested
+- EditMode 754/754 (short tjänar när priset faller, förlorar när det stiger, margin-krav, persistens), PlayMode 101/101.
+
 ## [0.49.0] - 2026-06-22 — Alpha — "Daglig bonus 🎁"
 
 ### Added
