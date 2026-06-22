@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.36.0] - 2026-06-22 — Alpha — "Rival-aktier 🏪"
+
+### Added
+- **🏪 Rival-prestanda driver aktiekursen** — rival-butikerna (Exotic Scales, Morph Masters, Apex
+  Reptiles, Scaled Kingdom, Viper Vault) är noterade som aktier vars kurs nu klättrar extra när
+  butiken växer i rykte/försäljning. En blomstrande konkurrent blir en het aktie. Rival-aktier är
+  märkta "🏪 rival" i Stocks-appen.
+
+### Tested
+- EditMode 717/717 (nudge skalar med score + är capad; växande rival slår passiv rival på samma RNG-seed), PlayMode 88/88.
+
 ## [0.35.0] - 2026-06-22 — Alpha — "Börs-djup: utdelning, events, graf 📊"
 
 ### Added
