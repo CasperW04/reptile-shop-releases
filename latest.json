@@ -1,15 +1,15 @@
 {
-  "version": "0.82.0",
-  "tag": "v0.82.0",
+  "version": "0.83.0",
+  "tag": "v0.83.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.82.0/ReptileShop-Windows-v0.82.0.zip",
-    "sizeBytes": 44869975,
-    "sha256": "b6314c06a840f8269ab67bb804f8e6034feee580aef63b6ad18eddb38dfbe4f5"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.83.0/ReptileShop-Windows-v0.83.0.zip",
+    "sizeBytes": 44873563,
+    "sha256": "de97d7bd610d270ddc1732d44965cb02e0321b5cd50d38d594f792f49fcd69f3"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.82.0 - Customer Consultation: matcha djur mot kundens erfarenhet+budget for bonus. Tillganglighet: Display-app med reduced-motion och UI-skala. Builder C + D."
+  "notes": "Alpha v0.83.0 - Growth Charts: daglig viktlogg med sparkline + trend per djur. Notis-filter: filter-chips (sales/hatches/achievements) + olasta-badge. Builder C + D."
 }

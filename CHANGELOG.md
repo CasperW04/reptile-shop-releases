@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.83.0] - 2026-06-22 — Alpha — "Tillväxtkurvor + notis-filter 📈🔔"
+
+### Added
+- **📈 Growth Charts** (Builder C/Husbandry) — ny app: varje djurs vikt provtas **dagligen** och ritas som
+  en kod-ritad sparkline med aktuell vikt + trend (▲/▼). "Weigh all now" tar en omedelbar avläsning. Hjälper
+  upptäcka stadig tillväxt — eller ett oroande vikttapp — på ett ögonkast.
+- **🔔 Notis-filter + olästa-badge** (Builder D/Graphics) — Notifications-flödet får **filter-chips**
+  (All / 💰 Sales / 🥚 Hatches / 🏆 Achievements) och en **olästa-badge** ("N new") i headern som nollställs
+  när appen öppnas.
+
+### Tested
+- EditMode 905/905, PlayMode 137/137 på merged main (WeightLogModel + notis-filter/olästa verifierade; konfliktfria merges).
+
 ## [0.82.0] - 2026-06-22 — Alpha — "Konsultation + tillgänglighet 🗣♿"
 
 ### Added
