@@ -1,15 +1,15 @@
 {
-  "version": "0.138.0",
-  "tag": "v0.138.0",
+  "version": "0.139.0",
+  "tag": "v0.139.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.138.0/ReptileShop-Windows-v0.138.0.zip",
-    "sizeBytes": 46360561,
-    "sha256": "6d7364256f770f8f2737ac968c8aa649af682126dc35a45dbdd41209f072a449"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.139.0/ReptileShop-Windows-v0.139.0.zip",
+    "sizeBytes": 46361885,
+    "sha256": "759196be3ea708586025d11af776b1d2bed1e48ec9425b1ed31069c2de54ba5f"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.138.0 - Portfolj-allokering och diversifierings-score (B). Kontextuellt tomt-lage i Notifications (D)."
+  "notes": "Alpha v0.139.0 - Shopping List: samlad inkopslista for foder och substrat baserad pa vad samlingen behover. Builder C."
 }

@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.139.0] - 2026-06-22 — Alpha — "Inköpslista 🛒"
+
+### Added
+- **🛒 Shopping List** (Builder C/Husbandry) — en samlad inköpslista för foder och substrat baserad på vad
+  samlingen behöver, så inget tar slut.
+
+### Tested
+- EditMode 1229/1229, PlayMode 184/184 på merged main.
+
 ## [0.138.0] - 2026-06-22 — Alpha — "Allokering + tomt-läge 🥧🫥"
 
 ### Added
