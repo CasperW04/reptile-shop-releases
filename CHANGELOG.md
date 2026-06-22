@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.68.0] - 2026-06-22 — Alpha — "VIP-stamkunder 🤝"
+
+### Added
+- **🤝 Lojala VIP-stamkunder** — ett växande underlag av återkommande kunder (skalar med butikens rykte,
+  upp till 30) som ger en liten stadig passiv intäkt varje dag via upprepade order. Belönar att bygga rykte
+  och balanseras av företagsskatten. VIP-antal visas i Dashboard. (Research-backlog.)
+
+### Tested
+- EditMode 816/816 (VIP-antal skalar+capar med rykte, daglig intäkt 0 utan VIP/positiv med + deterministisk, krediterar kassan), PlayMode 110/110.
+
 ## [0.67.0] - 2026-06-22 — Alpha — "Levande djur 🫁"
 
 ### Added

@@ -1,15 +1,15 @@
 {
-  "version": "0.67.0",
-  "tag": "v0.67.0",
+  "version": "0.68.0",
+  "tag": "v0.68.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.67.0/ReptileShop-Windows-v0.67.0.zip",
-    "sizeBytes": 44829052,
-    "sha256": "2fc483d4810da95f915d8eb48db378167abb74414440696dc6dd8cec85143d7c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.68.0/ReptileShop-Windows-v0.68.0.zip",
+    "sizeBytes": 44829821,
+    "sha256": "5685a7d8a6dec61147fe5fca25972f758bf20da40165920b2d5041bd92dc6e5c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.67.0 - Reptil-andning: djuren andas nu med en subtil kod-driven skal-puls, med egen fas per djur sa ett helt terrarium inte andas i takt. Skillnaden mellan staty och levande. Research-backlog."
+  "notes": "Alpha v0.68.0 - Lojala VIP-stamkunder: ett vaxande underlag aterkommande kunder (skalar med rykte) som ger stadig passiv intakt via upprepade order. Belonar rykte, balanseras av skatten. Research-backlog."
 }
