@@ -1,15 +1,15 @@
 {
-  "version": "0.81.0",
-  "tag": "v0.81.0",
+  "version": "0.82.0",
+  "tag": "v0.82.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.81.0/ReptileShop-Windows-v0.81.0.zip",
-    "sizeBytes": 44865727,
-    "sha256": "867a4a0be385e1d799653bee346e0d0bec1c04b41c200b7d764d5b26b095021d"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.82.0/ReptileShop-Windows-v0.82.0.zip",
+    "sizeBytes": 44869975,
+    "sha256": "b6314c06a840f8269ab67bb804f8e6034feee580aef63b6ad18eddb38dfbe4f5"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.81.0 - Pre-Orders-tavla: kunder lagger standande bestallningar pa art+kvalitet, uppfyll for premie. Klack-kamerajuice: shake + FOV-punch vid klackning. Builder C + D."
+  "notes": "Alpha v0.82.0 - Customer Consultation: matcha djur mot kundens erfarenhet+budget for bonus. Tillganglighet: Display-app med reduced-motion och UI-skala. Builder C + D."
 }

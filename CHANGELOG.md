@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.82.0] - 2026-06-22 — Alpha — "Konsultation + tillgänglighet 🗣♿"
+
+### Added
+- **🗣 Customer Consultation & right-pet matching** (Builder C/Husbandry) — ny app: en kund anger
+  **erfarenhetsnivå** (nybörjare/medel/expert) och **budget**. Rekommendera ett djur vars
+  **skötselsvårighet** passar nivån och vars värde passar budgeten för en **konsultations-bonus** ovanpå
+  försäljningen. Bättre matchning ger större bonus; ny kund varje dag.
+- **♿ Tillgänglighet** (Builder D/Graphics) — ny **Display**-app med två sparade inställningar:
+  **Reduced motion** (dämpar konfetti, kamera-shake, UI-fades) och **UI-skala** (75%→150%). Reduced motion
+  respekteras av celebration-, kamerajuice- och notis-systemen.
+
+### Tested
+- EditMode 898/898, PlayMode 135/135 på merged main (7 nya ConsultationModel-tester + accessibility-gate; konfliktfria merges).
+
 ## [0.81.0] - 2026-06-22 — Alpha — "Pre-orders + kläck-kamera 📋🎥"
 
 ### Added
