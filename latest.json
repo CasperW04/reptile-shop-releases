@@ -1,15 +1,15 @@
 {
-  "version": "0.71.0",
-  "tag": "v0.71.0",
+  "version": "0.72.0",
+  "tag": "v0.72.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.71.0/ReptileShop-Windows-v0.71.0.zip",
-    "sizeBytes": 44830480,
-    "sha256": "e5e7c6fbef3895ed3139f30e14c53b4d17b3806e5054cf028f9ad8a983b17370"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.72.0/ReptileShop-Windows-v0.72.0.zip",
+    "sizeBytes": 44836155,
+    "sha256": "45f359bf4575c257292f46ef1d2e1fce45bfb81761725d2a9440cbd2249f9860"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.71.0 - Co-op chat: spelarna kan skicka textmeddelanden over co-op-anslutningen. Plus integrator-sakerhetsnat: PlayMode-test som oppnar varje dator-app och sakrar att den bygger utan krasch."
+  "notes": "Alpha v0.72.0 - Forsta parallella integrationen: Incubation Planner (kons-ratio + dodlighet per temperatur) + Notifications Center (bestaende handelse-flode) + Celebration juice (konfetti + count-up). Tva builders mergade konfliktfritt."
 }

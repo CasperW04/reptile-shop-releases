@@ -15,6 +15,22 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.72.0] - 2026-06-22 — Alpha — "Parallellt skördat: inkubation + notiser 🥚📨"
+
+_Första parallella integrationen: 2 builders (Husbandry + Graphics) levererade samtidigt, mergade konfliktfritt via partial-sömmarna._
+
+### Added
+- **🥚 Incubation Planner** (Builder C/Husbandry) — ny app: välj inkubationstemperatur och se förutsagd
+  kläck-**könsfördelning** (svalare = fler honor, varmare = fler hanar) + **äggdödlighets-risk** (lägst i
+  idealbandet, stiger mot extremerna). Hjälper avelsplanering. Deterministisk `IncubationModel`.
+- **📨 Notifications Center** (Builder D/Graphics) — ny app: ett beständigt, nyast-först-flöde över vad som
+  hänt (försäljningar 💰, kläckningar 🥚, achievements 🏆), capat till senaste 50, sparas mellan sessioner.
+- **🎉 Celebration juice** (Builder D/Graphics) — achievement-upplåsning ger nu en kod-driven konfetti-burst
+  (primitiver, seedade hastigheter, gravitation, auto-despawn) + `CountUpModel` för animerade siffror.
+
+### Tested
+- EditMode 831/831, PlayMode 117/117 på merged main (alla builders' nya tester gröna; noll merge-konflikter).
+
 ## [0.71.0] - 2026-06-22 — Alpha — "Co-op chat 💬"
 
 ### Added
