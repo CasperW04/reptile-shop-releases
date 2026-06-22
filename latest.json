@@ -1,15 +1,15 @@
 {
-  "version": "0.111.0",
-  "tag": "v0.111.0",
+  "version": "0.112.0",
+  "tag": "v0.112.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.111.0/ReptileShop-Windows-v0.111.0.zip",
-    "sizeBytes": 44930535,
-    "sha256": "e351cfbaf63bf8c1870240fe8ca5e07edd3f779a76f08a4092c67e5ed88d54c8"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.112.0/ReptileShop-Windows-v0.112.0.zip",
+    "sizeBytes": 44932344,
+    "sha256": "f469c50039fc034a204e294333e2886f1a1108c4e3cc2b1f10110dfd4840beaf"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.111.0 - Year-end taxes/Tax Center: arlig inkomstskatt med avdrag (margin-ranta, utdelningar) pa progressiv skala. Collection Composition-app: kon/art/kvalitet. Home senaste aktivitet. Builder B + C + D - alla tre i samma release."
+  "notes": "Alpha v0.112.0 - Sektor-ETF:er: tre tematiska indexfonder (RIVL rivals, DIVI dividend, INDU industry) med live-snittpris av bestandsdelarna. Trend-pilar i Analytics. Builder B + D."
 }

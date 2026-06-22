@@ -15,6 +15,19 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.112.0] - 2026-06-22 — Alpha — "Sektor-ETF:er 📊"
+
+### Added
+- **📊 Sektor-ETF:er** (Builder B/Economy) — tre nya **tematiska indexfonder** i Stocks-appen, utöver hela-
+  marknadens RIDX: **RIVL** (Rivals — de fem konkurrent-butikerna), **DIVI** (Dividend — de stabila
+  utdelarna) och **INDU** (Industry — habitat, foder & industri). Varje fonds pris är **live-snittet** av sina
+  beståndsdelar; köp/sälj via portföljen. Lägre-ansträngning, diversifierad exponering vs. enskilda namn.
+- **🔻 Trend-pilar** (Builder D/Graphics) — Analytics "Since start"-raden leder nu med en ▲/▼/— -pil för
+  riktning på ett ögonkast.
+
+### Tested
+- EditMode 1055/1055, PlayMode 171/171 på merged main (EtfModel + trend-pil-tester; konfliktfria merges).
+
 ## [0.111.0] - 2026-06-22 — Alpha — "Årsskatt + samlingsanalys 🧾📊"
 
 ### Added
