@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.119.0] - 2026-06-22 — Alpha — "Nästa-steg-hint 🧭"
+
+### Added
+- **🧭 Onboarding: nästa-steg-hint** (Builder D/Graphics) — Getting Started-checklistan och Home-överblicken
+  pekar nu ut ditt **nästa steg** ("Next: …") så det är tydligt vad du ska göra.
+
+### Tested
+- EditMode 1082/1082, PlayMode 174/174 på merged main (NextIncompleteTitle-tester; konfliktfri merge).
+
 ## [0.118.0] - 2026-06-22 — Alpha — "Hantering + gäst-sök 🤲🔎"
 
 ### Added

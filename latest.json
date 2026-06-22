@@ -1,15 +1,15 @@
 {
-  "version": "0.118.0",
-  "tag": "v0.118.0",
+  "version": "0.119.0",
+  "tag": "v0.119.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.118.0/ReptileShop-Windows-v0.118.0.zip",
-    "sizeBytes": 44944203,
-    "sha256": "291f0cfb0c2eac03c6703d273dad56f41e96f740766725dfe04a74a249f9a8ee"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.119.0/ReptileShop-Windows-v0.119.0.zip",
+    "sizeBytes": 44944516,
+    "sha256": "fe37f03ce56320841821557ab5a5282c74e7dbcfb2c65fbef0cddc4be6b15216"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.118.0 - Handling & Tameness: hantera djur for att bygga tamhet (Skittish till Docile), driver tillbaka om du hoppar dagar. Customer Guide-sok. Builder C + D."
+  "notes": "Alpha v0.119.0 - Onboarding nasta-steg-hint: Getting Started-checklistan och Home pekar ut ditt nasta steg (Next: ...). Builder D."
 }
