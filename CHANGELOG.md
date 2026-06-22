@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.153.0] - 2026-06-23 — Alpha — "Prognos + nya rekord 🔮🏆"
+
+### Added (Builder D/Graphics)
+- **🔮 Milstolpe-prognos i Analytics** — uppskattar när du når nästa förmögenhets-milstolpe utifrån din trend.
+- **🗓️ Relativa dag-etiketter i Forecast** ("Idag/Imorgon/+2d …").
+- **🏆 Nytt-rekord-flagga på Home** — markerar när din nettoförmögenhet slår ett nytt all-time-high.
+
+### Tested
+- EditMode 1252/1252, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.152.0] - 2026-06-23 — Alpha — "Vinst/förlust-streak + räknare 🔥⌨️"
 
 ### Added (Builder D/Graphics)

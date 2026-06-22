@@ -1,15 +1,15 @@
 {
-  "version": "0.152.0",
-  "tag": "v0.152.0",
+  "version": "0.153.0",
+  "tag": "v0.153.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.152.0/ReptileShop-Windows-v0.152.0.zip",
-    "sizeBytes": 46366800,
-    "sha256": "916d41307e48f1a6a434470d1fe26908a168a3016ab735eacef0179c5c213d06"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.153.0/ReptileShop-Windows-v0.153.0.zip",
+    "sizeBytes": 46367280,
+    "sha256": "44471b51fb5b0143185c20f1ce9603af62f484aaccf91a022cdb948e270b7614"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.152.0 - Vinst/forlust-streak pa Home och Analytics (svit av plus/minus-dagar). Binding-antal i Controls. Builder D (batch om 3)."
+  "notes": "Alpha v0.153.0 - Milstolpe-prognos i Analytics (nar du nar nasta mal). Relativa dag-etiketter i Forecast. Nytt-rekord-flagga pa Home. Builder D (batch om 3)."
 }
