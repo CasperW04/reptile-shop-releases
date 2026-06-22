@@ -1,15 +1,15 @@
 {
-  "version": "0.150.0",
-  "tag": "v0.150.0",
+  "version": "0.151.0",
+  "tag": "v0.151.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.150.0/ReptileShop-Windows-v0.150.0.zip",
-    "sizeBytes": 46365696,
-    "sha256": "c6dacd3cc8ab8eb3eb8ac9e8a7168bec2dc5a80d46fac2e8eed2ede2ca4798a3"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.151.0/ReptileShop-Windows-v0.151.0.zip",
+    "sizeBytes": 46365988,
+    "sha256": "41a19e1ca0522440b2693df82fe87756fcee66dc31deab920ac3dfdce6630e9d"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.150.0 - Net-worth tier-badge (prestige-nivaer) + nasta-tier-hint pa Home. Forecast flaggar veckans grovsta dag. Builder D (batch om 3)."
+  "notes": "Alpha v0.151.0 - Kategori-fargade Tips (kort + label). Arketyp-antal i Customer Guide. Builder D (batch om 3)."
 }

@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.151.0] - 2026-06-23 — Alpha — "Tips-färger + gäst-antal 🎨🧑‍🤝‍🧑"
+
+### Added (Builder D/Graphics)
+- **🎨 Kategori-färgade Tips** — Tips-kortet och kategori-etiketten färgas efter kategori (Husbandry/Economy/Breeding/Shop).
+- **🧑‍🤝‍🧑 Arketyp-antal i Customer Guide** — visar hur många kund-arketyper som finns/matchar.
+
+### Tested
+- EditMode 1243/1243, PlayMode 188/188 på merged main (batch om 3; TipsApp-konflikt löst till Builder D:s version).
+
 ## [0.150.0] - 2026-06-23 — Alpha — "Förmögenhets-tier + väder-varning 👑⚠️"
 
 ### Added (Builder D/Graphics)
