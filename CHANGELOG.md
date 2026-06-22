@@ -15,6 +15,20 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.71.0] - 2026-06-22 — Alpha — "Co-op chat 💬"
+
+### Added
+- **💬 Co-op chat** — spelarna kan skicka korta textmeddelanden till varandra över co-op-anslutningen
+  (`SendChat`/`OnChatReceived` på både host och klient, via samma transport-söm). Grunden för att
+  kommunicera i delad butik.
+
+### Changed (infra)
+- **Integrator-säkerhetsnät**: ett PlayMode-test öppnar nu VARJE registrerad dator-app och säkrar att den
+  bygger sitt fönster utan krasch — fångar en trasig app från någon parallell builder före release.
+
+### Tested
+- EditMode 822/822 (chat åt båda håll, tom chat ignoreras), PlayMode 112/112 (alla ~28 appar bygger fönster).
+
 ## [0.70.1] - 2026-06-22 — Alpha — "Save-bakåtkompat 💾"
 
 ### Added (infra)

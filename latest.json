@@ -1,15 +1,15 @@
 {
-  "version": "0.70.1",
-  "tag": "v0.70.1",
+  "version": "0.71.0",
+  "tag": "v0.71.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.70.1/ReptileShop-Windows-v0.70.1.zip",
-    "sizeBytes": 44830713,
-    "sha256": "31a4f4eff33a9cc22d5b8f97c96aed42f352c9f953951ff21df6d91cfc9d2323"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.71.0/ReptileShop-Windows-v0.71.0.zip",
+    "sizeBytes": 44830480,
+    "sha256": "e5e7c6fbef3895ed3139f30e14c53b4d17b3806e5054cf028f9ad8a983b17370"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.70.1 - Bakatkompatibilitets-guard: saves skapade innan en feature fanns laddar anda utan krasch med sakra tomma defaults. Satter kontraktet for parallella builders nya falt."
+  "notes": "Alpha v0.71.0 - Co-op chat: spelarna kan skicka textmeddelanden over co-op-anslutningen. Plus integrator-sakerhetsnat: PlayMode-test som oppnar varje dator-app och sakrar att den bygger utan krasch."
 }
