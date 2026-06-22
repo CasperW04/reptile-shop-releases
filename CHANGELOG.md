@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.135.0] - 2026-06-22 — Alpha — "Screener + Matchmaker + app-headers 🔎💞🪧"
+
+### Added
+- **🔎 Stock screener & watchlist** (Builder B/Economy) — filtrera/sortera aktier och spara en bevakningslista.
+- **💞 Breeding Matchmaker** (Builder C/Husbandry) — rankade outcross-förslag som undviker inavel och maxar morf-utfall.
+- **🪧 Konsekventa app-headers** (Builder D/Graphics) — delad accent-understruken header över dator-apparna.
+
+### Tested
+- EditMode 1213/1213, PlayMode 182/182 på merged main.
+
 ## [0.134.0] - 2026-06-22 — Alpha — "Sparmål + ihågkommet intervall 🎯💾"
 
 ### Added

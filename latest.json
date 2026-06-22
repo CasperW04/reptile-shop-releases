@@ -1,15 +1,15 @@
 {
-  "version": "0.134.0",
-  "tag": "v0.134.0",
+  "version": "0.135.0",
+  "tag": "v0.135.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.134.0/ReptileShop-Windows-v0.134.0.zip",
-    "sizeBytes": 46350854,
-    "sha256": "f1453b89ae9d30540d5d242aa74b6aef5e414e5486eaae469750f2b227ef7222"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.135.0/ReptileShop-Windows-v0.135.0.zip",
+    "sizeBytes": 46354656,
+    "sha256": "9350b73498f346ea496aeea58d5b7550f83e42b953986fe38529d289e5ce0af4"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.134.0 - Sparmal/budget-kuvert (B). Analytics kommer ihag 7d/All-intervallet (D). BreedingGoal-test-hardning (C)."
+  "notes": "Alpha v0.135.0 - Stock screener and watchlist (B). Breeding Matchmaker rankade outcross-forslag (C). Konsekventa accent-understrukna app-headers (D)."
 }
