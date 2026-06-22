@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.147.0] - 2026-06-22 — Alpha — "Home: count-up 🔢"
+
+### Added
+- **🔢 Net-worth count-up när Home öppnas** (Builder D/Graphics) — nettoförmögenheten räknas upp animerat när du öppnar Home.
+
+### Tested
+- EditMode 1237/1237, PlayMode 187/187 på merged main.
+
 ## [0.146.0] - 2026-06-22 — Alpha — "Home-ikon + dagar-spårade 🌅📊"
 
 ### Added
