@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.105.0] - 2026-06-22 — Alpha — "Hälsning på Home 👋"
+
+### Added
+- **👋 Home: tid-på-dygnet-hälsning** (Builder D/Graphics) — Home-appen hälsar dig nu efter tid på dygnet
+  ("Good morning / afternoon / evening / night") under headern.
+
+### Tested
+- EditMode 1010/1010, PlayMode 165/165 på merged main (hälsning väljer rätt dygnsdel vid varje gräns; konfliktfri merge).
+
 ## [0.104.0] - 2026-06-22 — Alpha — "Miljööverblick + swatches 🏝🎨"
 
 ### Added

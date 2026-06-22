@@ -1,15 +1,15 @@
 {
-  "version": "0.104.0",
-  "tag": "v0.104.0",
+  "version": "0.105.0",
+  "tag": "v0.105.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.104.0/ReptileShop-Windows-v0.104.0.zip",
-    "sizeBytes": 44913778,
-    "sha256": "637f5b2e065f5417269bdd5a4826d79f67fc23268ff0b6c4a22413463b141188"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.105.0/ReptileShop-Windows-v0.105.0.zip",
+    "sizeBytes": 44914145,
+    "sha256": "311d75e49e839f40a59e489a2b01d53b139887e55d6e9164a49fb8b89661378a"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.104.0 - Environment Overview: per-terrarium halso-betyg som vager ihop temperatur, luftfuktighet och substrat med svagaste-aspekt-varning. Display accent-swatch-preview. Builder C + D."
+  "notes": "Alpha v0.105.0 - Home-appen halsar efter tid pa dygnet (Good morning/afternoon/evening/night). Builder D."
 }
