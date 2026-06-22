@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.100.0] - 2026-06-22 — Alpha — "Färgkodade notiser 🎨"
+
+### Added
+- **🎨 Färgkodade notis-rader** (Builder D/Graphics) — varje notis-rad har nu en färg-stripe efter typ —
+  försäljningar gröna, kläckningar blå, achievements guld — för snabbare överblick.
+
+### Tested
+- EditMode 991/991, PlayMode 160/160 på merged main (kända typer → distinkta färger, okänd/null → default; konfliktfri merge).
+
+_Versionsnot: minor klättrar förbi 99 till 100 (0.100.0 > 0.99.0 numeriskt) — major förblir 0, aldrig 1.0._
+
 ## [0.99.0] - 2026-06-22 — Alpha — "Substrat + väder hemma 🪵🌤️"
 
 ### Added
