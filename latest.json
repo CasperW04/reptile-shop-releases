@@ -1,15 +1,15 @@
 {
-  "version": "0.139.0",
-  "tag": "v0.139.0",
+  "version": "0.140.0",
+  "tag": "v0.140.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.139.0/ReptileShop-Windows-v0.139.0.zip",
-    "sizeBytes": 46361885,
-    "sha256": "759196be3ea708586025d11af776b1d2bed1e48ec9425b1ed31069c2de54ba5f"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.140.0/ReptileShop-Windows-v0.140.0.zip",
+    "sizeBytes": 46363386,
+    "sha256": "84c989b8514a9f7be5858c25e299ecd55d8cc6e561e96b333c2805d68d9fddbd"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.139.0 - Shopping List: samlad inkopslista for foder och substrat baserad pa vad samlingen behover. Builder C."
+  "notes": "Alpha v0.140.0 - Economic calendar over kommande pengar-handelser (B). Forecast rough-days-summering (D)."
 }

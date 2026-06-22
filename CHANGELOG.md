@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.140.0] - 2026-06-22 — Alpha — "Ekonomisk kalender + väder-summering 📅⛈️"
+
+### Added
+- **📅 Economic calendar** (Builder B/Economy) — en kalender över kommande pengar-händelser (skatter, utdelningar, ränte-beslut) så du kan planera.
+- **⛈️ Forecast: rough-days-summering** (Builder D/Graphics) — Forecast sammanfattar hur många tuffa väderdagar som väntar.
+
+### Tested
+- EditMode 1234/1234, PlayMode 184/184 på merged main.
+
 ## [0.139.0] - 2026-06-22 — Alpha — "Inköpslista 🛒"
 
 ### Added
