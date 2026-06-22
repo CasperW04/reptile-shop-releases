@@ -15,6 +15,17 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.39.1] - 2026-06-22 — Alpha — "Co-op: fjärr-avatar 🧍"
+
+### Added
+- **🧍 Co-op fjärr-avatar (Milstolpe 3b/5)** — `RemoteAvatarView` driver den andra spelarens kropp i världen
+  från den interpolerade nätverks-posen: position, riktning och gå/står-flagga. Rörelsen är jämn tack vare
+  interpolatorn. Den synliga riggade modellen (CC0) kopplas på vid live-anslutning; den här delen äger
+  rörelsen och är PlayMode-verifierad.
+
+### Tested
+- EditMode 729/729, PlayMode 89/89 (Transform följer interpolerad pose: position/rotation/rörelse-flagga; når mål-pose i slutet av fönstret).
+
 ## [0.39.0] - 2026-06-22 — Alpha — "Co-op: avatar-sync 🚶"
 
 ### Added

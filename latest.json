@@ -1,15 +1,15 @@
 {
-  "version": "0.39.0",
-  "tag": "v0.39.0",
+  "version": "0.39.1",
+  "tag": "v0.39.1",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.39.0/ReptileShop-Windows-v0.39.0.zip",
-    "sizeBytes": 44783694,
-    "sha256": "6e787851b6516293928acb478ed3983253befe81811c7eb77aa18de21e6469a7"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.39.1/ReptileShop-Windows-v0.39.1.zip",
+    "sizeBytes": 44786569,
+    "sha256": "98abf9d6d14498ab00de5d41bb6638a171828298af7cbea00598158ef9353f27"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.39.0 - Co-op avatar-sync (M3a/5): protokoll for att se varandra rora sig. AvatarState skickas mellan spelarna och en interpolator mjukar ut rorelsen sa den andra spelaren glider istallet for att hoppa."
+  "notes": "Alpha v0.39.1 - Co-op fjarr-avatar (M3b/5): RemoteAvatarView driver andra spelarens kropp i varlden fran den interpolerade posen (position, riktning, ga/star). Mjuk rorelse. Patch-release (delsteg)."
 }
