@@ -1,15 +1,15 @@
 {
-  "version": "0.112.0",
-  "tag": "v0.112.0",
+  "version": "0.113.0",
+  "tag": "v0.113.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.112.0/ReptileShop-Windows-v0.112.0.zip",
-    "sizeBytes": 44932344,
-    "sha256": "f469c50039fc034a204e294333e2886f1a1108c4e3cc2b1f10110dfd4840beaf"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.113.0/ReptileShop-Windows-v0.113.0.zip",
+    "sizeBytes": 44935332,
+    "sha256": "488088e1d513debfa38c9e6cd6159231a4e70154a0c794b92cabc957ced95b02"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.112.0 - Sektor-ETF:er: tre tematiska indexfonder (RIVL rivals, DIVI dividend, INDU industry) med live-snittpris av bestandsdelarna. Trend-pilar i Analytics. Builder B + D."
+  "notes": "Alpha v0.113.0 - Quarantine Intake-app: karantan-checklista (observera/avmaska/vag) for nya djur innan de rensas in. Analytics snitt-per-dag med trend-pil. Builder C + D."
 }

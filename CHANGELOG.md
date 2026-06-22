@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.113.0] - 2026-06-22 — Alpha — "Karantän-intag + snitt/dag 🧾📈"
+
+### Added
+- **🧾 Quarantine Intake** (Builder C/Husbandry) — ny **Intake**-app: en karantän-checklista för nyförvärvade
+  djur — **observera, avmaska, väg** — och vänta ut karantänperioden innan de **rensas** in i samlingen.
+  Deterministisk `IntakeModel`, per-djur, prunas vid försäljning.
+- **📈 Analytics: snitt per dag** (Builder D/Graphics) — Analytics visar **genomsnittlig nettoförmögenhets-
+  förändring per dag** över vald period (med trend-pil).
+
+### Tested
+- EditMode 1061/1061, PlayMode 172/172 på merged main (5 nya IntakeModel-tester + snitt/dag; konfliktfria merges).
+
 ## [0.112.0] - 2026-06-22 — Alpha — "Sektor-ETF:er 📊"
 
 ### Added
