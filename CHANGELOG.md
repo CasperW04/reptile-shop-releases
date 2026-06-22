@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.86.0] - 2026-06-22 — Alpha — "Foderkoloni + himmel 🦗🌇"
+
+### Added
+- **🦗 Feeder Colony** (Builder C/Husbandry) — ny app: håll ett levande foderlager som **förökar sig ~5%/dag**
+  men äts av djuren (ett foder per djur per dag). **Restocka** (+50/+200) för att ligga steget före — en tom
+  koloni gör djuren hungriga och de tappar kroppskondition. Vävs ihop med kroppskondition-systemet.
+- **🌇 Tidsstyrd himmelston** (Builder D/Graphics) — kamerans bakgrund skiftar nu färg genom dygnet (djup
+  natt-blå → varm gryning → ljus middag → orange skymning), driven av spelklockan (vid solid bakgrundsfärg).
+
+### Tested
+- EditMode 925/925, PlayMode 143/143 på merged main (6 nya FeederModel-tester + SkyTint-interpolation; konfliktfria merges).
+
 ## [0.85.0] - 2026-06-22 — Alpha — "Veterinärklinik + tooltips 🩺💬"
 
 ### Added
