@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.118.0] - 2026-06-22 — Alpha — "Hantering + gäst-sök 🤲🔎"
+
+### Added
+- **🤲 Handling & Tameness** (Builder C/Husbandry) — ny **Handling**-app: hantera djur för att bygga deras
+  **tamhet** (Skittish → Tolerant → Tame → Docile) en gång per dag; hoppa över dagar och den driver tillbaka.
+  Deterministisk `TamenessModel`, per-djur daglig decay, prunas vid försäljning.
+- **🔎 Customer Guide-sök** (Builder D/Graphics) — Customer Guide får en sökruta som filtrerar arketyper på
+  namn eller beskrivning.
+
+### Tested
+- EditMode 1081/1081, PlayMode 174/174 på merged main (4 nya TamenessModel-tester + gäst-sök; konfliktfria merges).
+
 ## [0.117.0] - 2026-06-22 — Alpha — "Kapitalprojekt 📈"
 
 ### Added
