@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.87.0] - 2026-06-22 — Alpha — "Notis-sökning 🔎"
+
+### Added
+- **🔎 Notis-sökning** (Builder D/Graphics) — Notifications-flödet får en **sökruta** som live-filtrerar
+  poster på text (skiftlägesokänsligt), kombinerat med de befintliga typ-chipsen.
+
+### Tested
+- EditMode 928/928, PlayMode 143/143 på merged main (sökning skiftlägesokänslig + kombinerar med typ; konfliktfri merge).
+
 ## [0.86.0] - 2026-06-22 — Alpha — "Foderkoloni + himmel 🦗🌇"
 
 ### Added

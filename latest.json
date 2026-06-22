@@ -1,15 +1,15 @@
 {
-  "version": "0.86.0",
-  "tag": "v0.86.0",
+  "version": "0.87.0",
+  "tag": "v0.87.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.86.0/ReptileShop-Windows-v0.86.0.zip",
-    "sizeBytes": 44882525,
-    "sha256": "b40ac939c956abe9b6aa4d7583a8b29b9d48af9fb063408919b2baed07fc5042"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.87.0/ReptileShop-Windows-v0.87.0.zip",
+    "sizeBytes": 44882824,
+    "sha256": "3d756565a986c6e45027053ecd19b396d5feac1dfc3b21a1a343cda0e81dd2a1"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.86.0 - Feeder Colony: levande foderlager som forokar sig men ats av djuren, restocka for att undvika hunger. Tidsstyrd himmelston genom dygnet. Builder C + D."
+  "notes": "Alpha v0.87.0 - Notis-sokning: sokruta som live-filtrerar notis-flodet pa text, kombinerat med typ-chips. Builder D."
 }
