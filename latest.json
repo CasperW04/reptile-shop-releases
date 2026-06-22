@@ -1,15 +1,15 @@
 {
-  "version": "0.125.0",
-  "tag": "v0.125.0",
+  "version": "0.126.0",
+  "tag": "v0.126.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.125.0/ReptileShop-Windows-v0.125.0.zip",
-    "sizeBytes": 44955671,
-    "sha256": "2f2914e3e94da19ac497a9024085be8717bd8897adf2d5ea7b013b6bad1e0a32"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.126.0/ReptileShop-Windows-v0.126.0.zip",
+    "sizeBytes": 45767154,
+    "sha256": "01441ba687892f91be31d4c86d003d0bb9978456ea15c3af0991a85f967f3591"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.125.0 - Nivaindelad portfolj-forsakring (Basic/Standard/Premium). Skotsel-atgarder (hantering/vet/matning) ger Keeper-XP. Forecast vader-svarighetsfarger. Builder B + C + D."
+  "notes": "Alpha v0.126.0 - ASSET-OMTAG: 330 riktiga manniskogjorda CC0-modeller (Kenney Furniture + Nature Kit, public domain) ar nu kop/placerbara i bygg-menyn - ersatter procedur-genererad geometri. Plus VIP Club (B) + Home vaderfarg (D). Font/ikoner/UI-kit foljer."
 }

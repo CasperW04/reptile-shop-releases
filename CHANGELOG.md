@@ -15,6 +15,25 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.126.0] - 2026-06-22 — Alpha — "330 människo-gjorda CC0-modeller 🪑🌿"
+
+### Added — Asset-omtag (människo-gjort, gratis)
+- **🪑🌿 330 nya CC0-modeller i spelet** — riktiga, **människo-gjorda** möbler- & natur-modeller (Kenney
+  Furniture Kit + Nature Kit, **CC0 / public domain**) är nu köp- och placerbara dekor-objekt i bygg-menyn.
+  Ersätter beroendet av procedur-genererad geometri med professionella, fritt licensierade assets. Laddas via
+  `Resources/Shop/cc0/` med auto-genererad katalog. Attribution + pipeline i `Assets/Art/Resources/Shop/cc0/`
+  och `tools/assets/`. _(Första steget av asset-omtaget: font, ikoner, UI-kit och utbyte av de gamla
+  gen_*.py-modellerna följer.)_
+- **⭐ VIP Club** (Builder B/Economy) — ny app: lås upp en medlemsnivå (Bronze/Silver/Gold) för en
+  engångskostnad och tjäna **återkommande daglig inkomst** från medlemsavgifter; varje kort visar payback-tid.
+- **🌦️ Home: färgat dagsväder** (Builder D/Graphics) — Home:s "Today"-rad färgar vädret efter svårighet.
+
+### Fixed (integrator)
+- Save-round-trip-klocktestet är nu fullt deterministiskt (asserterar på laddat persisterat värde på både save- och load-sidan).
+
+### Tested
+- EditMode 1131/1131, PlayMode 178/178 på merged main (330 glb importerade via glTF + katalog; alla modellnycklar upplöses).
+
 ## [0.125.0] - 2026-06-22 — Alpha — "Försäkrings-nivåer + Keeper-XP 🛡️🎖"
 
 ### Added
