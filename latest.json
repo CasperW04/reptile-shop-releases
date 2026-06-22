@@ -1,15 +1,15 @@
 {
-  "version": "0.143.0",
-  "tag": "v0.143.0",
+  "version": "0.144.0",
+  "tag": "v0.144.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.143.0/ReptileShop-Windows-v0.143.0.zip",
-    "sizeBytes": 46363726,
-    "sha256": "66c4416baf7187387f4b5221ff5ff64e73271976b836033c34515380600e0158"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.144.0/ReptileShop-Windows-v0.144.0.zip",
+    "sizeBytes": 46364079,
+    "sha256": "375944f0d585f7c0942fd4ec76a4c706c2f8f8e266e1dc3c72e3600d770df598"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.143.0 - Tips-appen far Previous-knapp for att bladdra at bada hall. Builder D."
+  "notes": "Alpha v0.144.0 - Notis-rader markeras subtilt vid hovring. Builder D."
 }

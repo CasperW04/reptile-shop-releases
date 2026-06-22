@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.144.0] - 2026-06-22 — Alpha — "Hover-highlight på notiser ✨"
+
+### Added
+- **✨ Hover-highlight på notis-rader** (Builder D/Graphics) — notis-rader markeras subtilt vid pekare-hovring.
+
+### Tested
+- EditMode 1236/1236, PlayMode 186/186 på merged main.
+
 ## [0.143.0] - 2026-06-22 — Alpha — "Tips: bläddra bakåt 💡"
 
 ### Added
