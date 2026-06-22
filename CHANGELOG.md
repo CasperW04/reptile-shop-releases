@@ -15,6 +15,18 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.91.0] - 2026-06-22 — Alpha — "Stud Service + rensa notiser ♂🧹"
+
+### Added
+- **♂ Stud Service** (Builder C/Husbandry) — ny app: lista dina **beprövade hanar** för betalda avels-lån.
+  Listade hanar drar då och då stud-förfrågningar som betalar en **kvalitets-skalad avgift** — en passiv
+  inkomstström. Livstidsintäkt spåras. `StudModule` processar förfrågningar dagligen (avlistar sålda hanar).
+- **🧹 Rensa notiser** (Builder D/Graphics) — en **Clear**-knapp i notis-flödet tömmer historiken och
+  nollställer olästa-badgen.
+
+### Tested
+- EditMode 951/951, PlayMode 151/151 på merged main (6 nya StudModel-tester + clear-all; konfliktfria merges).
+
 ## [0.90.0] - 2026-06-22 — Alpha — "Avelsmål + knapp-känsla 🎯🔘"
 
 ### Added
