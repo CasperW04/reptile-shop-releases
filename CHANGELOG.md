@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.166.0] - 2026-06-23 — Alpha — "Home-dygn + 6-dagars väder 🕑🌤️"
+
+### Added (Builder D/Graphics)
+- **🕑 In-game-klocka + ⏳ dag-progress-bar på Home** — med tooltip som visar hur mycket av dagen som är kvar.
+- **🌤️ 6-dagars väder-remsa på Home** — en kompakt prognos-överblick direkt på startsidan.
+- **🎉 Onboarding-slutförande fadar in** när alla steg är klara.
+
+### Tested
+- EditMode 1271/1271, PlayMode 188/188 på merged main (batch om 5).
+
 ## [0.165.0] - 2026-06-23 — Alpha — "Tillväxt-multipel + reset-tooltip 📈💬"
 
 ### Added (Builder D/Graphics)

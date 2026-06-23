@@ -1,15 +1,15 @@
 {
-  "version": "0.165.0",
-  "tag": "v0.165.0",
+  "version": "0.166.0",
+  "tag": "v0.166.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.165.0/ReptileShop-Windows-v0.165.0.zip",
-    "sizeBytes": 46371982,
-    "sha256": "2d9fb3735048a4c148fa92566f17ad4448b22e14c000018237d6f631d66bfb46"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.166.0/ReptileShop-Windows-v0.166.0.zip",
+    "sizeBytes": 46372712,
+    "sha256": "4fef76d503ba16689303e31d7d2da3a0fa56be42ee4f7b0fa5749fd991b88533"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.165.0 - Tillvaxt-multipel i Analytics och pa Home (hur manga ganger formogenheten vuxit). Tooltip pa Display-reset-knappen. Builder D (batch om 3)."
+  "notes": "Alpha v0.166.0 - In-game-klocka och dag-progress-bar pa Home (med tids-tooltip). 6-dagars vader-remsa. Onboarding-slutforande fadar in. Builder D (batch om 5)."
 }
