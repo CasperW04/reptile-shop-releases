@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.169.0] - 2026-06-23 — Alpha — "Vecko-takt + under-topp 📅📉"
+
+### Added (Builder D/Graphics)
+- **📅 Vecko-takt-prognos i Analytics** — uppskattad förmögenhets-tillväxt per vecka.
+- **📉 Under-topp-gap på Home** — hur långt under ditt all-time-high du ligger.
+- **✨ Kaskad-fade på Onboarding-stegen.**
+
+### Tested
+- EditMode 1273/1273, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.168.0] - 2026-06-23 — Alpha — "Kaskad-fade + upp-dagar 📊✨"
 
 ### Added (Builder D/Graphics)

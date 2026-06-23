@@ -1,15 +1,15 @@
 {
-  "version": "0.168.0",
-  "tag": "v0.168.0",
+  "version": "0.169.0",
+  "tag": "v0.169.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.168.0/ReptileShop-Windows-v0.168.0.zip",
-    "sizeBytes": 46373093,
-    "sha256": "fcf6dc468804890a5ff5ab29608c984370503ff3d1f823252199561698a211c0"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.169.0/ReptileShop-Windows-v0.169.0.zip",
+    "sizeBytes": 46373459,
+    "sha256": "b554404fb197606c427c529d20357b65ebba2556f5adc0def267f589cbc5d895"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.168.0 - Upp-dagar-andel i Analytics. Kaskad-fade pa Customer Guide- och Notifications-rader. Builder D (batch om 3)."
+  "notes": "Alpha v0.169.0 - Vecko-takt-prognos i Analytics. Under-topp-gap pa Home. Kaskad-fade pa Onboarding-stegen. Builder D (batch om 3)."
 }
