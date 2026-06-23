@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.158.0] - 2026-06-23 — Alpha — "Home-mix + trend-ord + notis-räkning 🥧📈🧮"
+
+### Added (Builder D/Graphics)
+- **🥧 Mini asset-mix-bar på Home** — en kompakt stapel som visar din tillgångs-fördelning i sammandrag.
+- **📈 Trend-ord på Home** — samma kvalitativa trend-beskrivning som Analytics, nu på startsidan.
+- **🧮 Livstids-räkning per typ i Notifications** — visar hur många notiser du fått av varje slag.
+
+### Tested
+- EditMode 1255/1255, PlayMode 188/188 på merged main (batch om 3; HomeApp-konflikt löst till Builder D:s version).
+
 ## [0.157.0] - 2026-06-23 — Alpha — "Trend i ord + fler fade-ins 📈✨"
 
 ### Added (Builder D/Graphics)

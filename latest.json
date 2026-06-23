@@ -1,15 +1,15 @@
 {
-  "version": "0.157.0",
-  "tag": "v0.157.0",
+  "version": "0.158.0",
+  "tag": "v0.158.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.157.0/ReptileShop-Windows-v0.157.0.zip",
-    "sizeBytes": 46368497,
-    "sha256": "301c7b916383b51a90dddc11d29e05760087c4ac55bb699b6924d53e09b1ac4b"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.158.0/ReptileShop-Windows-v0.158.0.zip",
+    "sizeBytes": 46369102,
+    "sha256": "7b951615d9db4df56f02adfd19384f1f9d14e8d1e5fb22b07ab330137c8bd27c"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.157.0 - Kvalitativt trend-ord i Analytics (Stark uppgang/Stabilt/Nedgang). Fade-in pa Customer Guide-kort och Onboarding-steg. Builder D (batch om 3)."
+  "notes": "Alpha v0.158.0 - Mini asset-mix-bar och trend-ord pa Home. Livstids-rakning per typ i Notifications. Builder D (batch om 3)."
 }
