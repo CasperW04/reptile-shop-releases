@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.183.0] - 2026-06-23 — Alpha — "Typisk ner-dag + win/loss-ratio 📉⚖️"
+
+### Added (Builder D/Graphics)
+- **📉 Typisk-ner-dag-stat + ⚖️ win/loss-storleks-ratio i Analytics** — hur stora dina förlust-dagar är och förhållandet vinst/förlust.
+- **🎨 Färgad dominant-tillgång på Home** — namnet får kategori-färg.
+
+### Tested
+- EditMode 1287/1287, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.182.0] - 2026-06-23 — Alpha — "Percentil + typisk dag 📊📈"
 
 ### Added (Builder D/Graphics)
