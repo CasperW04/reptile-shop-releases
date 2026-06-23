@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.171.0] - 2026-06-23 — Alpha — "Bästa-streak + sektioner 🔥📐"
+
+### Added (Builder D/Graphics)
+- **🔥 Bästa upp-streak i Analytics** — din längsta svit av plus-dagar hittills.
+- **📐 Sektions-avdelare på Home** (mellan finans och väder).
+- **🌀 Vecko-karaktär-rad i Forecast** — beskriver hur varierat veckans väder är.
+
+### Tested
+- EditMode 1276/1276, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.170.0] - 2026-06-23 — Alpha — "Analytics-fördjupning 📊🚀"
 
 ### Added (Builder D/Graphics)

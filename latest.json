@@ -1,15 +1,15 @@
 {
-  "version": "0.170.0",
-  "tag": "v0.170.0",
+  "version": "0.171.0",
+  "tag": "v0.171.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.170.0/ReptileShop-Windows-v0.170.0.zip",
-    "sizeBytes": 46373457,
-    "sha256": "b689b7aaaa600fa91d5fb2444909fc83e79ee5bf985100ddd3abdda38b1680e0"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.171.0/ReptileShop-Windows-v0.171.0.zip",
+    "sizeBytes": 46373841,
+    "sha256": "30302ea841905aa6de7bae6948e39c47f9d7562db8c27a65a78407906255f707"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.170.0 - Konsistens-ord pa upp-dagar, momentum-indikator och sektions-avdelare i Analytics. Builder D (batch om 3)."
+  "notes": "Alpha v0.171.0 - Basta upp-streak i Analytics. Sektions-avdelare pa Home. Vecko-karaktar-rad i Forecast. Builder D (batch om 3)."
 }
