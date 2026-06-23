@@ -15,6 +15,14 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.184.0] - 2026-06-23 — Alpha — "Färgad vecko-karaktär 🎨"
+
+### Added (Builder D/Graphics)
+- **🎨 Färgad vecko-karaktär-rad i Forecast** — beskrivningen av veckans väder får en färgnyans efter hur varierat det är.
+
+### Tested
+- EditMode 1287/1287, PlayMode 188/188 på merged main.
+
 ## [0.183.0] - 2026-06-23 — Alpha — "Typisk ner-dag + win/loss-ratio 📉⚖️"
 
 ### Added (Builder D/Graphics)

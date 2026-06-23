@@ -1,15 +1,15 @@
 {
-  "version": "0.183.0",
-  "tag": "v0.183.0",
+  "version": "0.184.0",
+  "tag": "v0.184.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.183.0/ReptileShop-Windows-v0.183.0.zip",
-    "sizeBytes": 46377860,
-    "sha256": "34343b26ec91ff17903b1ff1d238911925858f522920515479fb6102d08eacd5"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.184.0/ReptileShop-Windows-v0.184.0.zip",
+    "sizeBytes": 46377912,
+    "sha256": "b1c05ace4049bd65a5021c162b20d2e02647687e617b4261d73092d602430621"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.183.0 - Typisk-ner-dag-stat och win/loss-storleks-ratio i Analytics. Fargad dominant-tillgang pa Home. Builder D (batch om 3)."
+  "notes": "Alpha v0.184.0 - Fargad vecko-karaktar-rad i Forecast. Builder D."
 }
