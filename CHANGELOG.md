@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.165.0] - 2026-06-23 — Alpha — "Tillväxt-multipel + reset-tooltip 📈💬"
+
+### Added (Builder D/Graphics)
+- **📈 Tillväxt-multipel i Analytics & på Home** — visar hur många gånger din förmögenhet vuxit sedan start (t.ex. "3.4×").
+- **💬 Tooltip på Display-reset-knappen** — förklarar att den återställer temat.
+
+### Tested
+- EditMode 1268/1268, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.164.0] - 2026-06-23 — Alpha — "Tier-progress + trend-emoji 📊🚀"
 
 ### Added (Builder D/Graphics)
