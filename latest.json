@@ -1,15 +1,15 @@
 {
-  "version": "0.163.0",
-  "tag": "v0.163.0",
+  "version": "0.164.0",
+  "tag": "v0.164.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.163.0/ReptileShop-Windows-v0.163.0.zip",
-    "sizeBytes": 46371374,
-    "sha256": "7b403e74694c3d15757b16624bc6f3b2e66b9da7a10153ebe621d730802d39cb"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.164.0/ReptileShop-Windows-v0.164.0.zip",
+    "sizeBytes": 46371655,
+    "sha256": "f78b49c20f41291ca5c2e6c9159fe463da5ceec2ce57c748664d82df6ae91a6e"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.163.0 - Showing N of M i filtrerade Controls och Customer Guide. Tips-kortet fadar in vid bladdring. Builder D (batch om 3)."
+  "notes": "Alpha v0.164.0 - Tier-progress-bar pa Home. Trend-emoji i Analytics och Home. Per-dag vader-tooltips i Forecast. Builder D (batch om 3)."
 }

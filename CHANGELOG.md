@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.164.0] - 2026-06-23 — Alpha — "Tier-progress + trend-emoji 📊🚀"
+
+### Added (Builder D/Graphics)
+- **📊 Tier-progress-bar på Home** — visuell stapel mot nästa prestige-nivå.
+- **🚀 Trend-emoji i Analytics & Home** — en emoji speglar trend-riktningen (📈/➡️/📉).
+- **💬 Per-dag väder-tooltips i Forecast** — hovra en dag för dess råd.
+
+### Tested
+- EditMode 1267/1267, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.163.0] - 2026-06-23 — Alpha — "Filter-räknare överallt + Tips-fade 🔢✨"
 
 ### Added (Builder D/Graphics)
