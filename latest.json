@@ -1,15 +1,15 @@
 {
-  "version": "0.180.0",
-  "tag": "v0.180.0",
+  "version": "0.181.0",
+  "tag": "v0.181.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.180.0/ReptileShop-Windows-v0.180.0.zip",
-    "sizeBytes": 46376802,
-    "sha256": "fe5f249518acaeaaa6d089a59374c8c99eab8d94a654e73000d1d5df961a5b79"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.181.0/ReptileShop-Windows-v0.181.0.zip",
+    "sizeBytes": 46377064,
+    "sha256": "21daa1785de894fab4a9c02e81168a9a604463cb88eab31055b40312da8a51e8"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.180.0 - Netto-vinst-sedan-start, nuvarande-vs-snitt och upp/ner-dag-rakning i Analytics. Builder D (batch om 3)."
+  "notes": "Alpha v0.181.0 - Exakt daglig-forandring och tier-bar-progress pa Home vid hovring. Dominant-tillgang-callout pa Home. Builder D (batch om 3)."
 }
