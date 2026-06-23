@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.182.0] - 2026-06-23 — Alpha — "Percentil + typisk dag 📊📈"
+
+### Added (Builder D/Graphics)
+- **📊 Percentil-rang i Analytics** — var dagens förmögenhet ligger i sin egen historik.
+- **📈 Typisk-upp-dag-stat i Analytics** — snitt-vinst en plus-dag.
+- **🗓️ Denna-vecka-räknare i Notifications** + **💬 kvar-till-milstolpe-tooltip på Home.**
+
+### Tested
+- EditMode 1286/1286, PlayMode 188/188 på merged main (batch om 4).
+
 ## [0.181.0] - 2026-06-23 — Alpha — "Home-tooltips + dominant tillgång 💬🥇"
 
 ### Added (Builder D/Graphics)

@@ -1,15 +1,15 @@
 {
-  "version": "0.181.0",
-  "tag": "v0.181.0",
+  "version": "0.182.0",
+  "tag": "v0.182.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.181.0/ReptileShop-Windows-v0.181.0.zip",
-    "sizeBytes": 46377064,
-    "sha256": "21daa1785de894fab4a9c02e81168a9a604463cb88eab31055b40312da8a51e8"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.182.0/ReptileShop-Windows-v0.182.0.zip",
+    "sizeBytes": 46377614,
+    "sha256": "912a278848c47942a7a10bfc70e09c4e41e2c444ceb1f12346ba47f1a8a4ff79"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.181.0 - Exakt daglig-forandring och tier-bar-progress pa Home vid hovring. Dominant-tillgang-callout pa Home. Builder D (batch om 3)."
+  "notes": "Alpha v0.182.0 - Percentil-rang och typisk-upp-dag-stat i Analytics. Denna-vecka-raknare i Notifications. Kvar-till-milstolpe-tooltip pa Home. Builder D (batch om 4)."
 }
