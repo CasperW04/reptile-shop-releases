@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.170.0] - 2026-06-23 — Alpha — "Analytics-fördjupning 📊🚀"
+
+### Added (Builder D/Graphics)
+- **📊 Konsistens-ord på upp-dagar** — beskriver hur jämn din vinst-frekvens är.
+- **🚀 Momentum-indikator i Analytics** — om trenden accelererar eller mattas.
+- **📐 Sektions-avdelare i Analytics** — tydligare gruppering av nyckeltalen.
+
+### Tested
+- EditMode 1275/1275, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.169.0] - 2026-06-23 — Alpha — "Vecko-takt + under-topp 📅📉"
 
 ### Added (Builder D/Graphics)
