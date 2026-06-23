@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.174.0] - 2026-06-23 — Alpha — "Värde-spann + sämsta-svit 📏🥶"
+
+### Added (Builder D/Graphics)
+- **📏 Värde-spann i Analytics** — högsta och lägsta förmögenhet under perioden.
+- **🥶 Sämsta ner-svit i Analytics** — din längsta följd av minus-dagar.
+- **✨ Display-panelen fadar in.**
+
+### Tested
+- EditMode 1278/1278, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.173.0] - 2026-06-23 — Alpha — "Fördubblings-tid + sentiment-färg ⏳🎨"
 
 ### Added (Builder D/Graphics)

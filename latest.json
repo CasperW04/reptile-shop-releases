@@ -1,15 +1,15 @@
 {
-  "version": "0.173.0",
-  "tag": "v0.173.0",
+  "version": "0.174.0",
+  "tag": "v0.174.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.173.0/ReptileShop-Windows-v0.173.0.zip",
-    "sizeBytes": 46373943,
-    "sha256": "7eaf3ffa6a8ad741a8a5b7583559d0459a35fe871c80f5ff886c49404306fc82"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.174.0/ReptileShop-Windows-v0.174.0.zip",
+    "sizeBytes": 46374972,
+    "sha256": "21f166d009dc35676df9e6e7f911974370b00f307016a499e294e54e8a266df7"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.173.0 - Fordubblings-tid-prognos och sentiment-fargade tal i Analytics. Kaskad-fade pa Controls-rader. Builder D (batch om 3)."
+  "notes": "Alpha v0.174.0 - Varde-spann och samsta ner-svit i Analytics. Display-panelen fadar in. Builder D (batch om 3)."
 }
