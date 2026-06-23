@@ -1,15 +1,15 @@
 {
-  "version": "0.160.0",
-  "tag": "v0.160.0",
+  "version": "0.161.0",
+  "tag": "v0.161.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.160.0/ReptileShop-Windows-v0.160.0.zip",
-    "sizeBytes": 46370289,
-    "sha256": "3b701bb5fc0f46f7bd442f744417dbac8bf4c6b84f94423c43f130ae8e33acc1"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.161.0/ReptileShop-Windows-v0.161.0.zip",
+    "sizeBytes": 46370808,
+    "sha256": "d85c60f1400f895e7c511738b4107337cf5b4ae4dc290afdf36d5363ade0ddb5"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.160.0 - Hover-highlight pa Home stat-kort. Konsekvent pluralisering (TextFormat.Plural) genom apparna. Builder D (batch om 3)."
+  "notes": "Alpha v0.161.0 - Median daglig forandring i Analytics. Nasta-vaderskifte-indikator i Forecast. Hover-highlight pa alla Home-kort. Builder D (batch om 3)."
 }

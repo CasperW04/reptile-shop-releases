@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.161.0] - 2026-06-23 — Alpha — "Median + nästa väderskifte 📊🔀"
+
+### Added (Builder D/Graphics)
+- **📊 Median daglig förändring i Analytics** — robust mittpunkts-mått vid sidan av snittet.
+- **🔀 Nästa-väderskifte-indikator i Forecast** — visar när vädret väntas slå om härnäst.
+- **✨ Hover-highlight på alla Home-kort** (via en gemensam `Card()`-hjälpare).
+
+### Tested
+- EditMode 1262/1262, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.160.0] - 2026-06-23 — Alpha — "Stat-hover + snyggare plural 🔤✨"
 
 ### Added (Builder D/Graphics)
