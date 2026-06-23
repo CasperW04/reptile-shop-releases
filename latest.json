@@ -1,15 +1,15 @@
 {
-  "version": "0.178.0",
-  "tag": "v0.178.0",
+  "version": "0.179.0",
+  "tag": "v0.179.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.178.0/ReptileShop-Windows-v0.178.0.zip",
-    "sizeBytes": 46376203,
-    "sha256": "2617d8898e1cd3be730a64f6dfe59bc321316982cc23816e6a2d4987eeed857f"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.179.0/ReptileShop-Windows-v0.179.0.zip",
+    "sizeBytes": 46376515,
+    "sha256": "6067aad3f4fb60e5e3a6a9211787f48b86c879bb390d8387dcad22e8927f9168"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.178.0 - Medel-formogenhet samt basta/samsta-dag-timing i Analytics. Low/high-tooltip pa Home-sparklinen. Builder D (batch om 4)."
+  "notes": "Alpha v0.179.0 - Drawdown-fran-topp och startvarde-rad i Analytics. Exakta belopp i Home-allokerings-tooltip. Builder D (batch om 3)."
 }
