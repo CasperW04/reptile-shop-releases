@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.167.0] - 2026-06-23 — Alpha — "Forecast-summering + notis-tooltip 🌤️💬"
+
+### Added (Builder D/Graphics)
+- **🌤️ Klara-dagar-räknare i Forecast-summeringen** + **✨ rader som kaskad-fadar in.**
+- **💬 Vänligare relativ-dag-tooltip på notis-rader** ("3 days ago" m.m.).
+
+### Tested
+- EditMode 1271/1271, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.166.0] - 2026-06-23 — Alpha — "Home-dygn + 6-dagars väder 🕑🌤️"
 
 ### Added (Builder D/Graphics)
