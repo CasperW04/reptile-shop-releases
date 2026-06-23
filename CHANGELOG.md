@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.168.0] - 2026-06-23 — Alpha — "Kaskad-fade + upp-dagar 📊✨"
+
+### Added (Builder D/Graphics)
+- **📊 Upp-dagar-andel i Analytics** — hur stor andel av dagarna som varit positiva.
+- **✨ Kaskad-fade på Customer Guide- & Notifications-rader** — rader tonar in en efter en.
+
+### Tested
+- EditMode 1272/1272, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.167.0] - 2026-06-23 — Alpha — "Forecast-summering + notis-tooltip 🌤️💬"
 
 ### Added (Builder D/Graphics)
