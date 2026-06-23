@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.172.0] - 2026-06-23 — Alpha — "Exakta tooltips + sektioner 💬📐"
+
+### Added (Builder D/Graphics)
+- **💬 Exakt high/low-tooltip i Analytics** + **exakt-belopp på Home-toppen** vid hovring.
+- **📐 Controls/feed-avdelare i Notifications.**
+
+### Tested
+- EditMode 1276/1276, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.171.0] - 2026-06-23 — Alpha — "Bästa-streak + sektioner 🔥📐"
 
 ### Added (Builder D/Graphics)
