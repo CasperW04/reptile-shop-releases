@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.175.0] - 2026-06-23 — Alpha — "Hero-accent + tier-tröskel 🎨💬"
+
+### Added (Builder D/Graphics)
+- **🎨 Hero-accent på Home net-worth-kortet** — startsidans nyckeltal lyfts fram visuellt.
+- **💬 Tier-tröskel-tooltip på Home** — hovra prestige-badgen för nästa nivås gräns.
+- **📐 Controls/cards-avdelare i Customer Guide.**
+
+### Tested
+- EditMode 1278/1278, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.174.0] - 2026-06-23 — Alpha — "Värde-spann + sämsta-svit 📏🥶"
 
 ### Added (Builder D/Graphics)

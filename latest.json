@@ -1,15 +1,15 @@
 {
-  "version": "0.174.0",
-  "tag": "v0.174.0",
+  "version": "0.175.0",
+  "tag": "v0.175.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.174.0/ReptileShop-Windows-v0.174.0.zip",
-    "sizeBytes": 46374972,
-    "sha256": "21f166d009dc35676df9e6e7f911974370b00f307016a499e294e54e8a266df7"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.175.0/ReptileShop-Windows-v0.175.0.zip",
+    "sizeBytes": 46375070,
+    "sha256": "a5c457180a17f832262ca1457a1acee3d63afb717f85c3dc6843d75dad056163"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.174.0 - Varde-spann och samsta ner-svit i Analytics. Display-panelen fadar in. Builder D (batch om 3)."
+  "notes": "Alpha v0.175.0 - Hero-accent pa Home net-worth-kortet. Tier-troskel-tooltip pa Home. Controls/cards-avdelare i Customer Guide. Builder D (batch om 3)."
 }
