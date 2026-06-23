@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.162.0] - 2026-06-23 — Alpha — "Swing, investerat & filter-räknare 📊💼"
+
+### Added (Builder D/Graphics)
+- **📊 Daglig swing-stat i Analytics** — visar dagens högsta/lägsta-spann.
+- **💼 Investerat-procent-rad i Analytics** — hur stor andel av förmögenheten som är placerad.
+- **🔢 "Showing N of M" i filtrerade Notifications** — tydligt filtrerings-antal.
+
+### Tested
+- EditMode 1265/1265, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.161.0] - 2026-06-23 — Alpha — "Median + nästa väderskifte 📊🔀"
 
 ### Added (Builder D/Graphics)
