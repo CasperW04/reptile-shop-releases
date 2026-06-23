@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.163.0] - 2026-06-23 — Alpha — "Filter-räknare överallt + Tips-fade 🔢✨"
+
+### Added (Builder D/Graphics)
+- **🔢 "Showing N of M" i filtrerade Controls & Customer Guide** — konsekvent filtrerings-antal i fler list-vyer.
+- **✨ Tips-kortet fadar in** när du bläddrar.
+
+### Tested
+- EditMode 1265/1265, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.162.0] - 2026-06-23 — Alpha — "Swing, investerat & filter-räknare 📊💼"
 
 ### Added (Builder D/Graphics)

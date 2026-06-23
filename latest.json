@@ -1,15 +1,15 @@
 {
-  "version": "0.162.0",
-  "tag": "v0.162.0",
+  "version": "0.163.0",
+  "tag": "v0.163.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.162.0/ReptileShop-Windows-v0.162.0.zip",
-    "sizeBytes": 46371223,
-    "sha256": "9426b3b61c3b94ff77f8905c04b3cf5323682b21ffe6b620d37517929cad2f46"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.163.0/ReptileShop-Windows-v0.163.0.zip",
+    "sizeBytes": 46371374,
+    "sha256": "7b403e74694c3d15757b16624bc6f3b2e66b9da7a10153ebe621d730802d39cb"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.162.0 - Daglig swing-stat och investerat-procent i Analytics. Showing N of M i filtrerade Notifications. Builder D (batch om 3)."
+  "notes": "Alpha v0.163.0 - Showing N of M i filtrerade Controls och Customer Guide. Tips-kortet fadar in vid bladdring. Builder D (batch om 3)."
 }
