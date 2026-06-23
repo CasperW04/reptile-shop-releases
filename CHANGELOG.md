@@ -15,6 +15,15 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.160.0] - 2026-06-23 — Alpha — "Stat-hover + snyggare plural 🔤✨"
+
+### Added (Builder D/Graphics)
+- **✨ Hover-highlight på Home stat-kort.**
+- **🔤 Konsekvent pluralisering** — ny `TextFormat.Plural`-hjälpare används genom Builder D:s appar ("1 day" / "2 days").
+
+### Tested
+- EditMode 1261/1261, PlayMode 188/188 på merged main (batch om 3; en Marketplace-test flaxade på I/O-kontention, grön vid omkörning).
+
 ## [0.159.0] - 2026-06-23 — Alpha — "Tier-firande + färgkodning 🎉🎨"
 
 ### Added (Builder D/Graphics)
