@@ -1,15 +1,15 @@
 {
-  "version": "0.175.0",
-  "tag": "v0.175.0",
+  "version": "0.176.0",
+  "tag": "v0.176.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.175.0/ReptileShop-Windows-v0.175.0.zip",
-    "sizeBytes": 46375070,
-    "sha256": "a5c457180a17f832262ca1457a1acee3d63afb717f85c3dc6843d75dad056163"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.176.0/ReptileShop-Windows-v0.176.0.zip",
+    "sizeBytes": 46375447,
+    "sha256": "ad6a8c86ce8366830c87f6d4a7f4725f04b8bd8371e974ea9d435df14181acbd"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.175.0 - Hero-accent pa Home net-worth-kortet. Tier-troskel-tooltip pa Home. Controls/cards-avdelare i Customer Guide. Builder D (batch om 3)."
+  "notes": "Alpha v0.176.0 - Net-worth count-up i Analytics. Exakt milstolpe-mal-tooltip pa Home. Kort/nav-avdelare i Tips. Builder D (batch om 3)."
 }
