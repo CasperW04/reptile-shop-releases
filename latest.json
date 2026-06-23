@@ -1,15 +1,15 @@
 {
-  "version": "0.176.0",
-  "tag": "v0.176.0",
+  "version": "0.177.0",
+  "tag": "v0.177.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.176.0/ReptileShop-Windows-v0.176.0.zip",
-    "sizeBytes": 46375447,
-    "sha256": "ad6a8c86ce8366830c87f6d4a7f4725f04b8bd8371e974ea9d435df14181acbd"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.177.0/ReptileShop-Windows-v0.177.0.zip",
+    "sizeBytes": 46375717,
+    "sha256": "6715265ab5fe82bbadaf09b11a3f3577c0ee98607cca4f83435c003eef7150c1"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.176.0 - Net-worth count-up i Analytics. Exakt milstolpe-mal-tooltip pa Home. Kort/nav-avdelare i Tips. Builder D (batch om 3)."
+  "notes": "Alpha v0.177.0 - Median-formogenhet och idag-vs-snitt-rad i Analytics. Slutforande-procent pa Onboarding. Builder D (batch om 3)."
 }
