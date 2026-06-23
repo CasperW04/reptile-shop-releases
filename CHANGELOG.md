@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.159.0] - 2026-06-23 — Alpha — "Tier-firande + färgkodning 🎉🎨"
+
+### Added (Builder D/Graphics)
+- **🎉 Tier-firande-rad + 🎨 tier-färgad badge på Home** — när du klättrar en prestige-nivå firas det med en rad, och badgen får nivåns färg.
+- **🗝️ Färgnyckel under Home asset-mix-baren** — legend som förklarar mix-stapelns färger.
+- **🎨 Färgkodad notis-räkning** — Notifications-tally färgas per typ.
+
+### Tested
+- EditMode 1259/1259, PlayMode 188/188 på merged main (batch om 4).
+
 ## [0.158.0] - 2026-06-23 — Alpha — "Home-mix + trend-ord + notis-räkning 🥧📈🧮"
 
 ### Added (Builder D/Graphics)

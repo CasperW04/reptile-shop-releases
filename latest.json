@@ -1,15 +1,15 @@
 {
-  "version": "0.158.0",
-  "tag": "v0.158.0",
+  "version": "0.159.0",
+  "tag": "v0.159.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.158.0/ReptileShop-Windows-v0.158.0.zip",
-    "sizeBytes": 46369102,
-    "sha256": "7b951615d9db4df56f02adfd19384f1f9d14e8d1e5fb22b07ab330137c8bd27c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.159.0/ReptileShop-Windows-v0.159.0.zip",
+    "sizeBytes": 46370089,
+    "sha256": "0888679d735e744b851bffe77ab667ef35eb3ca565297693320c7b516704e0bd"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.158.0 - Mini asset-mix-bar och trend-ord pa Home. Livstids-rakning per typ i Notifications. Builder D (batch om 3)."
+  "notes": "Alpha v0.159.0 - Tier-firande-rad och tier-fargad badge pa Home. Fargnyckel under asset-mix-baren. Fargkodad notis-rakning. Builder D (batch om 4)."
 }
