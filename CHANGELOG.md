@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.173.0] - 2026-06-23 — Alpha — "Fördubblings-tid + sentiment-färg ⏳🎨"
+
+### Added (Builder D/Graphics)
+- **⏳ Fördubblings-tid-prognos i Analytics** — uppskattar hur länge tills förmögenheten fördubblas.
+- **🎨 Sentiment-färgad momentum & upp-dagar** — grön/röd nyans efter om talet är positivt.
+- **✨ Kaskad-fade på Controls-rader.**
+
+### Tested
+- EditMode 1276/1276, PlayMode 188/188 på merged main (batch om 3).
+
 ## [0.172.0] - 2026-06-23 — Alpha — "Exakta tooltips + sektioner 💬📐"
 
 ### Added (Builder D/Graphics)

@@ -1,15 +1,15 @@
 {
-  "version": "0.172.0",
-  "tag": "v0.172.0",
+  "version": "0.173.0",
+  "tag": "v0.173.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.172.0/ReptileShop-Windows-v0.172.0.zip",
-    "sizeBytes": 46373941,
-    "sha256": "3f1fa40afaf11e5486147b4e62ff0dbb24eef12f58a7a17fe67aeb09d6aa956c"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.173.0/ReptileShop-Windows-v0.173.0.zip",
+    "sizeBytes": 46373943,
+    "sha256": "7eaf3ffa6a8ad741a8a5b7583559d0459a35fe871c80f5ff886c49404306fc82"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.172.0 - Exakt high/low-tooltip i Analytics och exakt-belopp pa Home-toppen. Controls/feed-avdelare i Notifications. Builder D (batch om 3)."
+  "notes": "Alpha v0.173.0 - Fordubblings-tid-prognos och sentiment-fargade tal i Analytics. Kaskad-fade pa Controls-rader. Builder D (batch om 3)."
 }
