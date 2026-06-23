@@ -15,6 +15,16 @@ hämtar från release-kanalen (`CasperW04/reptile-shop-releases`).
 - Leveranslådor med uppackning samt kontant-/växel-moment i kassan.
 - Fler arter och resale av tillbehör utöver djur.
 
+## [0.178.0] - 2026-06-23 — Alpha — "Snitt + bästa/sämsta dag 📊🔼🔽"
+
+### Added (Builder D/Graphics)
+- **📊 Medel-förmögenhet i Analytics.**
+- **🔼🔽 Bästa- & sämsta-dag-timing i Analytics** — när dina topp- och bottendagar inträffade.
+- **💬 Low/high-tooltip på Home-sparklinen** — hovra mini-grafen för dess spann.
+
+### Tested
+- EditMode 1283/1283, PlayMode 188/188 på merged main (batch om 4).
+
 ## [0.177.0] - 2026-06-23 — Alpha — "Median + idag-vs-snitt 📊"
 
 ### Added (Builder D/Graphics)
