@@ -1,15 +1,15 @@
 {
-  "version": "0.179.0",
-  "tag": "v0.179.0",
+  "version": "0.180.0",
+  "tag": "v0.180.0",
   "channel": "alpha",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
   "releasedAt": "2026-06-20",
   "windows": {
-    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.179.0/ReptileShop-Windows-v0.179.0.zip",
-    "sizeBytes": 46376515,
-    "sha256": "6067aad3f4fb60e5e3a6a9211787f48b86c879bb390d8387dcad22e8927f9168"
+    "url": "https://github.com/CasperW04/reptile-shop-releases/releases/download/v0.180.0/ReptileShop-Windows-v0.180.0.zip",
+    "sizeBytes": 46376802,
+    "sha256": "fe5f249518acaeaaa6d089a59374c8c99eab8d94a654e73000d1d5df961a5b79"
   },
   "notesUrl": "https://github.com/CasperW04/reptile-shop-releases/blob/main/CHANGELOG.md",
-  "notes": "Alpha v0.179.0 - Drawdown-fran-topp och startvarde-rad i Analytics. Exakta belopp i Home-allokerings-tooltip. Builder D (batch om 3)."
+  "notes": "Alpha v0.180.0 - Netto-vinst-sedan-start, nuvarande-vs-snitt och upp/ner-dag-rakning i Analytics. Builder D (batch om 3)."
 }
